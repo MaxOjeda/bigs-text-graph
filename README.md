@@ -79,8 +79,8 @@ python run_bigs_experiments.py
 | Collection    |  Folder name | Manuscript symbols       |
 | ------------- | ------------------ | ------------------- |
 | Lonquen       | `lonquen`          | \$Text\_A\$, \$G\_A\$ |
-| 20\_docs      | `20_docs`          | \$Text\_B\$, \$G\_B\$ |
-| San Gregorio  | `san_gregorio`     | \$Text\_C\$, \$G\_C\$ |
+| San Gregorio  | `san_gregorio`     | \$Text\_B\$, \$G\_B\$ |
+| 20\_docs      | `20_docs`          | \$Text\_C\$, \$G\_C\$ |
 
 
 ## 3 · Re-create experiments
