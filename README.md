@@ -3,7 +3,7 @@
 
 ## 1 · Quick start
 
-```bash
+```Bash
 # clone repo
 git clone <repo-url> bigs && cd bigs
 
@@ -17,7 +17,7 @@ export OPENAI_API_KEY="sk-..."
 
 # run the full metric grid (≈ 15 min CPU)
 python run_bigs_experiments.py
-
+```
 ## 2 · Project Structure (1-Depth)
 ```Bash
 .
@@ -46,7 +46,7 @@ python run_bigs_experiments.py
 ```
 
 ## 3 · Re-create experiments
-
+```Bash
 # 1) textualise graphs (triple level) — example for lonquen
 python graph_textualization.py --case lonquen \
        --folders original langchain original_res
@@ -65,3 +65,4 @@ python run_bigs_experiments.py
 # 5) compute BIGS on benchmarks
 python bigs_bench.py --bench webwiki --split test
 python bigs_bench.py --bench webnlg  --split train
+```
