@@ -1,0 +1,5494 @@
+{
+  "nodes": [
+    {
+      "id": "Base A\u00e9rea Los C\u00f3ndores",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Alto Hospicio",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Erick Otto Frederich Claussen Sparenberg",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Servicio De Inteligencia De La Fuerza A\u00e9rea",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Fuerza A\u00e9rea",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Rettig",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Memoriaviva",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Centros De Detenci\u00f3n Y Tortura Durante La Dictadura Militar",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "El Ciudadano",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Campamento De Prisioneros De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel Buen Pastor De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel P\u00fablica De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cire",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Grober Hugo Venegas Islas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Patricio Padilla Villar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Vignolo Quezada",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Avenida Diego Portales Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Valle De Azapa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Augusto Pinochet Ugarte",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Georgina Del Carmen Inostroza Valencia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Poder Judicial",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rotonda Camino Azapa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Grober Hugo Venegas Islas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cire",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Valle De Azapa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Avenida Diego Portales",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros De Tarapac\u00e1",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Tarapac\u00e1",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Rama",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gustavo San Mart\u00edn",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enzo Meniconi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Blas Barraza Quintero",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Froil\u00e1n Moncada S\u00e1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Ricardo Salgado Torres",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Congregaci\u00f3n Salesiana",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Rettig",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Memoriaviva",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Corte Suprema De Justicia",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Plaza Brasil",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Daniel Calvo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nicanor Herrera",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Sironvalles Buteler",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Sacerdote Poblete",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Seminarista Salgado",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Colegio Juan Bosco",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Reverendo Padre Gerardo Poblete Fern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "La Izquierda Cristiana",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Fernando Astudillo Becerra",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "H\u00e9ctor Soto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Kamila Morgado",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jocelyn Soto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Rama De Carabineros",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Juan Antonio Mu\u00f1oz Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Blas Barraza Quiroga",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Ren\u00e9 Valdivia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros No1 De Arica",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros No3 De Arica",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Servicio De Inteligencia De Carabineros",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Atiliano Hern\u00e1ndez Hern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Corte Suprema",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Elmostrador.Cl",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Dictadura En Arica",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Naciones Unidas",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Oficina Salitrera Victoria",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros Oficina Victoria",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros Pozo Almonte",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Pozo Almonte",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Cuartel De Investigaciones De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calle Barros Arana Y Calle O'Higgins",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Luis Fernando Rojas Valenzuela",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Calder\u00f3n Villal\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Guzm\u00e1n Fuentes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Alberto Lizardi Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nolberto Ca\u00f1as Ca\u00f1as",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jim\u00e9nez Vidal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Michel Salim Nash S\u00e1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jorge Mar\u00edn Rossel",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Williams Millar Sanhueza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pedro Prado Ortiz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Heriberto Araya Zavala",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Patricio Aylwin",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Carroza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hern\u00e1n S\u00e1nchez Marr\u00e9",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "M\u00f3nica Olivares",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Fresno",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Dictadura En Iquique Y Pisagua",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Vicar\u00eda De La Solidaridad",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Mario Acu\u00f1a",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Forestier Haensen",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas Gacit\u00faa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 C\u00f3rdova Croxato",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris Barrios",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia Hinojosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gerardo Poblete",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Fuenzalida Fernandez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Antonio Ruz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Sampson Ocaranza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Taberna Gallegos",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "German Palominos Lamas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Isaias Higueras Z\u00fa\u00f1iga",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Marquez Augusto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Orlando Cabello Cabello",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nicolas Chanez Chanez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Mamani Garcia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Manriquez Wilden",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hugo Martinez Guillen",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Rojas Osega",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alberto Y\u00e1\u00f1ez Carvajal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Toro Castillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Henry Torres Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Sanhueza Mellado",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Marcelino Lamas Largo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Avenida Salvador Allende",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Pedro Prado Ortiz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario D\u00edaz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Felipe Arenas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Jorge Rogelio Mar\u00edn Rossel",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "William Robert Millar Sanhueza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Salom\u00e9 Castillo Parraga",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Regimiento De Telecomunicaciones De Iquique",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Rettig",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Edici\u00f3n Cero",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Luis Emilio Recabarren",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cuartel De Investigaciones De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calle Angamos N\u00ba 990-998 Arica I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Georgina Del Carmen Inostroza Valencia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Grober Hugo Venegas Islas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Augusto Pinochet Ugarte",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Patricio Padilla Villar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Lautaro Vignolo Quezada",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Araya Zavala",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Informe Rettig",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Regimiento Rancagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Centro De Inteligencia Regional (Cire)",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe De La Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Causa Rol N\u00ba 51.925-1 Caso Grober Hugo Venegas Islas",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Grober Hugo Venegas Islas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cire",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Avenida Diego Portales",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Valle De Azapa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Patricio Padilla Villar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Vignolo Quezada",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Corte De Apelaciones De Arica",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito De Chile",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Polic\u00eda De Investigaciones De Arica",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "El Supermercado",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Mercado",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Teatro Municipal",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ex-C\u00e1rcel P\u00fablica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Huara",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Tarapac\u00e1",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Gabriel Gonz\u00e1lez Videla",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Ib\u00e1\u00f1ez Del Campo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "R\u00e9gimen Militar",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Bravo Ram\u00edrez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Emilio Morales Marino",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson M\u00e1rquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas Gacit\u00faa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia Hinojosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 C\u00f3rdova Croxato",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Taberna",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Sampson Ocaranza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Fuenzalida",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Base A\u00e9rea Los C\u00f3ndores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Campamento De Prisioneros De Pisagua",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel Buen Pastor De Iquique",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel P\u00fablica De Arica",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Industria Abandonada Frente A La Ex Citroen",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Campamento/Camping Las Machas",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "El Ciudadano",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Base A\u00e9rea Los C\u00f3ndores",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Campamento De Prisioneros De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel Buen Pastor De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel P\u00fablica De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Luis A. Lizardi Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo O. Guzm\u00e1n Fuentes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nolberto Jes\u00fas Ca\u00f1as",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Michel Selim Nash Saez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Calder\u00f3n Villal\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jim\u00e9nez Vidal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio C. Cabezas Gacit\u00faa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 R. C\u00f3rdova Croxato",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia Hinojosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris Barrios",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Taberna Gallegos",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Sampson Ocaranza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan A. Ruz D\u00edaz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Fuenzalida Fern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Germ\u00e1n Palominos Lamas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Higuera",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson M\u00e1rquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Toro Castillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alberto Ya\u00f1ez Carvajal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Sanhueza Mellado",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelino Lamas Largo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Decreto De Ley N\u00b04",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Zona En Estado De Emergencia",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "1973",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Puerto Libre",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Luis Pino Soto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Iglesia Del Carmen",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Armaged\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Pilo Durana",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gobierno De Pi\u00f1era",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Dina",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Detenciones",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Campamento De Prisioneros De Pisagua",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Sexta Divisi\u00f3n Del Ej\u00e9rcito",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Nelson M\u00e1rquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Orlando Tom\u00e1s Cabello Cabello",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nicol\u00e1s Chanez Chanez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Mamani Garcia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis An\u00edbal Manriquez Wilden",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hugo Tom\u00e1s Martinez Guillen",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Rojas Osega",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas Gacitua",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Cordova Croxatto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris Barrios",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia Hinojosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Jacinto Fuenzalida Fernandez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Antonio Ruz Diaz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Dem\u00f3stenes Rosier Sampson Ocaranza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Marcelo Taberba Gallegos",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Germ\u00e1n Eladio Palominos Lamas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Alarc\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nolberto Ca\u00f1as",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Guzm\u00e1n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Michel Nash",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jim\u00e9nez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Teniente Coronel Ram\u00f3n Larrain Larrain",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "General De Brigada Carlos Forestier Haensgen",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Acu\u00f1a Riquelme",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mayor Pl\u00e1cido Mu\u00f1oz Fa\u00fandez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Teniente Portales",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Informe Rettig",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Revista An\u00e1lisis",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Larra\u00edn",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Prisioneros",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pelot\u00f3n De Fusilamiento",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 C\u00f3rdova",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jini Arancibia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Taberna",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pedro Arancibia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alberto Newmann",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Francisco Prieto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Vila",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Haroldo Quinteros",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Felipe Valenzuela",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pinochet",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Instituto M\u00e9dico Legal De Iquique",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cementerio De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Vicar\u00eda De La Solidaridad",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Alberto Neumann Lagos",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Patricio Aylwin",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Francisco Prieto Enr\u00edquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comandante Larra\u00edn",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Alarc\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nolberto Ca\u00f1as",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Guzm\u00e1n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Michel Nash",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jim\u00e9nez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 C\u00f3rdova",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Humberto Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Forestier",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Acu\u00f1a",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Augusto Pinochet",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jorge Chino Navarrete",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Universidad De Chile",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Universidad Arturo Prat",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Juana Torres",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Claudio Nash",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "\u00d3scar Varela",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Ram\u00edrez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jaime Coronil",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cementerio De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calama",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Campo De Concentraci\u00f3n De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Guerra Civil De 1891",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n De Verdad Y Reconciliaci\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Revista An\u00e1lisis",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Enrique",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "F\u00e9lix Morales Cort\u00e9s",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Angel Veas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pinochet",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "H\u00e9ctor Taberna",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Mu\u00f1oz Orellana",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Obispo Javier Prado Ar\u00e1nguiz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Michel Nash S\u00e1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jes\u00fas Ca\u00f1as Ca\u00f1as",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jim\u00e9nez Vidal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Guzm\u00e1n Fuentes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Calder\u00f3n Villal\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Lizardi Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Julio Cabezas Gacit\u00faa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 C\u00f3rdova Croxato",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Morris Barrios",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Valencia Hinojosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mario Carroza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Benavides Villarreal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Vega Collao",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Roberto Ampuero Alarc\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gabriel Guerrero Reeve",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Arturo Contador Rosales",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Figueroa L\u00f3pez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Miguel Aguirre \u00c1lvarez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Gonz\u00e1lez Videla",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Anselmo Blanlot",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Freddy Taberna",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Sampson Ocaranza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Antonio Ruz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Fuenzalida",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Lizardi",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Fosa Com\u00fan De Pisagua",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Vicar\u00eda De La Solidaridad",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Campamento De Prisioneros De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Augusto Pinochet",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Grupo Proceso",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Andr\u00e9s Vargas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel Buen Pastor De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Luis Cruz Mart\u00ednez N\u00ba 1260",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Gendarmer\u00eda",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel De Mujeres Buen Pastor",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Col\u00f3n N\u00ba 30",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Dina",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Dictadura En Arica",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel P\u00fablica De Arica",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n Valech",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Gendarmer\u00eda",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Calle Baquedano N\u00ba 1",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Poblaci\u00f3n El Morro",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calle Col\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calle Patricio Lynch",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Dictadura",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Decreto De Ley N\u00b04",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Puerto Libre",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Luis Pino Soto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Iglesia Del Carmen",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Grupo Armaged\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Senador Udi Pilo Durana",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gobierno De Pi\u00f1era",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Dina",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Campamento/Camping Las Machas",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel Anexa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel De Mujeres Buen Pastor De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Casa De Seguridad De La Dina/Cni Carrera Pinto",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros Carlos Dittborn",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros De Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Carabineros N\u00ba 3",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cuartel De Investigaciones",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Industria Abandonada",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Inmueble En Avenida Santa Mar\u00eda 2936",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Loteo Tarapac\u00e1 Oriente",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Prefectura De Carabineros",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Recinto Cni Calle Azola",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Recinto Cni Camino A Azapa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Recinto Dina En Calle Diego Portales",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Regimiento Motorizado Reforzado N\u00ba 4 Rancagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel P\u00fablica De Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calle Wilson N\u00b0 281",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "I Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Informe Valech",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Dictadura En Arica",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Pablo Durana",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Luis Pino Soto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carcel_Publica_De_Pisagua",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gendarmeria",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Iquique",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Gabriel_Gonzalez_Videla",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos_Ibanez_Del_Campo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Augusto_Pinochet",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Informe_Rettig",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Hotel_De_Pisagua",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comision_Nacional_De_Verdad_Y_Reconciliacion",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Teatro_Municipal",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mercado",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Multicancha_Deportiva",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Escuela",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Fosa",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Campamento_De_Prisioneros",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Personas Golpeadas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Interrogatorios",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "C\u00e1rcel De Pisagua",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Regimiento Chorrillos De Talca",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Dina Villa Grimaldi",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Tortura",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Lesiones Corporales Deliberadas",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "M\u00e9todos De Tortura",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Quemaduras",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Colgamientos",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Dina Villa Grimaldi",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cuartel General De Investigaciones",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n De Tortura",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Fiscal\u00eda Militar De Osorno",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Escuela De Artiller\u00eda De Linares",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda De Curanilahue",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Dina",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Cni",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Fuerte M\u00fcller De Infanter\u00eda De Marina De Las Salinas",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Diciembre De 1983",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Septiembre De 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Octubre De 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Abril De 1974",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Agosto De 1984",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Octubre De 1985",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Octubre De 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Infantes",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Comandos Entrenados En Panam\u00e1",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Hombre",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Agosto De 1974",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Primera Comisar\u00eda De Carabineros De Calama",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Calama",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Mujer",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enero De 1975",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Dina Villa Grimaldi",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Simulacro De Fusilamiento",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "11 De Septiembre De 1973",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "R\u00e9gimen Militar",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Xi Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Campo De Prisioneros Chacabuco",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ii Regi\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Iglesia La Providencia",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Antofagasta",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido En Julio De 1980",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Fusilamiento",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Personas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mujeres Detenidas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Varones",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Menores De Edad",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Victimas De Tortura",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Junio 1975",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Diciembre 1975",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mujer Detenida Enero 1979",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Diciembre 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Agosto 1974",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Mayo 1980",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Mujer Detenida Septiembre 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Octubre 1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Septiembre 1973 Isla Quiriquina",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre Detenido Septiembre 1973 Base A\u00e9rea Cerro Moreno",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jaula_De_Alambre_De_P\u00faa",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Desierto",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisi\u00f3n_Nacional_Sobre_Prisi\u00f3n_Pol\u00edtica_Y_Tortura",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Calabozo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Regimiento_Arica",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Destacamento_De_Infanter\u00eda_De_Marina_N\u00b0_4_Cochrane",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Comisar\u00eda_De_Salamanca",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Ret\u00e9n_De_Carabineros_De_Valdivia",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Estadio_Regional_De_Concepci\u00f3n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Fuerte_Borgo\u00f1o",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Campo_De_Prisioneros_Chacabuco",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Grupo_De_Instrucci\u00f3n_De_Carabineros",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Septiembre_1973_1",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Septiembre_1973_2",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Septiembre_1973_3",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Septiembre_1973_4",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Mayo_1974",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Noviembre_1973",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Junio_1974",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Hombre_Detenido_Enero_1974",
+      "type": "Individual",
+      "properties": {}
+    }
+  ],
+  "edges": [
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Alto Hospicio",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Iquique",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Servicio De Inteligencia De La Fuerza A\u00e9rea",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Servicio De Inteligencia De La Fuerza A\u00e9rea",
+      "target": "Fuerza A\u00e9rea",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Erick Otto Frederich Claussen Sparenberg",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Informe Rettig",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Informe Valech",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Memoriaviva",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Centros De Detenci\u00f3n Y Tortura Durante La Dictadura Militar",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "El Ciudadano",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Avenida Diego Portales Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Grober Hugo Venegas Islas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Patricio Padilla Villar",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Jos\u00e9 Vignolo Quezada",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Augusto Pinochet Ugarte",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Georgina Del Carmen Inostroza Valencia",
+      "target": "Grober Hugo Venegas Islas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "target": "Patricio Padilla Villar",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "target": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "target": "Jos\u00e9 Vignolo Quezada",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Poder Judicial",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Rotonda Camino Azapa",
+      "target": "Cire",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Cire",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Valle De Azapa",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Avenida Diego Portales",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Valle De Azapa",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros De Tarapac\u00e1",
+      "target": "Tarapac\u00e1",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros De Tarapac\u00e1",
+      "target": "Rama",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros De Tarapac\u00e1",
+      "target": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gerardo Poblete Fern\u00e1ndez",
+      "target": "Gustavo San Mart\u00edn",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gerardo Poblete Fern\u00e1ndez",
+      "target": "Enzo Meniconi",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gerardo Poblete Fern\u00e1ndez",
+      "target": "Blas Barraza Quintero",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gerardo Poblete Fern\u00e1ndez",
+      "target": "Froil\u00e1n Moncada S\u00e1ez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gerardo Poblete Fern\u00e1ndez",
+      "target": "Ricardo Salgado Torres",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gustavo San Mart\u00edn",
+      "target": "Enzo Meniconi",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Congregaci\u00f3n Salesiana",
+      "target": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Informe Rettig",
+      "target": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema De Justicia",
+      "target": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Plaza Brasil",
+      "target": "Gerardo Poblete Fern\u00e1ndez",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Tarapac\u00e1",
+      "target": "Iquique",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Daniel Calvo",
+      "target": "Gustavo San Mart\u00edn",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nicanor Herrera",
+      "target": "Alumnos De Iquique",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Sironvalles Buteler",
+      "target": "Comisar\u00eda De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Sacerdote Poblete",
+      "target": "Comisar\u00eda De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Seminarista Salgado",
+      "target": "Comisar\u00eda De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Sacerdote Poblete",
+      "target": "Colegio Juan Bosco",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Seminarista Salgado",
+      "target": "Colegio Juan Bosco",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Reverendo Padre Gerardo Poblete Fern\u00e1ndez",
+      "target": "La Izquierda Cristiana",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Fernando Astudillo Becerra",
+      "target": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "H\u00e9ctor Soto",
+      "target": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Humberto Gonz\u00e1lez",
+      "target": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Kamila Morgado",
+      "target": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Jocelyn Soto",
+      "target": "Direcci\u00f3n Nacional De La Izquierda Cristiana De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "target": "Iquique",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "target": "Rama De Carabineros",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Juan Antonio Mu\u00f1oz Mu\u00f1oz",
+      "target": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Blas Barraza Quiroga",
+      "target": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Ren\u00e9 Valdivia",
+      "target": "Comisar\u00eda De Carabineros No1 De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No1 De Arica",
+      "target": "Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No1 De Arica",
+      "target": "Rama De Carabineros",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No3 De Arica",
+      "target": "Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros No3 De Arica",
+      "target": "Servicio De Inteligencia De Carabineros",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Atiliano Hern\u00e1ndez Hern\u00e1ndez",
+      "target": "Corte Suprema",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Elmostrador.Cl",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Naciones Unidas",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros Oficina Victoria",
+      "target": "Oficina Salitrera Victoria",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros Oficina Victoria",
+      "target": "Informe Valech",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros Pozo Almonte",
+      "target": "Pozo Almonte",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda De Carabineros Pozo Almonte",
+      "target": "Informe Valech",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cuartel De Investigaciones De Iquique",
+      "target": "Calle Barros Arana Y Calle O'Higgins",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cuartel De Investigaciones De Iquique",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cuartel De Investigaciones De Iquique",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Luis Fernando Rojas Valenzuela",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Calder\u00f3n Villal\u00f3n",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marcelo Guzm\u00e1n Fuentes",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Alberto Lizardi Lizardi",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nolberto Ca\u00f1as Ca\u00f1as",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jim\u00e9nez Vidal",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Michel Salim Nash S\u00e1ez",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jorge Mar\u00edn Rossel",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Williams Millar Sanhueza",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pedro Prado Ortiz",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Manuel Heriberto Araya Zavala",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Informe Valech",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Patricio Aylwin",
+      "target": "Corpora Ci \u00d3n Nacional De Reparaci\u00f3n Y Reconciliaci\u00f3n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Carroza",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hern\u00e1n S\u00e1nchez Marr\u00e9",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nelson Mu\u00f1oz",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "M\u00f3nica Olivares",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Fresno",
+      "target": "Dictadura En Iquique Y Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Mario Acu\u00f1a",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Julio Cabezas Gacit\u00faa",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Jos\u00e9 C\u00f3rdova Croxato",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Humberto Lizardi Flores",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Mario Morris Barrios",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Juan Valencia Hinojosa",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Carlos Forestier Haensen",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Gerardo Poblete",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Rodolfo Fuenzalida Fernandez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Juan Antonio Ruz",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Jos\u00e9 Sampson Ocaranza",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Freddy Taberna Gallegos",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "German Palominos Lamas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Isaias Higueras Z\u00fa\u00f1iga",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Nelson Marquez Augusto",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Orlando Cabello Cabello",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Nicolas Chanez Chanez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Juan Mamani Garcia",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Luis Manriquez Wilden",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Hugo Martinez Guillen",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Juan Rojas Osega",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Alberto Y\u00e1\u00f1ez Carvajal",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Luis Toro Castillo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Henry Torres Flores",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Manuel Sanhueza Mellado",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marcelino Lamas Largo",
+      "target": "Ej\u00e9rcito",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marcelino Lamas Largo",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Iquique",
+      "target": "Avenida Salvador Allende",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Avenida Salvador Allende",
+      "target": "Pedro Prado Ortiz",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario D\u00edaz",
+      "target": "Pedro Prado Ortiz",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Felipe Arenas",
+      "target": "Avenida Salvador Allende",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "target": "Pedro Prado Ortiz",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jorge Rogelio Mar\u00edn Rossel",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "William Robert Millar Sanhueza",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Salom\u00e9 Castillo Parraga",
+      "target": "Jorge Rogelio Mar\u00edn Rossel",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Regimiento De Telecomunicaciones De Iquique",
+      "target": "Jorge Rogelio Mar\u00edn Rossel",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Regimiento De Telecomunicaciones De Iquique",
+      "target": "William Robert Millar Sanhueza",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pedro Prado Ortiz",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Informe Rettig",
+      "target": "Pedro Prado Ortiz",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Edici\u00f3n Cero",
+      "target": "Pedro Prado Ortiz",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Emilio Recabarren",
+      "target": "Avenida Salvador Allende",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cuartel De Investigaciones De Arica",
+      "target": "Calle Angamos N\u00ba 990-998 Arica I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Georgina Del Carmen Inostroza Valencia",
+      "target": "Grober Hugo Venegas Islas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Augusto Pinochet Ugarte",
+      "target": "Causa Rol N\u00ba 51.925-1 Caso Grober Hugo Venegas Islas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Informe Valech",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Informe De La Comisi\u00f3n Nacional De Verdad Y Reconciliaci\u00f3n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "target": "Centro De Inteligencia Regional (Cire)",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Patricio Padilla Villar",
+      "target": "Centro De Inteligencia Regional (Cire)",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Lautaro Vignolo Quezada",
+      "target": "Centro De Inteligencia Regional (Cire)",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Manuel Araya Zavala",
+      "target": "Informe Rettig",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Regimiento Rancagua",
+      "target": "Cuartel De Investigaciones De Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Cire",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Avenida Diego Portales",
+      "type": "OCCURSAT",
+      "properties": {}
+    },
+    {
+      "source": "Cire",
+      "target": "Valle De Azapa",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Patricio Padilla Villar",
+      "target": "Corte De Apelaciones De Arica",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Luis Catal\u00e1n Reyes",
+      "target": "Corte De Apelaciones De Arica",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Vignolo Quezada",
+      "target": "Corte De Apelaciones De Arica",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Rodrigo Olavarr\u00eda Rodr\u00edguez",
+      "target": "Corte De Apelaciones De Arica",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Polic\u00eda De Investigaciones De Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Grober Hugo Venegas Islas",
+      "target": "Ej\u00e9rcito De Chile",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "El Supermercado",
+      "target": "Teatro Municipal",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mercado",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Teatro Municipal",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Ex-C\u00e1rcel P\u00fablica",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Huara",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Tarapac\u00e1",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Gabriel Gonz\u00e1lez Videla",
+      "target": "R\u00e9gimen Militar",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Ib\u00e1\u00f1ez Del Campo",
+      "target": "R\u00e9gimen Militar",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Nelson Bravo Ram\u00edrez",
+      "target": "Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis Emilio Morales Marino",
+      "target": "Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "target": "Iquique",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "target": "I Regi\u00f3n",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "target": "Ej\u00e9rcito",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Iquique",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "I Regi\u00f3n",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "Iquique",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Industria Abandonada Frente A La Ex Citroen",
+      "target": "Arica",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Cni",
+      "target": "Industria Abandonada Frente A La Ex Citroen",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Campamento/Camping Las Machas",
+      "target": "Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento/Camping Las Machas",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento/Camping Las Machas",
+      "target": "Ej\u00e9rcito",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Campamento/Camping Las Machas",
+      "target": "Informe Valech",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campamento/Camping Las Machas",
+      "target": "El Ciudadano",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Base A\u00e9rea Los C\u00f3ndores",
+      "target": "Ej\u00e9rcito",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Batall\u00f3n Log\u00edstico N\u00b0 6 Pisagua",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Ej\u00e9rcito",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Luis A. Lizardi Lizardi",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Marcelo O. Guzm\u00e1n Fuentes",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Nolberto Jes\u00fas Ca\u00f1as",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Michel Selim Nash Saez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Calder\u00f3n Villal\u00f3n",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jim\u00e9nez Vidal",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Julio C. Cabezas Gacit\u00faa",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 R. C\u00f3rdova Croxato",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Valencia Hinojosa",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Mario Morris Barrios",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Humberto Lizardi Flores",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Freddy Taberna Gallegos",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Sampson Ocaranza",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan A. Ruz D\u00edaz",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Rodolfo Fuenzalida Fern\u00e1ndez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Germ\u00e1n Palominos Lamas",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis Higuera",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Nelson M\u00e1rquez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis Toro Castillo",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Alberto Ya\u00f1ez Carvajal",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Manuel Sanhueza Mellado",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Marcelino Lamas Largo",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Arica",
+      "target": "Decreto De Ley N\u00b04",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Decreto De Ley N\u00b04",
+      "target": "Zona En Estado De Emergencia",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Zona En Estado De Emergencia",
+      "target": "1973",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Puerto Libre",
+      "target": "Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Pino Soto",
+      "target": "Detenciones",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Iglesia Del Carmen",
+      "target": "Armaged\u00f3n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Armaged\u00f3n",
+      "target": "Pilo Durana",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pilo Durana",
+      "target": "Gobierno De Pi\u00f1era",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dina",
+      "target": "Detenciones",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cni",
+      "target": "Detenciones",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Pisagua",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Ej\u00e9rcito",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Sexta Divisi\u00f3n Del Ej\u00e9rcito",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Informe Valech",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nelson M\u00e1rquez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Orlando Tom\u00e1s Cabello Cabello",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Nicol\u00e1s Chanez Chanez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Mamani Garcia",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis An\u00edbal Manriquez Wilden",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hugo Tom\u00e1s Martinez Guillen",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Rojas Osega",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Julio Cabezas Gacitua",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Cordova Croxatto",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Humberto Lizardi Flores",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Mario Morris Barrios",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Valencia Hinojosa",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Rodolfo Jacinto Fuenzalida Fernandez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Antonio Ruz Diaz",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Dem\u00f3stenes Rosier Sampson Ocaranza",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Freddy Marcelo Taberba Gallegos",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Germ\u00e1n Eladio Palominos Lamas",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Alarc\u00f3n",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Nolberto Ca\u00f1as",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Marcelo Guzm\u00e1n",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Michel Nash",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis Lizardi",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jim\u00e9nez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Teniente Coronel Ram\u00f3n Larrain Larrain",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "General De Brigada Carlos Forestier Haensgen",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a Riquelme",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Mayor Pl\u00e1cido Mu\u00f1oz Fa\u00fandez",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Teniente Portales",
+      "target": "Campamento De Prisioneros De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Larra\u00edn",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Larra\u00edn",
+      "target": "Prisioneros",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Valencia",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Humberto Lizardi",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Morris",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 C\u00f3rdova",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Julio Cabezas",
+      "target": "Pelot\u00f3n De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jini Arancibia",
+      "target": "Freddy Taberna",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pedro Arancibia",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Alberto Newmann",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Francisco Prieto",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Vila",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Haroldo Quinteros",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Felipe Valenzuela",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Nelson Mu\u00f1oz",
+      "target": "Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Pinochet",
+      "target": "Cni",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Instituto M\u00e9dico Legal De Iquique",
+      "target": "Prisioneros",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cementerio De Pisagua",
+      "target": "Prisioneros",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Vicar\u00eda De La Solidaridad",
+      "target": "Alberto Neumann Lagos",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Vicar\u00eda De La Solidaridad",
+      "target": "Patricio Aylwin",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Francisco Prieto Enr\u00edquez",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comandante Larra\u00edn",
+      "target": "Campo De Concentraci\u00f3n De Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Juan Alarc\u00f3n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Nolberto Ca\u00f1as",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Marcelo Guzm\u00e1n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Michel Nash",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Luis Lizardi",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Juan Jim\u00e9nez",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Jos\u00e9 C\u00f3rdova",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Humberto Lizardi",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Mario Morris",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Julio Cabezas",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Concentraci\u00f3n De Pisagua",
+      "target": "Juan Valencia",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comandante Larra\u00edn",
+      "target": "Carlos Forestier",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Acu\u00f1a",
+      "target": "Julio Cabezas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Augusto Pinochet",
+      "target": "Comisi\u00f3n De Verdad Y Reconciliaci\u00f3n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jorge Chino Navarrete",
+      "target": "Campo De Concentraci\u00f3n De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Universidad De Chile",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Universidad Arturo Prat",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Juana Torres",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Claudio Nash",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "\u00d3scar Varela",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Juan Ram\u00edrez",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Pisagua",
+      "target": "Jaime Coronil",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Guerra Civil De 1891",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Revista An\u00e1lisis",
+      "target": "Francisco Prieto Enr\u00edquez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Enrique",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "F\u00e9lix Morales Cort\u00e9s",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Angel Veas",
+      "target": "Iquique",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pinochet",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "H\u00e9ctor Taberna",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Mu\u00f1oz Orellana",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Obispo Javier Prado Ar\u00e1nguiz",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Michel Nash S\u00e1ez",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jes\u00fas Ca\u00f1as Ca\u00f1as",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jim\u00e9nez Vidal",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marcelo Guzm\u00e1n Fuentes",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Calder\u00f3n Villal\u00f3n",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Lizardi Lizardi",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Julio Cabezas Gacit\u00faa",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 C\u00f3rdova Croxato",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Morris Barrios",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Valencia Hinojosa",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mario Carroza",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Sergio Benavides Villarreal",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Manuel Vega Collao",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Roberto Ampuero Alarc\u00f3n",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gabriel Guerrero Reeve",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Arturo Contador Rosales",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Sergio Figueroa L\u00f3pez",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Miguel Aguirre \u00c1lvarez",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gonz\u00e1lez Videla",
+      "target": "Iquique",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Anselmo Blanlot",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Freddy Taberna",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Sampson Ocaranza",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Antonio Ruz",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Rodolfo Fuenzalida",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Lizardi",
+      "target": "Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Vicar\u00eda De La Solidaridad",
+      "target": "Fosa Com\u00fan De Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Campamento De Prisioneros De Pisagua",
+      "target": "Fosa Com\u00fan De Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Augusto Pinochet",
+      "target": "Fosa Com\u00fan De Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Grupo Proceso",
+      "target": "Fosa Com\u00fan De Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Andr\u00e9s Vargas",
+      "target": "Grupo Proceso",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Fosa Com\u00fan De Pisagua",
+      "target": "Detenidos Desaparecidos",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "Luis Cruz Mart\u00ednez N\u00ba 1260",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel Buen Pastor De Iquique",
+      "target": "Gendarmer\u00eda",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel De Mujeres Buen Pastor",
+      "target": "Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel De Mujeres Buen Pastor",
+      "target": "Col\u00f3n N\u00ba 30",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel De Mujeres Buen Pastor",
+      "target": "Gendarmer\u00eda",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Informe Valech",
+      "target": "C\u00e1rcel Buen Pastor De Iquique",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Informe Valech",
+      "target": "C\u00e1rcel De Mujeres Buen Pastor",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Cni",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Dina",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Comisi\u00f3n Valech",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Gendarmer\u00eda",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Calle Baquedano N\u00ba 1",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Poblaci\u00f3n El Morro",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Calle Col\u00f3n",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Arica",
+      "target": "Calle Patricio Lynch",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Arica",
+      "target": "Decreto De Ley N\u00b04",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Arica",
+      "target": "Puerto Libre",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Luis Pino Soto",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Iglesia Del Carmen",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Grupo Armaged\u00f3n",
+      "target": "Luis Pino Soto",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Senador Udi Pilo Durana",
+      "target": "Grupo Armaged\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Gobierno De Pi\u00f1era",
+      "target": "Dictadura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Dina",
+      "target": "Recinto Dina En Calle Diego Portales",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cni",
+      "target": "Recinto Cni Calle Azola",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Cni",
+      "target": "Recinto Cni Camino A Azapa",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dina",
+      "target": "Casa De Seguridad De La Dina/Cni Carrera Pinto",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Campamento/Camping Las Machas",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "C\u00e1rcel Anexa",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "C\u00e1rcel De Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "C\u00e1rcel De Mujeres Buen Pastor De Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Comisar\u00eda De Carabineros Carlos Dittborn",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Comisar\u00eda De Carabineros De Arica",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Comisar\u00eda De Carabineros N\u00ba 3",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Cuartel De Investigaciones",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Industria Abandonada",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Inmueble En Avenida Santa Mar\u00eda 2936",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Loteo Tarapac\u00e1 Oriente",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Prefectura De Carabineros",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Recinto Cni Calle Azola",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Recinto Cni Camino A Azapa",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Dictadura",
+      "target": "Regimiento Motorizado Reforzado N\u00ba 4 Rancagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Iquique",
+      "target": "Calle Wilson N\u00b0 281",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "C\u00e1rcel P\u00fablica De Iquique",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Iquique",
+      "target": "I Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Informe Valech",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pablo Durana",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Luis Pino Soto",
+      "target": "Dictadura En Arica",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Iquique",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Gendarmeria",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Hotel_De_Pisagua",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Informe_Rettig",
+      "target": "Carcel_Publica_De_Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Campamento_De_Prisioneros",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gabriel_Gonzalez_Videla",
+      "target": "Carcel_Publica_De_Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Carlos_Ibanez_Del_Campo",
+      "target": "Carcel_Publica_De_Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Augusto_Pinochet",
+      "target": "Carcel_Publica_De_Pisagua",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Teatro_Municipal",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Mercado",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Multicancha_Deportiva",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Escuela",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carcel_Publica_De_Pisagua",
+      "target": "Fosa",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comision_Nacional_De_Verdad_Y_Reconciliacion",
+      "target": "Carcel_Publica_De_Pisagua",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Personas Golpeadas",
+      "target": "Interrogatorios",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Interrogatorios",
+      "target": "C\u00e1rcel De Pisagua",
+      "type": "OCCURSAT",
+      "properties": {}
+    },
+    {
+      "source": "Interrogatorios",
+      "target": "Regimiento Chorrillos De Talca",
+      "type": "OCCURSAT",
+      "properties": {}
+    },
+    {
+      "source": "Interrogatorios",
+      "target": "Dina Villa Grimaldi",
+      "type": "OCCURSAT",
+      "properties": {}
+    },
+    {
+      "source": "Personas Golpeadas",
+      "target": "Tortura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tortura",
+      "target": "Lesiones Corporales Deliberadas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tortura",
+      "target": "M\u00e9todos De Tortura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "M\u00e9todos De Tortura",
+      "target": "Quemaduras",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "M\u00e9todos De Tortura",
+      "target": "Colgamientos",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Diciembre De 1983",
+      "target": "Dina Villa Grimaldi",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Diciembre De 1983",
+      "target": "Cuartel General De Investigaciones",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Septiembre De 1973",
+      "target": "Fiscal\u00eda Militar De Osorno",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Octubre De 1973",
+      "target": "Escuela De Artiller\u00eda De Linares",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Octubre De 1973",
+      "target": "Comisar\u00eda De Curanilahue",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Abril De 1974",
+      "target": "Dina",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Agosto De 1984",
+      "target": "Cni",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Octubre De 1985",
+      "target": "Cni",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Octubre De 1973",
+      "target": "Fuerte M\u00fcller De Infanter\u00eda De Marina De Las Salinas",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Diciembre De 1983",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Septiembre De 1973",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Octubre De 1973",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Abril De 1974",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Agosto De 1984",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n De Tortura",
+      "target": "Hombre Detenido En Octubre De 1985",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Infantes",
+      "target": "Comandos Entrenados En Panam\u00e1",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Agosto De 1974",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Primera Comisar\u00eda De Carabineros De Calama",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Primera Comisar\u00eda De Carabineros De Calama",
+      "target": "Calama",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Mujer",
+      "target": "Enero De 1975",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Mujer",
+      "target": "Dina Villa Grimaldi",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Simulacro De Fusilamiento",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Simulacro De Fusilamiento",
+      "target": "11 De Septiembre De 1973",
+      "type": "OCCURSAT",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Xi Regi\u00f3n",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Campo De Prisioneros Chacabuco",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Campo De Prisioneros Chacabuco",
+      "target": "Ii Regi\u00f3n",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido En Julio De 1980",
+      "target": "Iglesia La Providencia",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Iglesia La Providencia",
+      "target": "Antofagasta",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Hombre",
+      "target": "Fusilamiento",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n",
+      "target": "Personas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n",
+      "target": "Mujeres Detenidas",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n",
+      "target": "Varones",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mujeres Detenidas",
+      "target": "Victimas De Tortura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Varones",
+      "target": "Victimas De Tortura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Menores De Edad",
+      "target": "Victimas De Tortura",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido Junio 1975",
+      "target": "Hombre Detenido Diciembre 1975",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido Diciembre 1975",
+      "target": "Mujer Detenida Enero 1979",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Mujer Detenida Enero 1979",
+      "target": "Mujer Detenida Septiembre 1973",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido Diciembre 1973",
+      "target": "Hombre Detenido Agosto 1974",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido Mayo 1980",
+      "target": "Hombre Detenido Octubre 1973",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Hombre Detenido Septiembre 1973 Isla Quiriquina",
+      "target": "Hombre Detenido Septiembre 1973 Base A\u00e9rea Cerro Moreno",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jaula_De_Alambre_De_P\u00faa",
+      "target": "Desierto",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisi\u00f3n_Nacional_Sobre_Prisi\u00f3n_Pol\u00edtica_Y_Tortura",
+      "target": "Hombre_Detenido_Septiembre_1973_1",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Calabozo",
+      "target": "Hombre_Detenido_Septiembre_1973_2",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Regimiento_Arica",
+      "target": "Hombre_Detenido_Mayo_1974",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Destacamento_De_Infanter\u00eda_De_Marina_N\u00b0_4_Cochrane",
+      "target": "Hombre_Detenido_Septiembre_1973_3",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Comisar\u00eda_De_Salamanca",
+      "target": "Hombre_Detenido_Septiembre_1973_4",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Ret\u00e9n_De_Carabineros_De_Valdivia",
+      "target": "Hombre_Detenido_Septiembre_1973_1",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Estadio_Regional_De_Concepci\u00f3n",
+      "target": "Hombre_Detenido_Noviembre_1973",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Fuerte_Borgo\u00f1o",
+      "target": "Hombre_Detenido_Septiembre_1973_2",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Campo_De_Prisioneros_Chacabuco",
+      "target": "Hombre_Detenido_Enero_1974",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    },
+    {
+      "source": "Grupo_De_Instrucci\u00f3n_De_Carabineros",
+      "target": "Hombre_Detenido_Junio_1974",
+      "type": "ISCONTAINEDIN",
+      "properties": {}
+    }
+  ]
+}

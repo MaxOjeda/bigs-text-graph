@@ -1,0 +1,450 @@
+david coliqueo fuentealba | member | Carabineros de Chile
+justo ignacio romo peralta | member | Carabineros de Chile
+felix hector sagredo aravena | member | Carabineros de Chile
+jacinto r. torres gonzalez | member | Carabineros de Chile
+juan jose villegas navarro | member | Carabineros de Chile
+pablo nancupil raguileo | member | Carabineros de Chile
+marianela cifuentes alarcon | chief | Corte Suprema
+lorena pizarro | member | Agrupacion de Familiares de Detenidos Desaparecidos
+nelson caucoto | other | Corte Suprema
+abraham santibanez | member | Vicaria de la Solidaridad
+enrique alvear | member | Vicaria de la Solidaridad
+cristian precht | member | Vicaria de la Solidaridad
+javier egana | member | Vicaria de la Solidaridad
+alejandro gonzalez | member | Vicaria de la Solidaridad
+maximo pacheco | member | Vicaria de la Solidaridad
+jaime martinez | member | Vicaria de la Solidaridad
+adolfo banados cuadra | chief | Corte de Apelaciones de Santiago
+gonzalo salazar | chief | Instituto Medico Legal
+hector solis | member | Corte Suprema
+lautaro eugenio castro mendoza | affected by | carabineros
+marcelo ivan castro mendoza | member | carabineros
+david coliqueo peralta | member | carabineros
+pablo nancupil raquileo | member | carabineros
+justo ignacio romo peralta | member | carabineros
+felix hector sagredo aravena | member | carabineros
+jacinto r. torres gonzalez | member | carabineros
+juan jose villegas navarro | member | carabineros
+adolfo banados cuadra | other | Vicaria de la Solidaridad
+carlos contreras | member | corporacion memoria lonquen
+luis navarro | member | Vicaria de la Solidaridad
+marisela santibanez | member | corporacion memoria lonquen
+lorena pizarro | member | corporacion memoria lonquen
+haydee oberreuter | chief | corporacion memoria lonquen
+carlos maureira | affected by | corporacion memoria lonquen
+israel borquez | chief | Corte Suprema
+juana godoy | member | Corte Suprema
+gonzalo aguirre | member | Vicaria de la Solidaridad
+adolfo banados cuadra | chief | Corte Suprema
+gonzalo salazar | member | justicia militar
+marianela cifuentes alarcon | chief | carabineros
+david coliqueo fuentealba | affected by | carabineros
+pablo nancupil raguileo | affected by | carabineros
+miguel angel arturo brant bustamante | affected by | carabineros
+jose manuel herrera villegas | affected by | carabineros
+manuel jesus navarro salinas | affected by | carabineros
+ivan gerardo ordonez lama | affected by | carabineros
+sergio adrian maureira lillo | affected by | carabineros
+carlos segundo hernandez flores | affected by | carabineros
+nelson hernandez flores | affected by | carabineros
+oscar nibaldo hernandez flores | affected by | carabineros
+ignacio del carmen vergara guajardo | affected by | carabineros
+rodolfo antonio maureira munoz | affected by | carabineros
+sergio miguel maureira munoz | affected by | carabineros
+jose manuel maureira munoz | affected by | carabineros
+segundo armando maureira munoz | affected by | carabineros
+enrique astudillo alvarez | affected by | carabineros
+omar astudillo rojas | affected by | carabineros
+ramon astudillo rojas | affected by | carabineros
+juan j. villegas navarro | member | carabineros
+manuel munoz rencoret | member | carabineros
+jose belmar sepulveda | member | carabineros
+gonazalo salazar | member | carabineros
+sergio fernandez | member | carabineros
+jose auth | member | Partido Por la Democracia
+marianela cifuentes alarcon | member | corte de apelaciones de san miguel
+marcelo ivan castro mendoza | member | Carabineros de Chile
+sergio diez | other | Vicaria de la Solidaridad
+adolfo banados cuadra | chief | Ministerio de Justicia
+lautaro eugenio castro mendoza | chief | Fiscal Militar
+juan jose villegas navarro | chief | Fiscal Militar
+felix hector sagredo aravena | chief | Fiscal Militar
+manuel munoz rencoret | chief | Fiscal Militar
+jacinto r. torres gonzalez | chief | Fiscal Militar
+david coliqueo fuentealba | chief | Fiscal Militar
+jose belmar sepulveda | chief | Fiscal Militar
+justo ignacio romo peralta | chief | Fiscal Militar
+adriana sottovia | member | Comision de Abogados por la Democracia
+david coliqueo fuentealba | was present at | isla de maipo
+justo ignacio romo peralta | was present at | isla de maipo
+felix hector sagredo aravena | was present at | isla de maipo
+jacinto r. torres gonzalez | was present at | isla de maipo
+juan jose villegas navarro | was present at | isla de maipo
+pablo nancupil raguileo | was present at | isla de maipo
+marianela cifuentes alarcon | was present at | isla de maipo
+lorena pizarro | was present at | cementerio parroquial de isla de maipo
+abraham santibanez | was present at | lonquen
+enrique alvear | was present at | lonquen
+cristian precht | was present at | lonquen
+javier egana | was present at | lonquen
+alejandro gonzalez | was present at | lonquen
+maximo pacheco | was present at | lonquen
+jaime martinez | was present at | lonquen
+adolfo banados cuadra | was present at | isla de maipo
+lautaro eugenio castro mendoza | was present at | isla de maipo
+gonzalo salazar | was present at | isla de maipo
+hector solis | was present at | cementerio parroquial de isla de maipo
+marcelo ivan castro mendoza | was present at | tenencia de carabineros isla de maipo
+david coliqueo peralta | was present at | tenencia de carabineros isla de maipo
+pablo nancupil raquileo | was present at | tenencia de carabineros isla de maipo
+justo ignacio romo peralta | was present at | tenencia de carabineros isla de maipo
+felix hector sagredo aravena | was present at | tenencia de carabineros isla de maipo
+jacinto r. torres gonzalez | was present at | tenencia de carabineros isla de maipo
+juan jose villegas navarro | was present at | tenencia de carabineros isla de maipo
+lautaro eugenio castro mendoza | was present at | tenencia de carabineros isla de maipo
+cristian precht | was present at | cerro chena
+adolfo banados cuadra | was present at | lonquen
+luis navarro | was present at | lonquen
+marisela santibanez | was present at | lonquen
+lorena pizarro | was present at | lonquen
+haydee oberreuter | was present at | lonquen
+carlos maureira | was present at | lonquen
+enrique alvear | was present at | lonquen
+cristian precht | was present at | lonquen
+javier egana | was present at | lonquen
+alejandro gonzalez | was present at | lonquen
+maximo pacheco | was present at | lonquen
+jaime martinez | was present at | lonquen
+abraham santibanez | was present at | lonquen
+israel borquez | was present at | lonquen
+juana godoy | was present at | lonquen
+gonzalo aguirre | was present at | lonquen
+luis navarro | was present at | lonquen
+adolfo banados cuadra | was present at | lonquen
+lautaro eugenio castro mendoza | was present at | lonquen
+lautaro eugenio castro mendoza | was present at | isla de maipo
+lautaro eugenio castro mendoza | was present at | lonquen
+abraham santibanez | was present at | hornos de lonquen
+sergio diez | was present at | lonquen
+miguel angel arturo brant bustamante | was present at | isla de maipo
+jose manuel herrera villegas | was present at | isla de maipo
+manuel jesus navarro salinas | was present at | isla de maipo
+ivan gerardo ordonez lama | was present at | isla de maipo
+sergio adrian maureira lillo | was present at | fundo naguayan
+carlos segundo hernandez flores | was present at | calle la ballica n° 12
+nelson hernandez flores | was present at | calle la ballica n° 12
+oscar nibaldo hernandez flores | was present at | calle la ballica n° 12
+ignacio del carmen vergara guajardo | was present at | calle la ballica n° 12
+rodolfo antonio maureira munoz | was present at | fundo naguayan
+sergio miguel maureira munoz | was present at | fundo naguayan
+jose manuel maureira munoz | was present at | fundo naguayan
+segundo armando maureira munoz | was present at | fundo naguayan
+enrique astudillo alvarez | was present at | fundo naguayan
+omar astudillo rojas | was present at | fundo naguayan
+ramon astudillo rojas | was present at | fundo naguayan
+lautaro eugenio castro mendoza | was present at | lonquen
+juan j. villegas navarro | was present at | lonquen
+felix hector sagredo aravena | was present at | lonquen
+manuel munoz rencoret | was present at | lonquen
+jacinto r. torres gonzalez | was present at | lonquen
+david coliqueo fuentealba | was present at | lonquen
+jose belmar sepulveda | was present at | lonquen
+justo ignacio romo peralta | was present at | lonquen
+gonazalo salazar | was present at | lonquen
+sergio fernandez | was present at | isla de maipo
+marcelo ivan castro mendoza | was present at | isla de maipo
+david coliqueo peralta | was present at | isla de maipo
+pablo nancupil raquileo | was present at | isla de maipo
+justo ignacio romo peralta | was present at | isla de maipo
+felix hector sagredo aravena | was present at | isla de maipo
+jacinto r. torres gonzalez | was present at | isla de maipo
+juan jose villegas navarro | was present at | isla de maipo
+marianela cifuentes alarcon | was present at | isla de maipo
+david coliqueo fuentealba | was present at | isla de maipo
+pablo nancupil raguileo | was present at | isla de maipo
+marianela cifuentes alarcon | was present at | lonquen
+marcelo ivan castro mendoza | was present at | lonquen
+juan jose villegas navarro | was present at | lonquen
+pablo nancupil raguileo | was present at | lonquen
+gonzalo salazar | was present at | lonquen
+sergio fernandez | was present at | lonquen
+sergio adrian maureira lillo | was present at | lonquen
+adriana sottovia | was present at | lonquen
+jose auth | was present at | lonquen
+david coliqueo fuentealba | cause of | court ruling
+justo ignacio romo peralta | cause of | court ruling
+felix hector sagredo aravena | cause of | court ruling
+jacinto r. torres gonzalez | cause of | court ruling
+juan jose villegas navarro | cause of | court ruling
+pablo nancupil raguileo | cause of | court ruling
+lorena pizarro | affected by | court ruling
+nelson caucoto | affected by | court ruling
+marianela cifuentes alarcon | cause of | court ruling
+abraham santibanez | affected by | bodies discovered
+enrique alvear | unspecified | Supreme Court investigation
+cristian precht | unspecified | Supreme Court investigation
+javier egana | unspecified | Supreme Court investigation
+alejandro gonzalez | unspecified | Supreme Court investigation
+maximo pacheco | unspecified | Supreme Court investigation
+jaime martinez | unspecified | Supreme Court investigation
+adolfo banados cuadra | cause of | military prosecutor's action
+gonzalo salazar | affected by | remains identification
+hector solis | affected by | remains identification
+marcelo ivan castro mendoza | cause of | disappearance case
+david coliqueo peralta | cause of | disappearance case
+pablo nancupil raquileo | cause of | disappearance case
+justo ignacio romo peralta | cause of | disappearance case
+felix hector sagredo aravena | cause of | disappearance case
+jacinto r. torres gonzalez | cause of | disappearance case
+juan jose villegas navarro | cause of | disappearance case
+lautaro eugenio castro mendoza | unspecified | disappearance case
+adolfo banados cuadra | cause of | disappearance case
+cristian precht | affected by | disappearance case
+adolfo banados cuadra | cause of | arrests of men and women
+marcelo ivan castro mendoza | cause of | arrests of men and women
+david coliqueo peralta | cause of | arrests of men and women
+pablo nancupil raquileo | cause of | arrests of men and women
+justo ignacio romo peralta | cause of | arrests of men and women
+felix hector sagredo aravena | cause of | arrests of men and women
+jacinto r. torres gonzalez | cause of | arrests of men and women
+juan jose villegas navarro | cause of | arrests of men and women
+carlos contreras | affected by | memorial of lonquen massacre
+luis navarro | cause of | memorial of lonquen massacre
+marisela santibanez | affected by | memorial of lonquen massacre
+lorena pizarro | affected by | memorial of lonquen massacre
+haydee oberreuter | affected by | memorial of lonquen massacre
+carlos maureira | affected by | memorial of lonquen massacre
+cristian precht | cause of | establishment of commission
+enrique alvear | cause of | establishment of commission
+javier egana | cause of | establishment of commission
+alejandro gonzalez | cause of | establishment of commission
+maximo pacheco | cause of | establishment of commission
+jaime martinez | cause of | establishment of commission
+abraham santibanez | cause of | establishment of commission
+israel borquez | cause of | formal complaint filed
+juana godoy | cause of | investigation confirmation
+lautaro eugenio castro mendoza | cause of | indictment issued
+lautaro eugenio castro mendoza | cause of | prison order
+lautaro eugenio castro mendoza | affected by | case dismissal
+lautaro eugenio castro mendoza | affected by | court confirmation
+abraham santibanez | affected by | discovery of remains
+cristian precht | cause of | creation of commission
+david coliqueo fuentealba | affected by | arrest of miguel brant
+justo ignacio romo peralta | affected by | arrest of miguel brant
+felix hector sagredo aravena | affected by | arrest of miguel brant
+jacinto r. torres gonzalez | affected by | arrest of miguel brant
+juan jose villegas navarro | affected by | arrest of miguel brant
+pablo nancupil raguileo | affected by | arrest of miguel brant
+miguel angel arturo brant bustamante | affected by | arrest of miguel brant
+jose manuel herrera villegas | affected by | arrest of miguel brant
+manuel jesus navarro salinas | affected by | arrest of miguel brant
+ivan gerardo ordonez lama | affected by | arrest of miguel brant
+sergio adrian maureira lillo | affected by | arrest of sergio maureira
+carlos segundo hernandez flores | affected by | arrest at calle La Ballica
+nelson hernandez flores | affected by | arrest at calle La Ballica
+oscar nibaldo hernandez flores | affected by | arrest at calle La Ballica
+ignacio del carmen vergara guajardo | affected by | arrest at calle La Ballica
+rodolfo antonio maureira munoz | affected by | arrest of maureira brothers
+sergio miguel maureira munoz | affected by | arrest of maureira brothers
+jose manuel maureira munoz | affected by | arrest of astudillo family
+segundo armando maureira munoz | affected by | arrest of astudillo family
+enrique astudillo alvarez | affected by | arrest of astudillo family
+omar astudillo rojas | affected by | arrest of astudillo family
+ramon astudillo rojas | affected by | arrest of astudillo family
+miguel angel arturo brant bustamante | affected by | murder of several detainees
+jose manuel herrera villegas | affected by | murder of several detainees
+manuel jesus navarro salinas | affected by | murder of several detainees
+ivan gerardo ordonez lama | affected by | murder of several detainees
+sergio adrian maureira lillo | affected by | murder of several detainees
+carlos segundo hernandez flores | affected by | murder of several detainees
+nelson hernandez flores | affected by | murder of several detainees
+oscar nibaldo hernandez flores | affected by | murder of several detainees
+ignacio del carmen vergara guajardo | affected by | murder of several detainees
+rodolfo antonio maureira munoz | affected by | murder of several detainees
+sergio miguel maureira munoz | affected by | murder of several detainees
+jose manuel maureira munoz | affected by | murder of several detainees
+segundo armando maureira munoz | affected by | murder of several detainees
+enrique astudillo alvarez | affected by | murder of several detainees
+omar astudillo rojas | affected by | murder of several detainees
+ramon astudillo rojas | affected by | murder of several detainees
+lautaro eugenio castro mendoza | cause of | arrest of captains
+juan j. villegas navarro | cause of | arrest of captains
+felix hector sagredo aravena | cause of | arrest of captains
+manuel munoz rencoret | cause of | arrest of captains
+jacinto r. torres gonzalez | cause of | arrest of captains
+david coliqueo fuentealba | cause of | arrest of captains
+jose belmar sepulveda | cause of | arrest of captains
+justo ignacio romo peralta | cause of | arrest of captains
+marianela cifuentes alarcon | cause of | sentencing of carabineros
+marianela cifuentes alarcon | cause of | court confirmation of sentencing
+marcelo ivan castro mendoza | affected by | sentencing of carabineros
+david coliqueo fuentealba | affected by | sentencing of carabineros
+justo ignacio romo peralta | affected by | sentencing of carabineros
+felix hector sagredo aravena | affected by | sentencing of carabineros
+jacinto r. torres gonzalez | affected by | sentencing of carabineros
+juan jose villegas navarro | affected by | sentencing of carabineros
+pablo nancupil raguileo | affected by | court confirmation of sentencing
+sergio diez | affected by | commission creation
+cristian precht | affected by | commission creation
+enrique alvear | affected by | commission creation
+javier egana | affected by | commission creation
+alejandro gonzalez | affected by | commission creation
+maximo pacheco | affected by | commission creation
+jaime martinez | affected by | commission creation
+abraham santibanez | affected by | commission creation
+israel borquez | affected by | formal complaint
+juana godoy | affected by | investigation initiation
+gonzalo aguirre | affected by | investigation initiation
+luis navarro | affected by | investigation initiation
+adolfo banados cuadra | cause of | Supreme Court designation
+lautaro eugenio castro mendoza | affected by | reo order
+juan j. villegas navarro | affected by | reo order
+felix hector sagredo aravena | affected by | reo order
+manuel munoz rencoret | affected by | reo order
+lautaro eugenio castro mendoza | cause of | military indictment
+juan jose villegas navarro | cause of | military indictment
+felix hector sagredo aravena | cause of | military indictment
+manuel munoz rencoret | cause of | military indictment
+jacinto r. torres gonzalez | cause of | military indictment
+david coliqueo fuentealba | cause of | military indictment
+jose belmar sepulveda | cause of | military indictment
+justo ignacio romo peralta | cause of | military indictment
+adriana sottovia | affected by | prosecution announcement
+cristian precht | cause of | commission formation
+cementerio parroquial de isla de maipo | is contained in | isla de maipo
+isla de maipo | is contained in | lonquen
+isla de maipo | is contained in | municipalidad de isla de maipo
+isla de maipo | is contained in | cementerio parroquial de isla de maipo
+santiago | is contained in | estadio nacional
+santiago | is contained in | san miguel
+tenencia de carabineros isla de maipo | is contained in | isla de maipo
+lonquen | is contained in | polvorin de talagante
+lonquen | is contained in | santiago
+isla de maipo | is contained in | santiago
+santiago | is contained in | argentina
+lonquen | is contained in | talagante
+hornos de lonquen | is contained in | lonquen
+fundo naguayan | is contained in | isla de maipo
+calle la ballica n° 12 | is contained in | isla de maipo
+calle la ballica n° 12 | is contained in | fundo naguayan
+lonquen | is contained in | isla de maipo
+san miguel | is contained in | santiago
+talagante | is contained in | santiago
+public wake | occurs at | isla de maipo
+solemn burial | occurs at | cementerio parroquial de isla de maipo
+court ruling | occurs at | lonquen
+arrest of victims | occurs at | isla de maipo
+bodies discovered | occurs at | lonquen
+Supreme Court investigation | occurs at | santiago
+military prosecutor's action | occurs at | estadio nacional
+remains identification | occurs at | san miguel
+public wake | occurs at | municipalidad de isla de maipo
+burial of victims | occurs at | cementerio parroquial de isla de maipo
+sentencing of carabineros | occurs at | santiago
+disappearance case | occurs at | lonquen
+arrests of men and women | occurs at | tenencia de carabineros isla de maipo
+memorial of lonquen massacre | occurs at | lonquen
+establishment of commission | occurs at | lonquen
+human remains discovery | occurs at | lonquen
+formal complaint filed | occurs at | santiago
+investigation confirmation | occurs at | lonquen
+teens discovered | occurs at | lonquen
+military investigation transferred | occurs at | santiago
+indictment issued | occurs at | santiago
+prison order | occurs at | isla de maipo
+case dismissal | occurs at | isla de maipo
+court confirmation | occurs at | isla de maipo
+discovery of remains | occurs at | hornos de lonquen
+creation of commission | occurs at | lonquen
+arrest of miguel brant | occurs at | isla de maipo
+arrest of sergio maureira | occurs at | fundo naguayan
+arrest at calle La Ballica | occurs at | calle la ballica n° 12
+arrest of maureira brothers | occurs at | fundo naguayan
+arrest of astudillo family | occurs at | fundo naguayan
+murder of several detainees | occurs at | lonquen
+arrest of captains | occurs at | isla de maipo
+amnesty decree | occurs at | isla de maipo
+court confirmation | occurs at | lonquen
+detention of youths | occurs at | isla de maipo
+dynamiting of ovens | occurs at | lonquen
+memorial opposition | occurs at | lonquen
+arrest of four youths | occurs at | isla de maipo
+arrest of eleven people | occurs at | isla de maipo
+sentencing of carabineros | occurs at | san miguel
+court confirmation of sentencing | occurs at | santiago
+commission creation | occurs at | lonquen
+formal complaint | occurs at | santiago
+investigation initiation | occurs at | lonquen
+Supreme Court designation | occurs at | santiago
+historical findings | occurs at | santiago
+military justice transfer | occurs at | santiago
+reo order | occurs at | santiago
+military indictment | occurs at | lonquen
+amnesty decree | occurs at | lonquen
+court confirmation | occurs at | lonquen
+land destruction | occurs at | lonquen
+landfill proposal | occurs at | lonquen
+commission formation | occurs at | lonquen
+prosecution announcement | occurs at | isla de maipo
+Carabineros de Chile | if part of | Corte Suprema
+Vicaria de la Solidaridad | if part of | Corte Suprema
+Corte de Apelaciones de Santiago | if part of | Corte Suprema
+Instituto Medico Legal | if part of | Corte Suprema
+Municipalidad de Isla de Maipo | if part of | Corte Suprema
+Vicaria de la Solidaridad | if part of | carabineros
+carabineros | if part of | Corte Suprema
+Empresa Metropolitana de Residuos Solidos | if part of | carabineros
+Comision de Abogados por la Democracia | if part of | naciones unidas
+Vicaria de la Solidaridad | if part of | naciones unidas
+Corte Suprema | cause of | court ruling
+Carabineros de Chile | affected by | court ruling
+Agrupacion de Familiares de Detenidos Desaparecidos | affected by | court ruling
+carabineros | cause of | arrest of victims
+Corte Suprema | affected by | Supreme Court investigation
+carabineros | affected by | military prosecutor's action
+carabineros | affected by | sentencing of carabineros
+Vicaria de la Solidaridad | cause of | Supreme Court investigation
+Museo de la Memoria | cause of | remains identification
+Municipalidad de Isla de Maipo | cause of | public wake
+Municipalidad de Isla de Maipo | cause of | burial of victims
+carabineros | cause of | arrests of men and women
+Vicaria de la Solidaridad | affected by | disappearance case
+corporacion memoria lonquen | cause of | memorial of lonquen massacre
+Vicaria de la Solidaridad | affected by | memorial of lonquen massacre
+orquesta de instrumentos autoctonos y nuevas tecnologia | unspecified | memorial of lonquen massacre
+Vicaria de la Solidaridad | cause of | establishment of commission
+Vicaria de la Solidaridad | cause of | human remains discovery
+Vicaria de la Solidaridad | cause of | formal complaint filed
+Corte Suprema | affected by | formal complaint filed
+Instituto Medico Legal | affected by | investigation confirmation
+carabineros | cause of | teens discovered
+carabineros | affected by | military investigation transferred
+carabineros | affected by | indictment issued
+carabineros | affected by | prison order
+Vicaria de la Solidaridad | cause of | creation of commission
+carabineros | cause of | arrest of miguel brant
+carabineros | cause of | arrest of sergio maureira
+carabineros | cause of | arrest at calle La Ballica
+carabineros | cause of | arrest of maureira brothers
+carabineros | cause of | arrest of astudillo family
+carabineros | cause of | murder of several detainees
+carabineros | cause of | arrest of captains
+carabineros | affected by | detention of youths
+Empresa Metropolitana de Residuos Solidos | unspecified | memorial opposition
+Partido Por la Democracia | affected by | memorial opposition
+Carabineros de Chile | cause of | arrest of four youths
+Carabineros de Chile | cause of | arrest of eleven people
+Carabineros de Chile | affected by | sentencing of carabineros
+Carabineros de Chile | affected by | court confirmation of sentencing
+corte de apelaciones de san miguel | affected by | sentencing of carabineros
+corte de apelaciones de san miguel | affected by | court confirmation of sentencing
+Vicaria de la Solidaridad | cause of | commission creation
+Corte Suprema | affected by | formal complaint
+Ministerio de Justicia | affected by | Supreme Court designation
+carabineros | unspecified | historical findings
+carabineros | unspecified | reo order
+Fiscal Militar | cause of | military indictment
+Fiscal Militar | cause of | amnesty decree
+Fiscal Militar | affected by | court confirmation
+Vicaria de la Solidaridad | cause of | commission formation
+Partido Por la Democracia | affected by | landfill proposal

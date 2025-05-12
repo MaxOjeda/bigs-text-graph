@@ -1,0 +1,20 @@
+name,n_original_sents,n_generated_sents,split_type,model_name,emb_dimension,batch_size,SCORE MaxSIM Left,SCORE MaxSIM Left stdev,SCORE MaxSIM Left median,SCORE MaxSIM Right,SCORE MaxSIM Right stdev,SCORE MaxSIM Right median,execution_time
+airport,227,714,sentences,bert-base-uncased,768,32,0.864,0.072,0.864,0.726,0.07,0.72,9.4922
+artist,302,896,sentences,bert-base-uncased,768,32,0.857,0.069,0.854,0.726,0.076,0.72,17.0151
+astronaut,86,241,sentences,bert-base-uncased,768,32,0.865,0.09,0.892,0.732,0.093,0.727,4.6736
+athlete,186,575,sentences,bert-base-uncased,768,32,0.859,0.056,0.869,0.711,0.052,0.71,8.5486
+building,172,588,sentences,bert-base-uncased,768,32,0.848,0.072,0.875,0.702,0.078,0.699,10.5043
+celestialbody,122,373,sentences,bert-base-uncased,768,32,0.761,0.077,0.77,0.668,0.044,0.666,7.0444
+city,131,398,sentences,bert-base-uncased,768,32,0.844,0.072,0.832,0.725,0.093,0.712,7.4725
+comicscharacter,66,215,sentences,bert-base-uncased,768,32,0.777,0.063,0.749,0.67,0.07,0.653,4.0728
+company,97,300,sentences,bert-base-uncased,768,32,0.842,0.065,0.853,0.715,0.083,0.707,5.6584
+film,137,398,sentences,bert-base-uncased,768,32,0.816,0.049,0.802,0.719,0.11,0.707,7.4181
+food,245,734,sentences,bert-base-uncased,768,32,0.84,0.06,0.845,0.748,0.065,0.757,13.5062
+meanoftransportation,222,647,sentences,bert-base-uncased,768,32,0.853,0.077,0.867,0.736,0.073,0.736,12.0265
+monument,73,293,sentences,bert-base-uncased,768,32,0.885,0.051,0.881,0.687,0.075,0.684,3.1574
+musicalwork,81,221,sentences,bert-base-uncased,768,32,0.808,0.062,0.798,0.742,0.1,0.731,2.5442
+politician,184,550,sentences,bert-base-uncased,768,32,0.851,0.06,0.857,0.72,0.06,0.719,6.8623
+scientist,110,300,sentences,bert-base-uncased,768,32,0.917,0.067,0.918,0.759,0.111,0.742,3.3998
+sportsteam,125,375,sentences,bert-base-uncased,768,32,0.835,0.065,0.833,0.727,0.045,0.732,7.1143
+university,85,248,sentences,bert-base-uncased,768,32,0.886,0.059,0.899,0.787,0.075,0.779,4.843
+writtenwork,195,557,sentences,bert-base-uncased,768,32,0.8,0.077,0.806,0.739,0.06,0.734,10.5215

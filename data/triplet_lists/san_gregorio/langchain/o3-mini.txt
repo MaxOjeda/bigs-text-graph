@@ -1,0 +1,97 @@
+Tenencia De Carabineros Nueva España | ISCONTAINEDIN | Población San Gregorio
+Población San Gregorio | ISCONTAINEDIN | Metropolitana
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech)
+Población San Gregorio | ISRELATEDTO | Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech)
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Héctor Andrés Queglas Maturana
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Luis Eugenio Morales Muñoz
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Dante Valentín Olivares Jiménez
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Jeremías Jara Valenzuela
+Tenencia De Carabineros Nueva España | ISRELATEDTO | Pedro Otárola Sepúlveda
+Héctor Fernando Osses Yáñez | ISPARTOF | Carabineros
+Aquiles Bustamante Oliva | ISPARTOF | Carabineros
+Armando Sáez Pérez (El Manchado) | ISPARTOF | Carabineros
+Julio Yáñez Illanes | ISPARTOF | Carabineros
+Fernando Félix Rojas Véliz | ISPARTOF | Carabineros
+Luis Alberto Baeza Sanhueza | ISPARTOF | Carabineros
+Segundo Baldomero Llanos Amarilis | ISPARTOF | Carabineros
+Pedro Humire Loredo | WASPRESENTAT | Cárcel De San Gregorio
+Tonada San Gregorio | ISRELATEDTO | Cárcel De San Gregorio
+Eldesconcierto.Cl | ISRELATEDTO | Agrupación De Familiares De Ejecutados Políticos (Afep)
+Putre | ISCONTAINEDIN | Arica
+Tenencia Los Nogales | ISPARTOF | Carabineros
+Oscar Patricio Ibacache Carrasco | ISPARTOF | Tenencia Los Nogales
+Enrique Romero Jara | ISRELATEDTO | Oscar Patricio Ibacache Carrasco
+Tenencia Los Nogales | ISRELATEDTO | Hernán Rafael Sepúlveda Bravo
+Tenencia Los Nogales | ISRELATEDTO | Juan Manuel Sepúlveda Bravo
+Tenencia Los Nogales | ISRELATEDTO | Ricardo Del Carmen Sepúlveda Bravo
+Tenencia Los Nogales | WASPRESENTAT | Estación Central
+Víctor Galvarino Silva López | WASPRESENTAT | Zanjón De La Aguada
+Roberto Enrique Anfrens Fuentes | WASPRESENTAT | Zanjón De La Aguada
+General Herman Brady Roche | ISPARTOF | Cajsi
+General Mario Vivero Ávila | ISPARTOF | Guarnición El Bosque
+Pinochet | ISRELATEDTO | Estado De Excepción Interno
+Disparos En Puente Ochagavía 12/09/1973 | OCCURSAT | Puente En Ochagavía Y Callejón Lo Ovalle
+Disparos En Puente Ochagavía 12/09/1973 | ISRELATEDTO | Fuerza Aérea De Chile (Fach)
+Fuerza Aérea De Chile (Fach) | ISRELATEDTO | Guarnición Aérea El Bosque
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Francisco Cartes Cartes
+Francisco Cartes Cartes | ISRELATEDTO | Eugenio
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Eugenio
+Edith | ISRELATEDTO | Eugenio
+Manuel Gutiérrez Montano | WASPRESENTAT | Ejecución En Zanjón El Mariscal (Jeremías Jara Y Pedro Otárola)
+Jeremías Jara Valenzuela | WASPRESENTAT | Ejecución En Zanjón El Mariscal (Jeremías Jara Y Pedro Otárola)
+Pedro Otárola Sepúlveda | WASPRESENTAT | Ejecución En Zanjón El Mariscal (Jeremías Jara Y Pedro Otárola)
+Detención En Fuente De Soda Don Ale | OCCURSAT | Fuente De Soda Don Ale, Villa Nueva Paraguay
+Jeremías Jara Valenzuela | ISRELATEDTO | Detención En Fuente De Soda Don Ale
+Pedro Otárola Sepúlveda | ISRELATEDTO | Detención En Fuente De Soda Don Ale
+Manuel Gutiérrez Montano | ISRELATEDTO | Detención En Fuente De Soda Don Ale
+Subcomisaría La Granja | ISCONTAINEDIN | La Granja
+Héctor Queglas Maturana | WASPRESENTAT | Ejecución En La Granja, 4 Octubre 1973
+Luis Morales Muñoz | WASPRESENTAT | Ejecución En La Granja, 4 Octubre 1973
+Héctor Fernando Osses Yáñez | WASPRESENTAT | Ejecución En La Granja, 4 Octubre 1973
+Aquiles Bustamante Oliva | WASPRESENTAT | Ejecución En La Granja, 4 Octubre 1973
+Mario Ángel Candia Acevedo | WASPRESENTAT | Ejecución De Mario Ángel Candia Acevedo Y Otros En La Granja (2 Octubre 1973)
+Luis Humberto Muñoz Aguayo | WASPRESENTAT | Ejecución De Mario Ángel Candia Acevedo Y Otros En La Granja (2 Octubre 1973)
+Luis Antonio Villarroel Rivera | WASPRESENTAT | Ejecución De Mario Ángel Candia Acevedo Y Otros En La Granja (2 Octubre 1973)
+Juan Fernando Campos Gatica | WASPRESENTAT | Secuestro Y Ejecución De Juan Fernando Campos Gatica En La Granja (2 Octubre 1973)
+Héctor Fernando Osses Yáñez | WASPRESENTAT | Secuestro Y Ejecución De Juan Fernando Campos Gatica En La Granja (2 Octubre 1973)
+Aquiles Bustamante Oliva | WASPRESENTAT | Secuestro Y Ejecución De Juan Fernando Campos Gatica En La Granja (2 Octubre 1973)
+Héctor Fernando Osses Yáñez | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Aquiles Bustamante Oliva | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Luis Alberto Baeza Sanhueza | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Segundo Baldomero Llanos Amarilis | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Julio César Yáñez Illanes | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Héctor Fernando Osses Yáñez | ISRELATEDTO | Resolución Causa Rol 30-2009 C
+Aquiles Bustamante Oliva | ISRELATEDTO | Resolución Causa Rol 30-2009 C
+Héctor Fernando Osses Yáñez | ISRELATEDTO | Resolución Causa Rol 30-2009 D
+Aquiles Bustamante Oliva | ISRELATEDTO | Resolución Causa Rol 30-2009 D
+Marianela Cifuentes Alarcón | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Marianela Cifuentes Alarcón | ISRELATEDTO | Resolución Causa Rol 30-2009 C
+Marianela Cifuentes Alarcón | ISRELATEDTO | Resolución Causa Rol 30-2009 D
+Dante Valentín Olivares Jiménez | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Jorge Hernán Espinoza Farías | ISRELATEDTO | Resolución Causa Rol 30-2009 A
+Francisco Cartes Cartes | ISRELATEDTO | Comisión Rettig
+Sonia Isaura Norambuena Cruz | WASPRESENTAT | Cementerio General
+Servicio Médico Legal | ISRELATEDTO | Cementerio General
+October 10 1973 Incident | OCCURSAT | La Granja
+October 19 1973 Incident | OCCURSAT | La Granja
+October 2 1973 San Gregorio Incident | OCCURSAT | Población San Gregorio
+Juan Gallardo Núñez | WASPRESENTAT | October 10 1973 Incident
+Pedro Otárola Sepúlveda | WASPRESENTAT | October 19 1973 Incident
+Mario Ángel Candia Acevedo | WASPRESENTAT | October 2 1973 San Gregorio Incident
+Luis Humberto Muñoz Aguayo | WASPRESENTAT | October 2 1973 San Gregorio Incident
+Luis Antonio Villarroel Rivera | WASPRESENTAT | October 2 1973 San Gregorio Incident
+Julio Yáñez Illanes | ISRELATEDTO | October 10 1973 Incident
+Héctor Osses Yáñez | ISRELATEDTO | October 10 1973 Incident
+Héctor Osses Yáñez | ISRELATEDTO | October 19 1973 Incident
+Héctor Osses Yáñez | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Aquiles Bustamante Oliva | ISRELATEDTO | October 10 1973 Incident
+Aquiles Bustamante Oliva | ISRELATEDTO | October 19 1973 Incident
+Aquiles Bustamante Oliva | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Armando Sáez Pérez | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Marianela Cifuentes | ISRELATEDTO | October 10 1973 Incident
+Marianela Cifuentes | ISRELATEDTO | October 19 1973 Incident
+Marianela Cifuentes | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Corte De Apelaciones De San Miguel | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Estudio Jurídico Caucoto Abogados | ISRELATEDTO | October 2 1973 San Gregorio Incident
+Pablo Fuenzalida | ISRELATEDTO | Estudio Jurídico Caucoto Abogados
+Subcomisaría De Carabineros De La Granja | ISCONTAINEDIN | La Granja

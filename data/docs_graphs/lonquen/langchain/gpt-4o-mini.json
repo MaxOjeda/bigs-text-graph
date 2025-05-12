@@ -1,0 +1,1166 @@
+{
+  "nodes": [
+    {
+      "id": "Tenencia De Carabineros, Isla De Maipo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Rodr\u00edguez 988 Isla De Maipo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Regi\u00f3n Metropolitana",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Iv\u00e1n Castro Mendoza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "David Coliqueo Peralta",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pablo \u00d1ancupil Raquileo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Justo Romo Peralta",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "F\u00e9lix Sagredo Aravena",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jacinto Torres Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jos\u00e9 Villegas Navarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "El 'Caso De Lonquen'",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Cerro Chena",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Estadio Nacional",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Polvor\u00edn De Talagante",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Maureira Lillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Antonio",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Miguel",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Segundo Armando",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Manuel",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Oscar Hern\u00e1ndez Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Hern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Hern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enrique Astudillo Alvarez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Omar Astudillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Ram\u00f3n Astudillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Miguel Brant",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Iv\u00e1n Ord\u00f3\u00f1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Herrera",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Manuel Navarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Lautaro Eugenio Castro Mendoza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cristi\u00e1n Precht",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enrique Alvear",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Javier Ega\u00f1a",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alejandro Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "M\u00e1ximo Pacheco",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jaime Mart\u00ednez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Abraham Santib\u00e1\u00f1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Israel B\u00f3rquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juana Godoy",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gonzalo Salazar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Adolfo Ba\u00f1ados Cuadra",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Instituto M\u00e9dico Legal",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Lonqu\u00e9n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Fern\u00e1ndez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Auth",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pur\u00edsima Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Sergio Maureira Lillo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Adriana Sottovia",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Israel B\u00f3rquez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cristi\u00e1n Precht",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enrique Alvear",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Javier Ega\u00f1a",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alejandro Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "M\u00e1ximo Pacheco",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jaime Mart\u00ednez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Abraham Santib\u00e1\u00f1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Lautaro Eugenio Castro Mendoza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gonzalo Salazar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marianela Cifuentes Alarc\u00f3n",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marcelo Iv\u00e1n Castro Mendoza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "David Coliqueo Peralta",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pablo \u00d1ancupil Raquileo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Justo Romo Peralta",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "F\u00e9lix Sagredo Aravena",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jacinto Torres Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jos\u00e9 Villegas Navarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enrique Astudillo \u00c1lvarez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Omar Astudillo Rojas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Ram\u00f3n Astudillo Rojas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Miguel Brant Benavente",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Hern\u00e1ndez Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Hern\u00e1ndez Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "\u00d3scar Hern\u00e1ndez Flores",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Manuel Herrera Villegas",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jos\u00e9 Manuel Maureira Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Rodolfo Maureira Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Segundo Maureira Mu\u00f1oz",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "David Coliqueo Fuentealba",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Justo Ignacio Romo Peralta",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "F\u00e9lix H\u00e9ctor Sagredo Aravena",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jacinto Torres Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Juan Jos\u00e9 Villegas Navarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Pablo \u00d1ancupil Raguileo",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Lautaro Castro Mendoza",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Enrique Alvear",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Cristian Precht",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Javier Ega\u00f1a",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Alejandro Gonz\u00e1lez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "M\u00e1ximo Pacheco",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Jaime Mart\u00ednez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Abraham Santib\u00e1\u00f1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Gonzalo Salazar",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "H\u00e9ctor Sol\u00eds",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Nelson Caucoto",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Lorena Pizarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Corte Suprema",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Tenencia De Isla De Maipo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Lonqu\u00e9n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Isla De Maipo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Cementerio Parroquial De Isla De Maipo",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Museo De La Memoria",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Instituto M\u00e9dico Legal",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Contreras",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Santiago",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Carabineros",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Luis Navarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Marisela Santib\u00e1\u00f1ez",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Lorena Pizarro",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Haydee Oberreuter",
+      "type": "Individual",
+      "properties": {}
+    },
+    {
+      "id": "Orquesta De Instrumentos Aut\u00f3ctonos Y Nuevas Tecnolog\u00eda Oiant",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Carlos Maureira",
+      "type": "Individual",
+      "properties": {}
+    }
+  ],
+  "edges": [
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Manuel Rodr\u00edguez 988 Isla De Maipo",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Regi\u00f3n Metropolitana",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Cerro Chena",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Estadio Nacional",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Polvor\u00edn De Talagante",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "El 'Caso De Lonquen'",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Sergio Maureira Lillo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Rodolfo Antonio",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Sergio Miguel",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Segundo Armando",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Jos\u00e9 Manuel",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Oscar Hern\u00e1ndez Flores",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Carlos Hern\u00e1ndez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Nelson Hern\u00e1ndez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Enrique Astudillo Alvarez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Omar Astudillo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Ram\u00f3n Astudillo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Miguel Brant",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Iv\u00e1n Ord\u00f3\u00f1ez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Jos\u00e9 Herrera",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "El 'Caso De Lonquen'",
+      "target": "Manuel Navarro",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Lautaro Eugenio Castro Mendoza",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Cristi\u00e1n Precht",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Enrique Alvear",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Javier Ega\u00f1a",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Alejandro Gonz\u00e1lez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "M\u00e1ximo Pacheco",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Jaime Mart\u00ednez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Abraham Santib\u00e1\u00f1ez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Israel B\u00f3rquez",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Juana Godoy",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Gonzalo Salazar",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Tenencia De Carabineros, Isla De Maipo",
+      "target": "Adolfo Ba\u00f1ados Cuadra",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Instituto M\u00e9dico Legal",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Sergio Fern\u00e1ndez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Auth",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pur\u00edsima Mu\u00f1oz",
+      "target": "Sergio Maureira Lillo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Adriana Sottovia",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Israel B\u00f3rquez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cristi\u00e1n Precht",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Enrique Alvear",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Javier Ega\u00f1a",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Alejandro Gonz\u00e1lez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "M\u00e1ximo Pacheco",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jaime Mart\u00ednez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Abraham Santib\u00e1\u00f1ez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Lautaro Eugenio Castro Mendoza",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gonzalo Salazar",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marianela Cifuentes Alarc\u00f3n",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Marcelo Iv\u00e1n Castro Mendoza",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "David Coliqueo Peralta",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pablo \u00d1ancupil Raquileo",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Justo Romo Peralta",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "F\u00e9lix Sagredo Aravena",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jacinto Torres Gonz\u00e1lez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jos\u00e9 Villegas Navarro",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Enrique Astudillo \u00c1lvarez",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Omar Astudillo Rojas",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Ram\u00f3n Astudillo Rojas",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Miguel Brant Benavente",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Hern\u00e1ndez Flores",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nelson Hern\u00e1ndez Flores",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "\u00d3scar Hern\u00e1ndez Flores",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Manuel Herrera Villegas",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jos\u00e9 Manuel Maureira Mu\u00f1oz",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Rodolfo Maureira Mu\u00f1oz",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Segundo Maureira Mu\u00f1oz",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "David Coliqueo Fuentealba",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Justo Ignacio Romo Peralta",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "F\u00e9lix H\u00e9ctor Sagredo Aravena",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jacinto Torres Gonz\u00e1lez",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Juan Jos\u00e9 Villegas Navarro",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Pablo \u00d1ancupil Raguileo",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Lautaro Castro Mendoza",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Tenencia De Isla De Maipo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Lonqu\u00e9n",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Isla De Maipo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Museo De La Memoria",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Instituto M\u00e9dico Legal",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Corte Suprema",
+      "target": "Cementerio Parroquial De Isla De Maipo",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Enrique Alvear",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Cristian Precht",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Javier Ega\u00f1a",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Alejandro Gonz\u00e1lez",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "M\u00e1ximo Pacheco",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Jaime Mart\u00ednez",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Abraham Santib\u00e1\u00f1ez",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Gonzalo Salazar",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "H\u00e9ctor Sol\u00eds",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Nelson Caucoto",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Lorena Pizarro",
+      "target": "Corte Suprema",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Sitio De Memoria Lonqu\u00e9n",
+      "target": "Carabineros",
+      "type": "ISRELATEDTO",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Contreras",
+      "target": "Santiago",
+      "type": "ISPARTOF",
+      "properties": {}
+    },
+    {
+      "source": "Sitio De Memoria Lonqu\u00e9n",
+      "target": "Carabineros",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Luis Navarro",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Marisela Santib\u00e1\u00f1ez",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Lorena Pizarro",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Haydee Oberreuter",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Orquesta De Instrumentos Aut\u00f3ctonos Y Nuevas Tecnolog\u00eda Oiant",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    },
+    {
+      "source": "Carlos Maureira",
+      "target": "Sitio De Memoria Lonqu\u00e9n",
+      "type": "WASPRESENTAT",
+      "properties": {}
+    }
+  ]
+}

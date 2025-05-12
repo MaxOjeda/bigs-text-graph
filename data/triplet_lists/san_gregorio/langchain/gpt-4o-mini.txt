@@ -1,0 +1,60 @@
+Tenencia De Carabineros Nueva España | ISPARTOF | Población San Gregorio
+Tenencia De Carabineros Nueva España | ISPARTOF | Centros De Detención Metropolitana
+Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech) | ISRELATEDTO | Héctor Andrés Queglas Maturana
+Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech) | ISRELATEDTO | Luis Eugenio Morales Muñoz
+Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech) | ISRELATEDTO | Dante Valentín Olivares Jiménez
+Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech) | ISRELATEDTO | Jeremías Jara Valenzuela
+Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech) | ISRELATEDTO | Pedro Otárola Sepúlveda
+Calle Industrias N° 8363-8403 La Cisterna Región Metropolitana | ISPARTOF | Carabineros
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Informe De La Comisión Nacional Sobre Prisión Política Y Tortura (Valech)
+Fuentes De Información Consultadas: Informe Rettig; Informe Valech; Memoriaviva | ISPARTOF | Pedro Humire Loredo
+Pedro Humire Loredo | ISRELATEDTO | Tonada San Gregorio
+Héctor Fernando Osses Yáñez | ISPARTOF | Catrabineros
+Aquiles Bustamante Oliva | ISPARTOF | Catrabineros
+Armando Sáez Pérez | ISPARTOF | Catrabineros
+Julio Yáñez Illanes | ISPARTOF | Catrabineros
+Fernando Félix Rojas Véliz | ISPARTOF | Catrabineros
+Luis Alberto Baeza Sanhueza | ISPARTOF | Catrabineros
+Segundo Baldomero Llanos Amarilis | ISPARTOF | Catrabineros
+Cárcel De San Gregorio | ISRELATEDTO | Estadio Nacional
+Calle Industrias N° 8363-8403 La Cisterna Región Metropolitana | ISCONTAINEDIN | Cárcel De San Gregorio
+Comando De Área Jurisdiccional De Seguridad Interior (Cajsi) | ISPARTOF | General Herman Brady Roche
+Comando De Área Jurisdiccional De Seguridad Interior (Cajsi) | ISPARTOF | General De La Fuerza Aérea De Chile (Fach) Mario Vivero Ávila
+Agrupación De Familiares De Ejecutados Políticos (Afep) | ISPARTOF | Informe Rettig
+Sonia Isaura Norambuena Cruz | WASPRESENTAT | Cementerio General
+Francisco Cartes Cartes | ISRELATEDTO | Sonia Isaura Norambuena Cruz
+Eugenio | ISRELATEDTO | Sonia Isaura Norambuena Cruz
+Edith | ISRELATEDTO | Sonia Isaura Norambuena Cruz
+Cecilia | ISRELATEDTO | Sonia Isaura Norambuena Cruz
+Jeremías Jara Valenzuela | ISRELATEDTO | Subcomisaría La Granja
+Pedro Otárola Sepúlveda | ISRELATEDTO | Subcomisaría La Granja
+Manuel Gutiérrez Montano | ISRELATEDTO | Subcomisaría La Granja
+Digna Valenzuela | ISRELATEDTO | Jeremías Jara Valenzuela
+Digna Valenzuela | ISRELATEDTO | Pedro Otárola Sepúlveda
+Rosa Sepúlveda | ISRELATEDTO | Pedro Otárola Sepúlveda
+Rosa Sepúlveda | ISRELATEDTO | Jeremías Jara Valenzuela
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Fuerza Aérea De Chile (Fach)
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Guarnición Aérea El Bosque
+Héctor Fernando Osses Yáñez | ISRELATEDTO | Subcomisaría La Granja
+Aquiles Bustamante Oliva | ISRELATEDTO | Subcomisaría La Granja
+Héctor Andrés Queglas Maturana | ISRELATEDTO | Subcomisaría La Granja
+Luis Eugenio Morales Muñoz | ISRELATEDTO | Subcomisaría La Granja
+Juan Fernando Campos Gatica | ISRELATEDTO | Subcomisaría La Granja
+Mario Ángel Candia Acevedo | ISRELATEDTO | Subcomisaría La Granja
+Luis Humberto Muñoz Aguayo | ISRELATEDTO | Subcomisaría La Granja
+Luis Antonio Villarroel Rivera | ISRELATEDTO | Subcomisaría La Granja
+Comisión Rettig | ISRELATEDTO | Héctor Fernando Osses Yáñez
+Comisión Rettig | ISRELATEDTO | Aquiles Bustamante Oliva
+Corte De Apelaciones De San Miguel | ISRELATEDTO | Héctor Fernando Osses Yáñez
+Corte De Apelaciones De San Miguel | ISRELATEDTO | Aquiles Bustamante Oliva
+Héctor Osses Yáñez | ISPARTOF | La Granja
+Aquiles Bustamante Oliva | ISPARTOF | La Granja
+Luis Antonio Villarroel Rivera | ISPARTOF | La Granja
+Marianela Cifuentes | ISRELATEDTO | Héctor Osses Yáñez
+Marianela Cifuentes | ISRELATEDTO | Aquiles Bustamante Oliva
+Julio Yáñez Illanes | ISRELATEDTO | Juan Gallardo Núñez
+Héctor Osses Yáñez | ISRELATEDTO | Pedro Otárola Sepúlveda
+Aquiles Bustamante Oliva | ISRELATEDTO | Pedro Otárola Sepúlveda
+Mario Candia | OCCURSAT | La Granja
+Luis Muñoz | OCCURSAT | La Granja
+Luis Antonio Villarroel Rivera | OCCURSAT | La Granja

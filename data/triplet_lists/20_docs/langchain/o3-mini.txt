@@ -1,0 +1,857 @@
+Erick Otto Frederich Claussen Sparenberg | WASPRESENTAT | Base Aérea Los Cóndores
+Erick Otto Frederich Claussen Sparenberg | ISRELATEDTO | Servicio De Inteligencia De La Fuerza Aérea (Sifa)
+Base Aérea Los Cóndores | ISCONTAINEDIN | Alto Hospicio
+Alto Hospicio | ISCONTAINEDIN | I Región
+Iquique | ISCONTAINEDIN | I Región
+Batallón Logístico N° 6 Pisagua | ISCONTAINEDIN | Iquique
+Campamento De Prisioneros De Pisagua | ISCONTAINEDIN | Pisagua
+Campamento – Camping Las Machas Arica | ISCONTAINEDIN | Arica
+Cárcel Buen Pastor De Iquique | ISCONTAINEDIN | Iquique
+Cárcel Pública De Arica | ISCONTAINEDIN | Arica
+Luis A. Lizardi Lizardi | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelo O. Guzmán | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nolberto Jesús Cañas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Michel Selim Nash Saez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Calderón Villalón | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Jiménez Vidal | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Julio C. Cabezas Gacitúa | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José R. Córdova Croxato | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Valencia Hinojosa | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Mario Morris Barrios | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Humberto Lizardi Flores | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Freddy Taberna Gallegos | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José Sampson Ocaranza | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan A. Ruz Díaz | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Rodolfo Fuenzalida Fernández | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Germán Palominos Lamas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Higuera | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nelson Márquez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Toro Castillo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Alberto Yañez Carvajal | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Manuel Sanhueza Mellado | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelino Lamas Largo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Centro De Inteligencia Regional (Cire) | OCCURSAT | Avenida Diego Portales, Arica
+Centro De Inteligencia Regional (Cire) | ISRELATEDTO | Detención Y Tortura De Presos Políticos En Arica
+Centro De Inteligencia Regional (Cire) | ISRELATEDTO | Secuestro Calificado De Grober Venegas Islas
+Secuestro Calificado De Grober Venegas Islas | OCCURSAT | Valle De Azapa
+Detención Y Tortura De Presos Políticos En Arica | OCCURSAT | Arica
+Grober Hugo Venegas Islas | ISRELATEDTO | Secuestro Calificado De Grober Venegas Islas
+Grober Hugo Venegas Islas | ISRELATEDTO | Querella Criminal De Grober Hugo Venegas Islas
+Georgina Del Carmen Inostroza Valencia | ISRELATEDTO | Querella Criminal De Grober Hugo Venegas Islas
+Augusto Pinochet Ugarte | ISRELATEDTO | Querella Criminal De Grober Hugo Venegas Islas
+Patricio Padilla Villar | WASPRESENTAT | Secuestro Calificado De Grober Venegas Islas
+José Luis Catalán Reyes | WASPRESENTAT | Secuestro Calificado De Grober Venegas Islas
+José Vignolo Quezada | WASPRESENTAT | Secuestro Calificado De Grober Venegas Islas
+Servicio De Inteligencia Militar (Sim) | ISRELATEDTO | Ejército
+Corte De Apelaciones De Arica | ISRELATEDTO | Secuestro Calificado De Grober Venegas Islas
+Rodrigo Olavarría Rodríguez | ISRELATEDTO | Secuestro Calificado De Grober Venegas Islas
+Grober Hugo Venegas Islas | WASPRESENTAT | Cire
+Cire | ISCONTAINEDIN | Avenida Diego Portales
+Avenida Diego Portales | ISCONTAINEDIN | Arica
+Grober Hugo Venegas Islas | WASPRESENTAT | Valle De Azapa
+Cire | ISRELATEDTO | Grober Hugo Venegas Islas
+Grober Hugo Venegas Islas | WASPRESENTAT | Valle De Azapa
+Grober Hugo Venegas Islas | WASPRESENTAT | Búsqueda Del Armamento
+Comisaría De Carabineros De Tarapacá | ISCONTAINEDIN | Tarapacá I Región
+Comisaría De Carabineros De Tarapacá | ISPARTOF | Carabineros
+Gerardo Poblete Fernández | ISRELATEDTO | Gustavo San Martín
+Gerardo Poblete Fernández | ISRELATEDTO | Enzo Meniconi
+Colegio Don Bosco De Iquique | ISPARTOF | Congregación Salesiana
+Colegio Don Bosco De Iquique | ISCONTAINEDIN | Iquique
+Muerte De Padre Gerardo Poblete | OCCURSAT | Plaza Brasil
+Homenaje Al Padre Poblete | OCCURSAT | Plaza Brasil
+Muerte De Padre Gerardo Poblete | ISRELATEDTO | Gerardo Poblete Fernández
+Muerte De Padre Gerardo Poblete | ISRELATEDTO | Carabineros
+Daniel Calvo | ISRELATEDTO | Blas Barraza Quintero
+Daniel Calvo | ISRELATEDTO | Froilán Moncada Sáez
+Gerardo Poblete Fernández | ISRELATEDTO | Cardenal Raúl Silva Henríquez
+Blas Barraza Quintero | ISRELATEDTO | Condena De Ex Carabineros 2009
+Froilán Moncada Sáez | ISRELATEDTO | Condena De Ex Carabineros 2009
+Condena De Ex Carabineros 2009 | ISRELATEDTO | Corte Suprema De Justicia
+Homenaje Al Padre Poblete | ISRELATEDTO | Gerardo Poblete Fernández
+Nicanor Herrera | ISRELATEDTO | Memoriaviva
+Gerardo Poblete Fernández | ISRELATEDTO | Paulo Freire
+Gerardo Poblete Fernández | WASPRESENTAT | Comisaría De Carabineros De Tarapacá
+Sironvalles Buteler | WASPRESENTAT | Comisaría De Iquique
+Padre Gerardo Poblete Fernández | WASPRESENTAT | Comisaría De Iquique
+Salgado | WASPRESENTAT | Comisaría De Iquique
+Carabineros | ISRELATEDTO | Padre Gerardo Poblete Fernández
+Carabineros | ISRELATEDTO | Salgado
+Padre Gerardo Poblete Fernández | ISPARTOF | Colegio Juan Bosco
+Salgado | ISPARTOF | Colegio Juan Bosco
+La Izquierda Cristiana | ISRELATEDTO | Padre Gerardo Poblete Fernández
+La Izquierda Cristiana | ISCONTAINEDIN | Macul
+Fernando Astudillo Becerra | ISRELATEDTO | Dirección Nacional De La Izquierda Cristiana De Chile
+Héctor Soto | ISRELATEDTO | Dirección Nacional De La Izquierda Cristiana De Chile
+Humberto González | ISRELATEDTO | Dirección Nacional De La Izquierda Cristiana De Chile
+Kamila Morgado | ISRELATEDTO | Dirección Nacional De La Izquierda Cristiana De Chile
+Jocelyn Soto | ISRELATEDTO | Dirección Nacional De La Izquierda Cristiana De Chile
+Sironvalles Buteler | WASPRESENTAT | Proceso Judicial
+Comisaria De Carabineros No. 1 De Iquique | ISCONTAINEDIN | Iquique
+Comisaria De Carabineros No. 1 De Iquique | ISRELATEDTO | Carabineros
+Teniente Juan Antonio Muñoz Muñoz | ISRELATEDTO | Comisaria De Carabineros No. 1 De Iquique
+Sargento Blas Barraza Quiroga | ISRELATEDTO | Comisaria De Carabineros No. 1 De Iquique
+Suboficial René Valdivia | ISRELATEDTO | Comisaria De Carabineros No. 1 De Iquique
+Comisaria De Carabineros No1 De Arica | ISCONTAINEDIN | Arica
+Comisaria De Carabineros No1 De Arica | ISRELATEDTO | Carabineros
+Atiliano Hernández Hernández | ISRELATEDTO | Comisaria De Carabineros No1 De Arica
+Corte Suprema | ISRELATEDTO | Atiliano Hernández Hernández
+Ministro Hugo Dolmestch | ISRELATEDTO | Corte Suprema
+Ministro Carlos Künsemüller | ISRELATEDTO | Corte Suprema
+Ministro Lamberto Cisternas | ISRELATEDTO | Corte Suprema
+Ministro Manuel Antonio Valderrama | ISRELATEDTO | Corte Suprema
+Ministro Jorge Dahm | ISRELATEDTO | Corte Suprema
+Corte Suprema | ISRELATEDTO | Fisco
+Comisaria De Carabineros No. 3 De Arica | ISCONTAINEDIN | Arica
+Comisaria De Carabineros No. 3 De Arica | ISRELATEDTO | Carabineros
+Servicio De Inteligencia De Carabineros (Sicar) | ISRELATEDTO | Comisaria De Carabineros No. 3 De Arica
+Cni | ISRELATEDTO | Comisaria De Carabineros No. 3 De Arica
+Informe Valech | ISRELATEDTO | Comisaria De Carabineros No1 De Arica
+Archivo Memoriaviva | ISRELATEDTO | Comisaria De Carabineros No. 1 De Iquique
+Memoriaviva | ISRELATEDTO | Comisaria De Carabineros No1 De Arica
+Elmostrador.Cl | ISRELATEDTO | Corte Suprema
+Laizquierdadiario.Cl | ISRELATEDTO | Comisaria De Carabineros No. 3 De Arica
+Comisaria De Carabineros Oficina Victoria | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Comisaria De Carabineros Oficina Victoria | ISRELATEDTO | Regimiento De Telecomunicaciones N° 6 Tarapacá
+Cuartel De Investigaciones De Iquique | ISCONTAINEDIN | Calle Barros Arana, Esquina De Calle O´Higgins, Iquique
+Luis Fernando Rojas Valenzuela | OCCURSAT | Cuartel De Investigaciones De Iquique
+Juan Calderón Villalón | OCCURSAT | Pisagua
+Marcelo Guzmán Fuentes | OCCURSAT | Pisagua
+Luis Alberto Lizardi Lizardi | OCCURSAT | Pisagua
+Nolberto Cañas Cañas | OCCURSAT | Pisagua
+Juan Jiménez Vidal | OCCURSAT | Pisagua
+Michel Salim Nash Sáez | OCCURSAT | Pisagua
+Jorge Marín Rossel | WASPRESENTAT | Cuartel De Investigaciones De Iquique
+Williams Millar Sanhueza | WASPRESENTAT | Cuartel De Investigaciones De Iquique
+Pedro Prado Ortiz | WASPRESENTAT | Cuartel De Investigaciones De Iquique
+Manuel Heriberto Araya Zavala | WASPRESENTAT | Cuartel De Investigaciones De Iquique
+Luis Fernando Rojas Valenzuela | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Juan Calderón Villalón | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Marcelo Guzmán Fuentes | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Luis Alberto Lizardi Lizardi | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Nolberto Cañas Cañas | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Juan Jiménez Vidal | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Michel Salim Nash Sáez | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Jorge Marín Rossel | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Williams Millar Sanhueza | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Pedro Prado Ortiz | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Manuel Heriberto Araya Zavala | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Mario Carroza | ISRELATEDTO | 1973 Detentions And Executions In Iquique
+Primer Consejo De Guerra (Pisagua, October 1973) | OCCURSAT | Pisagua
+Carlos Forestier Haensen | ISRELATEDTO | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Julio Cabezas Gacitúa | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+José Córdova Croxato | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Humberto Lizardi Flores | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Mario Morris Berríos | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Juan Valencia Hinojosa | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Gerardo Poblete | OCCURSAT | Asesinato De Gerardo Poblete (October 21, 1973)
+Blas Espinoza Barraza | ISRELATEDTO | Asesinato De Gerardo Poblete (October 21, 1973)
+Froilán Moncada Saez | ISRELATEDTO | Asesinato De Gerardo Poblete (October 21, 1973)
+Enzo Meniconi Lorca | ISRELATEDTO | Asesinato De Gerardo Poblete (October 21, 1973)
+Rodolfo Fuenzalida Fernandez | OCCURSAT | Tercer Consejo De Guerra (Pisagua)
+Juan Antonio Ruz | OCCURSAT | Tercer Consejo De Guerra (Pisagua)
+Jose Sampson Ocaranza | OCCURSAT | Tercer Consejo De Guerra (Pisagua)
+Freddy Taberna Gallegos | OCCURSAT | Tercer Consejo De Guerra (Pisagua)
+German Palominos Lamas | OCCURSAT | Tercer Consejo De Guerra (Pisagua)
+Isaias Higueras Zúñiga | OCCURSAT | Muerte De Isaias Higueras (January 11, 1974)
+Nelson Marquez Agusto | OCCURSAT | Ejecución De Fusilamientos En Pisagua (October 11, 1973)
+Orlando Cabello Cabello | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Nicolas Chanez Chanez | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Juan Mamani Garcia | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Luis Manriquez Wilden | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Hugo Martinez Guillén | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Juan Rojas Osega | OCCURSAT | Ejecución De No Políticos En Pisagua (1974)
+Alberto Yañez Carvajal | OCCURSAT | Ejecución De Alberto Yañez Carvajal Y Luis Toro Castillo (Enero 1974)
+Luis Toro Castillo | OCCURSAT | Ejecución De Alberto Yañez Carvajal Y Luis Toro Castillo (Enero 1974)
+Henry Torres Flores | OCCURSAT | Detención Y Desaparición De Henry Torres Flores (July 1974)
+Manuel Sanhueza Mellado | OCCURSAT | Desaparición De Manuel Sanhueza Mellado (July 1974)
+Baldramina Flores | ISRELATEDTO | Humberto Lizardi Flores
+Julio Cabezas Gacitúa | ISPARTOF | Consejo De Defensa Del Estado
+Juan Valencia Hinojosa | ISPARTOF | Empresa Portuaria De Iquique
+José Córdova Croxato | ISPARTOF | Empresa Portuaria De Iquique
+Humberto Lizardi Flores | ISPARTOF | Universidad De Chile
+Gerardo Poblete | ISPARTOF | Colegio Don Bosco
+Blas Espinoza Barraza | ISPARTOF | Carabineros De Iquique
+Froilán Moncada Saez | ISPARTOF | Carabineros De Iquique
+Enzo Meniconi Lorca | ISPARTOF | Carabineros De Iquique
+Rodolfo Fuenzalida Fernandez | ISRELATEDTO | Partido Socialista
+Juan Valencia Hinojosa | ISRELATEDTO | Partido Comunista
+Isaias Higueras Zúñiga | ISRELATEDTO | Partido Comunista
+Nelson Marquez Agusto | ISRELATEDTO | Partido Comunista
+German Palominos Lamas | ISRELATEDTO | Partido Socialista
+Manuel Sanhueza Mellado | ISRELATEDTO | Comité Central De Las Jjcc
+Fosa Clandestina De Pisagua | ISCONTAINEDIN | Pisagua
+Ex Aduana De Iquique | ISCONTAINEDIN | Iquique
+Marcelino Lamas Largo | WASPRESENTAT | Ex Aduana De Iquique
+Marcelino Lamas Largo | ISRELATEDTO | Ejército
+Avenida Salvador Allende | ISRELATEDTO | Pedro Prado Ortiz
+Agrupación De Vecinos Plaza Pedro Prado Ortiz | ISRELATEDTO | Avenida Salvador Allende
+Mario Díaz | ISRELATEDTO | Agrupación De Vecinos Plaza Pedro Prado Ortiz
+Pedro Prado Ortiz | ISRELATEDTO | Regimiento De Telecomunicaciones
+Jorge Rogelio Marín Rossel | WASPRESENTAT | Regimiento De Telecomunicaciones
+William Robert Millar Sanhueza | WASPRESENTAT | Regimiento De Telecomunicaciones
+Salomé Castillo Parraga | ISRELATEDTO | Jorge Rogelio Marín Rossel
+Carlos Forestier | ISRELATEDTO | Vi División De Ejército
+Felipe Arenas | ISRELATEDTO | Avenida Salvador Allende
+Jorge Rogelio Marín Rossel | ISRELATEDTO | Empresa Portuaria De Chile (Emporchi)
+William Robert Millar Sanhueza | ISRELATEDTO | Ferrocarriles Del Estado De Iquique
+Comisión Nacional De Verdad Y Reconciliación | ISRELATEDTO | Pedro Prado Ortiz
+Regimiento De Telecomunicaciones | ISPARTOF | Vi División De Ejército
+Avenida Salvador Allende | ISRELATEDTO | Avenida Luis Emilio Recabarren
+Jorge Rogelio Marín Rossel | ISRELATEDTO | Memoria Viva
+William Robert Millar Sanhueza | ISRELATEDTO | Memoria Viva
+Marcelino Lamas Largo | ISRELATEDTO | Partido Socialista
+Edición Cero | ISRELATEDTO | Pedro Prado Ortiz
+Cuartel De Investigaciones De Arica | ISCONTAINEDIN | Calle Angamos Nº 990-998 Arica I Región
+Grober Hugo Venegas Islas | WASPRESENTAT | Cuartel De Investigaciones De Arica
+Grober Hugo Venegas Islas | ISRELATEDTO | Caso Grober Hugo Venegas Islas
+Georgina Del Carmen Inostroza Valencia | ISRELATEDTO | Grober Hugo Venegas Islas
+Georgina Del Carmen Inostroza Valencia | ISRELATEDTO | Augusto Pinochet Ugarte
+José Luis Catalán Reyes | WASPRESENTAT | Ejecución En Valle De Azapa
+Patricio Padilla Villén | ISPARTOF | Cire
+José Lautaro Vignolo Quezada | ISPARTOF | Cire
+Rodolfo Calderón Marín | ISPARTOF | Cire
+Cuartel De Investigaciones De Arica | ISRELATEDTO | Cni
+Oscar Walter Pedro Ripollcodoceo | WASPRESENTAT | Ejecutions Del 20 De Octubre De 1973
+Julio Gastón Valenzuela Bastias | WASPRESENTAT | Ejecutions Del 20 De Octubre De 1973
+Manuel Francisco Donoso Dañobeitia | WASPRESENTAT | Ejecutions Del 20 De Octubre De 1973
+Waldo Sankán | WASPRESENTAT | Ejecutions Del 20 De Octubre De 1973
+José Luis Catalán Reyes | WASPRESENTAT | Regimiento Cazadores De Valdivia
+José Luis Catalán Reyes | WASPRESENTAT | Escuela De Caballería Blindada En Quillota
+Patricio Padilla Villén | ISRELATEDTO | Servicio De Inteligencia Militar
+Ejecución En Valle De Azapa | ISRELATEDTO | Patricio Padilla Villén
+Regimiento Rancagua De Arica | ISRELATEDTO | Ejecutions Del 20 De Octubre De 1973
+Grober Hugo Venegas Islas | WASPRESENTAT | Cuartel De La Policía De Investigaciones De Arica
+Centro De Inteligencia Regional (Cire) | ISRELATEDTO | Grober Hugo Venegas Islas
+Grober Hugo Venegas Islas | WASPRESENTAT | Cuartel Del Cire
+Cuartel Del Cire | ISCONTAINEDIN | Avenida Diego Portales
+Avenida Diego Portales | ISCONTAINEDIN | Ciudad De Arica
+Grober Hugo Venegas Islas | ISRELATEDTO | Valle De Azapa
+Patricio Padilla Villar | ISRELATEDTO | Sentencia De Secuestro De Grober Hugo Venegas Islas
+José Luis Catalán Reyes | ISRELATEDTO | Sentencia De Secuestro De Grober Hugo Venegas Islas
+José Vignolo Quezada | ISRELATEDTO | Sentencia De Secuestro De Grober Hugo Venegas Islas
+Rodrigo Olavarría Rodríguez | ISRELATEDTO | Sentencia De Secuestro De Grober Hugo Venegas Islas
+Corte De Apelaciones De Arica | ISRELATEDTO | Sentencia De Secuestro De Grober Hugo Venegas Islas
+Sentencia De Secuestro De Grober Hugo Venegas Islas | OCCURSAT | Ciudad De Arica
+Ejército De Chile | ISRELATEDTO | Grober Hugo Venegas Islas
+Centro De Inteligencia Regional (Cire) | ISPARTOF | Ejército De Chile
+El Supermercado | ISCONTAINEDIN | I Región
+El Supermercado | ISRELATEDTO | Ejército
+Ministerio De Educación | ISRELATEDTO | Escuela
+Ministerio De Educación | ISRELATEDTO | Multicancha Deportiva
+Ministerio De Educación | ISRELATEDTO | Fosa
+Ministerio De Educación | ISRELATEDTO | Mercado
+Ministerio De Educación | ISRELATEDTO | Teatro Municipal
+Ministerio De Educación | ISRELATEDTO | Ex-Cárcel Pública
+Nelson Bravo Ramírez | WASPRESENTAT | Regimiento De Telecomunicaciones
+Nelson Bravo Ramírez | WASPRESENTAT | Pisagua
+Carlos Herrera Jiménez | ISRELATEDTO | Nelson Márquez
+Luis Emilio Morales Marino | WASPRESENTAT | Regimiento De Telecomunicaciones
+Luis Emilio Morales Marino | WASPRESENTAT | Cárcel De Antofagasta
+Luis Emilio Morales Marino | WASPRESENTAT | Cárcel De Iquique
+Luis Emilio Morales Marino | WASPRESENTAT | Capuchinos
+Luis Emilio Morales Marino | OCCURSAT | Londres
+Luis Emilio Morales Marino | ISRELATEDTO | Ministerio De Economía
+Luis Emilio Morales Marino | ISRELATEDTO | Empresa Cooperativa De Consumo Norte Grande Limitada Coopenor
+Luis Emilio Morales Marino | ISRELATEDTO | Partido Comunista
+Luis Emilio Morales Marino | ISRELATEDTO | Carabineros
+Luis Emilio Morales Marino | OCCURSAT | Sexta División Del Ejército
+Miguel Aguirre | ISRELATEDTO | Luis Emilio Morales Marino
+Roberto Fuentes Zambrano | ISRELATEDTO | Luis Emilio Morales Marino
+Subteniente Conrado García | ISRELATEDTO | Luis Emilio Morales Marino
+Mercado | ISRELATEDTO | Teatro Municipal
+Ex-Cárcel Pública | ISRELATEDTO | Teatro Municipal
+Puerto De Pisagua | ISCONTAINEDIN | Pisagua
+Huara | ISCONTAINEDIN | Iquique
+Iquique | ISCONTAINEDIN | Tarapacá
+Rodrigo González López | ISRELATEDTO | Yasna Provoste Campillay
+Fiscal Militar Acuña | ISRELATEDTO | Luis Emilio Morales Marino
+Batallón Logístico N° 6 Pisagua | ISCONTAINEDIN | Iquique I Región
+Batallón Logístico N° 6 Pisagua | ISRELATEDTO | Ejército
+Base Aérea ‘Los Cóndores’ | ISCONTAINEDIN | Alto Hospicio
+Campamento De Prisioneros De Pisagua | ISCONTAINEDIN | Iquique I Región
+Cárcel Buen Pastor De Iquique | ISCONTAINEDIN | Iquique I Región
+Cárcel Pública De Arica | ISCONTAINEDIN | Arica I Región
+Industria Abandonada Frente A La Ex Citroen | ISCONTAINEDIN | Arica I Región
+Inmuebles En Avenida Santa Maria 2936 De Arica | ISCONTAINEDIN | Arica I Región
+Industria Abandonada Frente A La Ex Citroen | ISRELATEDTO | Cni
+Inmuebles En Avenida Santa Maria 2936 De Arica | ISRELATEDTO | Cni
+Industria Abandonada Frente A La Ex Citroen | ISRELATEDTO | Nun & Germán
+Campamento – Camping Las Machas Arica | ISCONTAINEDIN | Arica I Región
+Erick Otto Frederich Claussen Sparenberg | ISRELATEDTO | Base Aérea ‘Los Cóndores’
+Luis A. Lizardi Lizardi | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Marcelo O. Guzmán | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Nolberto Jesús Cañas | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Michel Selim Nash Saez | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Juan Calderón Villalón | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Juan Jiménez Vidal | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Julio C. Cabezas Gacitúa | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+José R. Córdova Croxato | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Juan Valencia Hinojosa | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Mario Morris Barrios | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Humberto Lizardi Flores | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Freddy Taberna Gallegos | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+José Sampson Ocaranza | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Juan A. Ruz Díaz | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Rodolfo Fuenzalida Fernández | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Germán Palominos Lamas | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Luis Higuera | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Nelson Márquez | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Luis Toro Castillo | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Alberto Yañez Carvajal | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Manuel Sanhueza Mellado | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Marcelino Lamas Largo | WASPRESENTAT | Batallón Logístico N° 6 Pisagua
+Campamento/Camping Las Machas De Arica | ISCONTAINEDIN | Las Dunas
+Las Dunas | ISCONTAINEDIN | Arica
+Arica | ISCONTAINEDIN | Arica I Región
+Campamento/Camping Las Machas De Arica | ISRELATEDTO | Ejército
+Campamento/Camping Las Machas De Arica | ISRELATEDTO | El Ciudadano
+Campamento/Camping Las Machas De Arica | ISRELATEDTO | Informe Valech
+Campamento/Camping Las Machas De Arica | ISRELATEDTO | Golpe De Estado En Chile (1973)
+Campamento/Camping Las Machas De Arica | ISRELATEDTO | Dictadura Militar En Chile
+Base Aérea Los Cóndores | ISCONTAINEDIN | Alto Hospicio
+Base Aérea Los Cóndores | ISRELATEDTO | Dictadura Militar En Chile
+Batallón Logístico N° 6 Pisagua | ISCONTAINEDIN | Iquique
+Campamento De Prisioneros De Pisagua | ISCONTAINEDIN | Pisagua
+Batallón Logístico N° 6 Pisagua | ISRELATEDTO | Dictadura Militar En Chile
+Campamento De Prisioneros De Pisagua | ISRELATEDTO | Dictadura Militar En Chile
+Cárcel Buen Pastor De Iquique | ISCONTAINEDIN | Iquique
+Cárcel Buen Pastor De Iquique | ISRELATEDTO | Dictadura Militar En Chile
+Cárcel Pública De Arica | ISCONTAINEDIN | Arica
+Cárcel Pública De Arica | ISRELATEDTO | Dictadura Militar En Chile
+Erick Otto Frederich Claussen Sparenberg | ISRELATEDTO | Base Aérea Los Cóndores
+Luis A. Lizardi Lizardi | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Marcelo O. Guzmán | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Nolberto Jesús Cañas | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Michel Selim Nash Saez | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Juan Calderón Villalón | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Juan Jiménez Vidal | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Julio C. Cabezas Gacitúa | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+José R. Córdova Croxato | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Juan Valencia Hinojosa | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Mario Morris Barrios | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Humberto Lizardi Flores | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Freddy Taberna Gallegos | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+José Sampson Ocaranza | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Juan A. Ruz Díaz | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Rodolfo Fuenzalida Fernández | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Germán Palominos Lamas | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Luis Higuera | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Nelson Márquez | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Luis Toro Castillo | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Alberto Yañez Carvajal | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Manuel Sanhueza Mellado | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Marcelino Lamas Largo | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Cárcel Pública De Arica | ISRELATEDTO | Laizquierdadiario.Com
+Decreto De Ley N°4 (11 De Septiembre De 1973) Declaration Of Zona En Estado De Emergencia | OCCURSAT | Arica
+Golpe Del 11 De Septiembre De 1973 | OCCURSAT | Arica
+Año Brutal 1986 | ISRELATEDTO | Dictadura Militar En Arica
+Luis Pino Soto | ISRELATEDTO | Liceo A-1
+Atentado En La Iglesia Del Carmen | OCCURSAT | Iglesia Del Carmen
+Atentado En La Iglesia Del Carmen | ISRELATEDTO | Armagedón
+Pilo Durana | ISRELATEDTO | Armagedón
+Pilo Durana | ISRELATEDTO | Bolsonaro
+Recinto Cni, Calle Azola | ISRELATEDTO | Cni
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35, Población San Miguel De Azapa | ISRELATEDTO | Cni
+Recinto Dina, Calle Diego Portales | ISRELATEDTO | Dina
+Casa De Seguridad 'Carrera Pinto' | ISRELATEDTO | Dina
+Casa De Seguridad 'Carrera Pinto' | ISRELATEDTO | Cni
+Armagedón | ISRELATEDTO | Patria Y Libertad
+Atentado En La Iglesia Del Carmen | ISRELATEDTO | Dictadura Militar En Arica
+Luis Pino Soto | ISRELATEDTO | Dictadura Militar En Arica
+Campamento De Prisioneros De Pisagua | OCCURSAT | Pisagua
+Cárcel De Pisagua | OCCURSAT | Pisagua
+Campamento De Prisioneros De Pisagua | ISRELATEDTO | Sexta División Del Ejército
+Campamento De Prisioneros De Pisagua | ISRELATEDTO | Ejército
+Alberto Enrique Neumann Lagos | WASPRESENTAT | Cárcel De Pisagua
+Alberto Enrique Neumann Lagos | ISRELATEDTO | Municipalidad De Valparaíso
+Alberto Enrique Neumann Lagos | ISRELATEDTO | Hospital Deformes
+Teniente Coronel Ramón Larraín Larraín | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+General De Brigada Carlos Forestier Haensgen | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Capellán Murillo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nelson Márquez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Orlando Tomás Cabello Cabello | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nicolás Chanez Chanez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Mamani Garcia | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Aníbal Manriquez Wilden | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Hugo Tomás Martinez Guillen | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Rojas Osega | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Julio Cabezas Gacitua | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José Cordova Croxatto | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Humberto Lizardi Flores | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Mario Morris Barrios | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Valencia Hinojosa | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Rodolfo Jacinto Fuenzalida Fernandez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Antonio Ruz Diaz | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José Demóstenes Rosier Sampson Ocaranza | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Freddy Marcelo Taberba Gallegos | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Germán Eladio Palominos Lamas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Alarcón | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nolberto Cañas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelo Guzmán | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Michel Nash | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Lizardi | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Jiménez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Calderón Villalón | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Higuera | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Toro Castillo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Alberto Yañez Carvajal | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Manuel Sanhueza Mellado | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelino Lamas Largo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Alberto Enrique Neumann Lagos | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Mario Acuña Riquelme | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Mayor Plácido Muñoz Faúndez | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Teniente Portales | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Comandante Larraín | ISRELATEDTO | Pelotón De Fusilamiento
+Pelotón De Fusilamiento | WASPRESENTAT | Fusilamiento De Prisioneros En Pisagua
+Oficial Anónimo | ISRELATEDTO | Juan Valencia
+Juan Valencia | ISRELATEDTO | Fusilamiento De Prisioneros En Pisagua
+Humberto Lizardi | ISRELATEDTO | Fusilamiento De Prisioneros En Pisagua
+Mario Morris | ISRELATEDTO | Fusilamiento De Prisioneros En Pisagua
+José Córdova | ISRELATEDTO | Fusilamiento De Prisioneros En Pisagua
+Julio Cabezas | ISRELATEDTO | Fusilamiento De Prisioneros En Pisagua
+Fusilamiento De Prisioneros En Pisagua | OCCURSAT | Pisagua
+Zanja De Enterramiento En Pisagua | ISCONTAINEDIN | Pisagua
+Fusilamiento De Prisioneros En Pisagua | ISRELATEDTO | El País
+Jini Arancibia | ISRELATEDTO | Freddy Taberna
+Freddy Taberna | ISRELATEDTO | Partido Socialista De Iquique
+Pedro Arancibia | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Augusto Pinochet | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Alberto Newmann | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Freddy Alonso | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Sargento Retirado | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Francisco Prieto | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Carlos Vila | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Haroldo Quinteros | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Hernán Sánchez | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Hernán Sánchez | ISRELATEDTO | Corte Suprema
+Nelson Muñoz Morales | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Jaime Estévez | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Héctor Salazar | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Carlos Vilas | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Ernesto Montoya | ISRELATEDTO | Denuncia Por Inhumación Ilegal En Pisagua
+Denuncia Por Inhumación Ilegal En Pisagua | ISRELATEDTO | Juzgado De Crimen De Pozo Almonte
+Denuncia Por Inhumación Ilegal En Pisagua | ISRELATEDTO | Vicaría De La Solidaridad De Santiago
+Denuncia Por Inhumación Ilegal En Pisagua | ISRELATEDTO | Comisión De Derechos Humanos
+Central Nacional De Informaciones | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Ex Colonia Dignidad | ISRELATEDTO | Golpe Militar De 1973 En Chile
+Denuncia Por Inhumación Ilegal En Pisagua | ISRELATEDTO | La Tercera
+Denuncia Por Inhumación Ilegal En Pisagua | OCCURSAT | Ribera Del Río Camarones
+Ribera Del Río Camarones | ISCONTAINEDIN | Quillagua Viejo
+Alberto Neumann Lagos | ISRELATEDTO | La Vicaría De La Solidaridad
+Cementerio Clandestino | ISRELATEDTO | Cementerio De Pisagua
+Concertación | ISRELATEDTO | Elecciones De Diciembre De 1989
+Patricio Aylwin | ISRELATEDTO | Concertación
+Denuncia Interpuesta El 31 De Mayo | ISRELATEDTO | Campo De Concentración De Pisagua
+Traslado De 38 Detenidos A Pisagua | OCCURSAT | Campo De Concentración De Pisagua
+Francisco Prieto Enríquez | WASPRESENTAT | Campo De Concentración De Pisagua
+Patricio Aylwin | ISRELATEDTO | Comisión De Verdad Y Reconciliación
+Ramón Larraín | ISRELATEDTO | Campo De Concentración De Pisagua
+Ramón Larraín | ISRELATEDTO | Juan Alarcón
+Ramón Larraín | ISRELATEDTO | Nolberto Cañas
+Ramón Larraín | ISRELATEDTO | Marcelo Guzmán
+Ramón Larraín | ISRELATEDTO | Michel Nash
+Ramón Larraín | ISRELATEDTO | Luis Lizardi
+Ramón Larraín | ISRELATEDTO | Juan Jiménez
+Consejo De Guerra | ISRELATEDTO | José Córdova
+Consejo De Guerra | ISRELATEDTO | Humberto Lizardi
+Consejo De Guerra | ISRELATEDTO | Mario Morris
+Consejo De Guerra | ISRELATEDTO | Julio Cabezas
+Consejo De Guerra | ISRELATEDTO | Juan Valencia
+Mario Acuña | ISRELATEDTO | Julio Cabezas
+Iglesia De Valdivia | ISRELATEDTO | Inhumación Ilegal En Futrono Y Chihuío
+Inhumación Ilegal En Futrono Y Chihuío | OCCURSAT | Futrono
+Inhumación Ilegal En Futrono Y Chihuío | OCCURSAT | Chihuío
+Fosa Clandestina En Calama | OCCURSAT | Calama
+Fosa Anónima En Cementerio De Copiapó | OCCURSAT | Cementerio De Copiapó
+Descubrimiento En Cerro Mutrún | OCCURSAT | Cerro Mutrún
+Descubrimiento En Cementerio La Playa De Constitución | OCCURSAT | Cementerio La Playa De Constitución
+Descubrimiento En Pique De Tocopilla | OCCURSAT | Tocopilla
+Ejecución De Campesinos En Paine Y Cuesta De Chada | OCCURSAT | Paine
+Ejecución De Campesinos En Paine Y Cuesta De Chada | OCCURSAT | Cuesta De Chada
+Descubrimiento En Cementerio General De Santiago | OCCURSAT | Cementerio General De Santiago
+Cuerpo De Generales | ISRELATEDTO | Augusto Pinochet
+Ricardo Izurieta | ISRELATEDTO | Cuerpo De Generales
+Jorge "Chino" Navarrete | WASPRESENTAT | Campo De Concentración De Pisagua
+Álvaro Escobar | ISRELATEDTO | Jorge "Chino" Navarrete
+Jorge "Chino" Navarrete | ISRELATEDTO | Lalo Cabrera
+Visita A Pisagua: Recorrido De Memoria | OCCURSAT | Pisagua
+Universidad De Chile | ISRELATEDTO | Visita A Pisagua: Recorrido De Memoria
+Universidad Arturo Prat | ISRELATEDTO | Visita A Pisagua: Recorrido De Memoria
+Corporación De Ex Presos Políticos De Pisagua | ISRELATEDTO | Visita A Pisagua: Recorrido De Memoria
+Juana Torres | ISRELATEDTO | Corporación De Ex Presos Políticos De Pisagua
+Claudio Nash | ISRELATEDTO | Universidad De Chile
+Óscar Varela | ISRELATEDTO | Corporación De Ex Presos Políticos De Pisagua
+Juan Ramírez | ISRELATEDTO | Corporación De Ex Presos Políticos De Pisagua
+Jaime Coronil | ISRELATEDTO | Corporación De Ex Presos Políticos De Pisagua
+Guerra Civil De 1891 | OCCURSAT | Pisagua
+José Manuel Balmaceda | ISRELATEDTO | Guerra Civil De 1891
+Anselmo Blanlot Holley | ISRELATEDTO | Enrique Vedia
+Félix Morales Cortés | OCCURSAT | Pisagua
+Félix Morales Cortés | ISCONTAINEDIN | Iquique
+Félix Morales Cortés | ISRELATEDTO | Ministerio Del Interior
+Angel Veas | OCCURSAT | Pisagua
+General Pinochet | WASPRESENTAT | Golpe De Estado 1973
+Freddy Taberna | OCCURSAT | Pisagua
+Juan Antonio Ruz Díaz | OCCURSAT | Pisagua
+Rodolfo Fuenzalida Fernández | OCCURSAT | Pisagua
+José Sampson Ocaranza | OCCURSAT | Pisagua
+Luis Alberto Lizardi Lizardi | OCCURSAT | Pisagua
+Marcelo Guzmán Fuentes | OCCURSAT | Pisagua
+Michel Nash Sáez | OCCURSAT | Pisagua
+Nelson Muñoz Morales | WASPRESENTAT | Hallazgo De La Fosa Común En Pisagua
+Héctor Taberna | ISRELATEDTO | Freddy Taberna
+Freddy Taberna | ISRELATEDTO | Partido Socialista
+Corte Suprema | ISRELATEDTO | Sergio Benavides Villarreal
+Corte Suprema | ISRELATEDTO | Manuel Vega Collao
+Corte Suprema | ISRELATEDTO | Roberto Ampuero Alarcón
+Corte Suprema | ISRELATEDTO | Gabriel Guerrero Reeve
+Corte Suprema | ISRELATEDTO | Arturo Contador Rosales
+Corte Suprema | ISRELATEDTO | Sergio Figueroa López
+Corte Suprema | ISRELATEDTO | Miguel Aguirre Álvarez
+Obispo Javier Prado Aránguiz | WASPRESENTAT | Pisagua 1984 Reconditioning
+Mario Carroza | ISRELATEDTO | Mario Acuña
+Mario Acuña | OCCURSAT | Pisagua
+Juzgado De Pozo Almonte | ISRELATEDTO | Hallazgo De La Fosa Común En Pisagua
+General Forestier | ISRELATEDTO | Pisagua
+Teniente Larrain | ISRELATEDTO | Pisagua
+Hernán Crueles | ISRELATEDTO | Mario
+Hernán Crueles | ISRELATEDTO | Lucho
+Oscar | ISRELATEDTO | Olga
+Manuel Eduardo Sanhueza Mellado | OCCURSAT | Pisagua
+Nicolás Chanez Chanez | OCCURSAT | Pisagua
+Tomás Orlando Cabello Cabello | OCCURSAT | Pisagua
+Luis Manríquez Wilde | OCCURSAT | Pisagua
+Juan Orlando Rojas Osega | OCCURSAT | Pisagua
+Hugo Tomás Martínez Guillén | OCCURSAT | Pisagua
+Alberto Amador Yáñez Carvajal | OCCURSAT | Pisagua
+Luis Alberto Toro Castillo | OCCURSAT | Pisagua
+Nelson José Márquez Agusto | OCCURSAT | Pisagua
+Germán Elidio Palominos Lamas | OCCURSAT | Pisagua
+Juan Apolinario Mamani García | OCCURSAT | Pisagua
+José Rufino Córdova Croxatto | OCCURSAT | Pisagua
+Julio César Cabezas Gacitúa | OCCURSAT | Pisagua
+Mario Morris Barrios | OCCURSAT | Pisagua
+Humberto Lizardi Flores | OCCURSAT | Pisagua
+Juan Efraín Calderón Villalon | OCCURSAT | Pisagua
+Vicaría De La Solidaridad | ISRELATEDTO | Hallazgo De Fosa Común De Pisagua
+Hallazgo De Fosa Común De Pisagua | OCCURSAT | Campamento De Prisioneros De Pisagua
+Juzgado De Pozo Almonte | ISRELATEDTO | Hallazgo De Fosa Común De Pisagua
+Corte De Apelaciones De Arica | ISRELATEDTO | Juzgado De Pozo Almonte
+Séptimo Juzgado Militar De Arica | ISRELATEDTO | Hallazgo De Fosa Común De Pisagua
+Justicia Militar | ISRELATEDTO | Séptimo Juzgado Militar De Arica
+Corte Suprema | ISRELATEDTO | Vicaría De La Solidaridad
+General Augusto Pinochet | ISRELATEDTO | Hallazgo De Fosa Común De Pisagua
+Documental Huellas De Sal | ISRELATEDTO | Grupo Proceso
+Documental Huellas De Sal | ISRELATEDTO | Andrés Vargas
+Golpe De Estado | ISRELATEDTO | Campamento De Prisioneros De Pisagua
+Cárcel Buen Pastor De Iquique | ISCONTAINEDIN | Luis Cruz Martínez Nº 1260
+Luis Cruz Martínez Nº 1260 | ISCONTAINEDIN | Iquique
+Cárcel Buen Pastor De Iquique | ISRELATEDTO | Gendarmería
+Cárcel De Mujeres Buen Pastor, Arica | ISCONTAINEDIN | Colón Nº 30 Entre Calle Andrés Bello Y Pasaje El Morro
+Colón Nº 30 Entre Calle Andrés Bello Y Pasaje El Morro | ISCONTAINEDIN | Arica
+Cárcel De Mujeres Buen Pastor, Arica | ISRELATEDTO | Gendarmería
+Campamento/Camping Las Machas, Arica | ISCONTAINEDIN | Arica
+Cárcel Anexa, Ex Comercial, Calle Yungay Arica | ISCONTAINEDIN | Arica
+Cárcel De Arica | ISCONTAINEDIN | Arica
+Casa De Seguridad De La Dina/Cni “Carrera Pinto”, Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros Carlos Dittborn, Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros De Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros Nº 3, Arica | ISCONTAINEDIN | Arica
+Cuartel De Investigaciones, Arica | ISCONTAINEDIN | Arica
+Industria Abandonada – Frente A La Ex Citroen (Nun & Germán), Arica | ISCONTAINEDIN | Arica
+Inmueble En Avenida Santa María 2936, Sector Industrial De Arica | ISCONTAINEDIN | Arica
+Loteo Tarapacá Oriente, 7, Manzana Ll, Arica | ISCONTAINEDIN | Arica
+Prefectura De Carabineros, Arica | ISCONTAINEDIN | Arica
+Recinto Cni, Calle Azola, Arica | ISCONTAINEDIN | Arica
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35 Población San Miguel De Azapa, Arica | ISCONTAINEDIN | Arica
+Recinto Dina En Calle Diego Portales S/N, Arica | ISCONTAINEDIN | Arica
+Regimiento Motorizado Reforzado Nº 4 “Rancagua” De Arica | ISCONTAINEDIN | Arica
+Cárcel Pública De Arica | ISRELATEDTO | Gendarmería
+Cárcel Pública De Arica | ISRELATEDTO | Comisión Valech
+Cárcel Pública De Arica | ISRELATEDTO | El Ciudadano
+Cárcel Pública De Arica | ISRELATEDTO | Laizquierdadiario.Com
+Base Aérea Los Cóndores | ISRELATEDTO | Erick Otto Frederich Claussen Sparenberg
+Luis A. Lizardi Lizardi | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelo O. Guzmán | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nolberto Jesús Cañas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Michel Selim Nash Saez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Calderón Villalón | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Jiménez Vidal | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Julio C. Cabezas Gacitúa | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José R. Córdova Croxato | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan Valencia Hinojosa | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Mario Morris Barrios | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Humberto Lizardi Flores | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Freddy Taberna Gallegos | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+José Sampson Ocaranza | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Juan A. Ruz Díaz | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Rodolfo Fuenzalida Fernández | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Germán Palominos Lamas | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Higuera | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Nelson Márquez | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Luis Toro Castillo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Alberto Yañez Carvajal | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Manuel Sanhueza Mellado | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Marcelino Lamas Largo | WASPRESENTAT | Campamento De Prisioneros De Pisagua
+Decreto De Ley N°4 Del 11 De Septiembre De 1973 | ISRELATEDTO | Arica
+Golpe Del 11 De Septiembre De 1973 | ISRELATEDTO | Dictadura En Arica
+Luis Pino Soto | ISRELATEDTO | Dictadura En Arica
+Luis Pino Soto | ISRELATEDTO | Liceo A-1
+Pilo Durana | ISRELATEDTO | Armagedón
+Pilo Durana | ISRELATEDTO | Bolsonaro
+Armagedón | ISRELATEDTO | Iglesia Del Carmen
+Armagedón | ISRELATEDTO | Patria Y Libertad
+Mítines Y Marchas De Resistencia | OCCURSAT | Rotonda Tucapel
+Mítines Y Marchas De Resistencia | OCCURSAT | Calle Libertad
+Mítines Y Marchas De Resistencia | OCCURSAT | Plaza 1Ero De Mayo
+Mítines Y Marchas De Resistencia | OCCURSAT | Diego Portales Con Av. Santa María
+Mítines Y Marchas De Resistencia | OCCURSAT | Diego Portales Con Azola
+Mítines Y Marchas De Resistencia | OCCURSAT | Gonzalo Cerda Con Chapiquiña
+Campamento/Camping Las Machas | ISRELATEDTO | Dina
+Campamento/Camping Las Machas | ISRELATEDTO | Cni
+Cárcel Anexa, Ex Comercial, Calle Yungay | ISRELATEDTO | Dina
+Cárcel Anexa, Ex Comercial, Calle Yungay | ISRELATEDTO | Cni
+Cárcel De Arica | ISRELATEDTO | Dina
+Cárcel De Arica | ISRELATEDTO | Cni
+Cárcel De Mujeres Buen Pastor De Arica | ISRELATEDTO | Dina
+Cárcel De Mujeres Buen Pastor De Arica | ISRELATEDTO | Cni
+Casa De Seguridad De La Dina/Cni “Carrera Pinto” | ISRELATEDTO | Dina
+Casa De Seguridad De La Dina/Cni “Carrera Pinto” | ISRELATEDTO | Cni
+Comisaría De Carabineros Carlos Dittborn | ISRELATEDTO | Dina
+Comisaría De Carabineros Carlos Dittborn | ISRELATEDTO | Cni
+Comisaría De Carabineros De Arica | ISRELATEDTO | Dina
+Comisaría De Carabineros De Arica | ISRELATEDTO | Cni
+Comisaría De Carabineros Nº 3 | ISRELATEDTO | Dina
+Comisaría De Carabineros Nº 3 | ISRELATEDTO | Cni
+Cuartel De Investigaciones, Arica | ISRELATEDTO | Dina
+Cuartel De Investigaciones, Arica | ISRELATEDTO | Cni
+Industria Abandonada – Frente A La Ex Citroen (Nun & Germán) | ISRELATEDTO | Dina
+Industria Abandonada – Frente A La Ex Citroen (Nun & Germán) | ISRELATEDTO | Cni
+Inmueble En Avenida Santa María 2936, Sector Industrial De Arica | ISRELATEDTO | Dina
+Inmueble En Avenida Santa María 2936, Sector Industrial De Arica | ISRELATEDTO | Cni
+Loteo Tarapacá Oriente, 7, Manzana Ll, Arica | ISRELATEDTO | Dina
+Loteo Tarapacá Oriente, 7, Manzana Ll, Arica | ISRELATEDTO | Cni
+Prefectura De Carabineros, Arica | ISRELATEDTO | Dina
+Prefectura De Carabineros, Arica | ISRELATEDTO | Cni
+Recinto Cni, Calle Azola, Arica | ISRELATEDTO | Dina
+Recinto Cni, Calle Azola, Arica | ISRELATEDTO | Cni
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35 Población San Miguel De Azapa, Arica | ISRELATEDTO | Dina
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35 Población San Miguel De Azapa, Arica | ISRELATEDTO | Cni
+Recinto Dina En Calle Diego Portales | ISRELATEDTO | Dina
+Recinto Dina En Calle Diego Portales | ISRELATEDTO | Cni
+Regimiento Motorizado Reforzado Nº 4 “Rancagua” De Arica | ISRELATEDTO | Dina
+Regimiento Motorizado Reforzado Nº 4 “Rancagua” De Arica | ISRELATEDTO | Cni
+Cárcel Pública De Iquique | ISCONTAINEDIN | Calle Wilson N° 281, Iquique
+Calle Wilson N° 281, Iquique | ISPARTOF | Iquique
+Iquique | ISPARTOF | I Región
+Campamento/Camping Las Machas, Arica | ISCONTAINEDIN | Arica
+Cárcel Anexa, Ex Comercial, Calle Yungay Arica | ISCONTAINEDIN | Arica
+Cárcel De Arica, Arica | ISCONTAINEDIN | Arica
+Cárcel De Mujeres Buen Pastor De Arica | ISCONTAINEDIN | Arica
+Casa De Seguridad De La Dina/Cni “Carrera Pinto”, Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros Carlos Dittborn, Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros De Arica | ISCONTAINEDIN | Arica
+Comisaría De Carabineros Nº 3, Arica | ISCONTAINEDIN | Arica
+Cuartel De Investigaciones, Arica | ISCONTAINEDIN | Arica
+Industria Abandonada – Frente A La Ex Citroen (Nun & Germán), Arica | ISCONTAINEDIN | Arica
+Inmueble En Avenida Santa María 2936, Sector Industrial De Arica, Arica | ISCONTAINEDIN | Arica
+Loteo Tarapacá Oriente, 7, Manzana Ll, Arica | ISCONTAINEDIN | Arica
+Prefectura De Carabineros, Arica | ISCONTAINEDIN | Arica
+Recinto Cni, Calle Azola, Arica | ISCONTAINEDIN | Arica
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35 Población San Miguel De Azapa, Arica | ISCONTAINEDIN | Arica
+Recinto Dina En Calle Diego Portales S/N, Arica | ISCONTAINEDIN | Arica
+Regimiento Motorizado Reforzado Nº 4 “Rancagua” De Arica | ISCONTAINEDIN | Arica
+Rotonda Tucapel | ISCONTAINEDIN | Arica
+Calle Libertad | ISCONTAINEDIN | Arica
+Plaza 1Ero De Mayo | ISCONTAINEDIN | Arica
+Diego Portales Con Av. Santa María | ISCONTAINEDIN | Arica
+Diego Portales Con Azola | ISCONTAINEDIN | Arica
+Gonzalo Cerda Con Chapiquiña | ISCONTAINEDIN | Arica
+Luis Pino Soto | ISRELATEDTO | Liceo A-1
+Pilo Durana | ISRELATEDTO | Bolsonaro
+Casa De Seguridad De La Dina/Cni “Carrera Pinto”, Arica | ISRELATEDTO | Dina
+Casa De Seguridad De La Dina/Cni “Carrera Pinto”, Arica | ISRELATEDTO | Cni
+Recinto Dina En Calle Diego Portales S/N, Arica | ISRELATEDTO | Dina
+Recinto Cni, Calle Azola, Arica | ISRELATEDTO | Cni
+Recinto Cni, Camino A Azapa S/N, Parcela Nº 35 Población San Miguel De Azapa, Arica | ISRELATEDTO | Cni
+Armagedón | ISRELATEDTO | Patria Y Libertad
+Pilo Durana | ISRELATEDTO | Armagedón
+Laizquierdadiario.Com | ISRELATEDTO | Informe Valech
+Carcel Publica De Pisagua | OCCURSAT | Videla Iquique I Región
+Carcel Publica De Pisagua | ISRELATEDTO | Gendarmería
+Carcel Publica De Pisagua | ISRELATEDTO | Regimiento De Telecomunicaciones Nº 6 'Tarapacá'
+Carcel Publica De Pisagua | ISRELATEDTO | Comisarías De La Región
+Carcel Publica De Pisagua | ISRELATEDTO | Valparaíso
+Buque Maipo | ISRELATEDTO | Armada
+Armada | ISRELATEDTO | Carcel Publica De Pisagua
+Coronel Larrain | ISRELATEDTO | Carcel Publica De Pisagua
+Cabo Abarca | ISRELATEDTO | Carcel Publica De Pisagua
+Cabo Contador | ISRELATEDTO | Carcel Publica De Pisagua
+Ministerio De Educación | ISRELATEDTO | Escuela
+Ministerio De Educación | ISRELATEDTO | Multicancha Deportiva
+Ministerio De Educación | ISRELATEDTO | Fosa
+Ministerio De Educación | ISRELATEDTO | Mercado
+Ministerio De Educación | ISRELATEDTO | Teatro Municipal
+Ministerio De Educación | ISRELATEDTO | Carcel Publica De Pisagua
+Carcel Publica De Pisagua | ISCONTAINEDIN | Puerto De Pisagua
+Puerto De Pisagua | ISCONTAINEDIN | Comuna De Huara
+Comuna De Huara | ISCONTAINEDIN | Provincia De Iquique
+Provincia De Iquique | ISCONTAINEDIN | Región De Tarapacá
+Carcel Publica De Pisagua | ISRELATEDTO | Gabriel González Videla
+Carcel Publica De Pisagua | ISRELATEDTO | Carlos Ibáñez Del Campo
+Carcel Publica De Pisagua | ISRELATEDTO | Pinochet
+Corporación De Derechos Humanos Y Sitios De La Memoria De Tarapacá | ISRELATEDTO | Carcel Publica De Pisagua
+Rodrigo González López | ISRELATEDTO | Ministerio De Educación
+Yasna Provoste Campillay | ISRELATEDTO | Ministerio De Educación
+Felipe Rocha P. | ISRELATEDTO | Municipalidad De Huara
+Belén Rojas Silva | ISRELATEDTO | Carcel Publica De Pisagua
+Anyelina Rojas Valdés | ISRELATEDTO | Carcel Publica De Pisagua
+Comisión Nacional De Verdad Y Reconciliación | ISRELATEDTO | Carcel Publica De Pisagua
+Comisión Chilena De Dd.Hh. Capítulo Iquique | ISRELATEDTO | Carcel Publica De Pisagua
+Fosa | ISCONTAINEDIN | Cementerio Histórico
+Teatro Municipal | ISCONTAINEDIN | Puerto De Pisagua
+Escuela | ISCONTAINEDIN | Puerto De Pisagua
+Multicancha Deportiva | ISCONTAINEDIN | Puerto De Pisagua
+Hombre Detenido Octubre 1973 - Cárcel Y Retén De Pisagua | OCCURSAT | Cárcel Y Retén De Pisagua
+Hombre Detenido Mayo 1975 - Regimiento Chorrillos De Talca | OCCURSAT | Regimiento Chorrillos De Talca
+Hombre Detenido Noviembre 1975 - Dina Villa Grimaldi | OCCURSAT | Dina Villa Grimaldi
+Hombre Detenido Septiembre 1973 - 3A Comisaría De Rahue, Osorno | OCCURSAT | 3A Comisaría De Rahue, Osorno
+Hombre Detenido Diciembre 1973 - Regimiento Chorrillos De Talca | OCCURSAT | Regimiento Chorrillos De Talca
+Hombre Detenido Octubre 1973 - Casa De La Cultura De Barrancas | OCCURSAT | Casa De La Cultura De Barrancas
+Hombre Detenido Diciembre 1983 - Cuartel General De Investigaciones (General Mackenna) | OCCURSAT | Cuartel General De Investigaciones (General Mackenna)
+Hombre Detenido Septiembre 1973 - Regimiento De Copiapó | OCCURSAT | Regimiento De Copiapó
+Hombre Detenido Septiembre 1973 - Comisaría De Carabineros De Los Andes | OCCURSAT | Comisaría De Carabineros De Los Andes, V Región
+Mujer Detenida Enero 1974 - Dina Calle Londres 38 | OCCURSAT | Dina Calle Londres 38
+Hombre Detenido Enero 1975 - Dina Villa Grimaldi | OCCURSAT | Dina Villa Grimaldi
+Hombre Detenido Octubre 1973 - Cárcel Y Retén De Pisagua | ISRELATEDTO | Golpizas
+Hombre Detenido Octubre 1973 - Cárcel Y Retén De Pisagua | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Mayo 1975 - Regimiento Chorrillos De Talca | ISRELATEDTO | Golpizas
+Hombre Detenido Mayo 1975 - Regimiento Chorrillos De Talca | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Noviembre 1975 - Dina Villa Grimaldi | ISRELATEDTO | Golpizas
+Hombre Detenido Noviembre 1975 - Dina Villa Grimaldi | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Septiembre 1973 - 3A Comisaría De Rahue, Osorno | ISRELATEDTO | Golpizas
+Hombre Detenido Septiembre 1973 - 3A Comisaría De Rahue, Osorno | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Diciembre 1973 - Regimiento Chorrillos De Talca | ISRELATEDTO | Golpizas
+Hombre Detenido Diciembre 1973 - Regimiento Chorrillos De Talca | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Octubre 1973 - Casa De La Cultura De Barrancas | ISRELATEDTO | Golpizas
+Hombre Detenido Octubre 1973 - Casa De La Cultura De Barrancas | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Diciembre 1983 - Cuartel General De Investigaciones (General Mackenna) | ISRELATEDTO | Golpizas
+Hombre Detenido Diciembre 1983 - Cuartel General De Investigaciones (General Mackenna) | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Septiembre 1973 - Regimiento De Copiapó | ISRELATEDTO | Golpizas
+Hombre Detenido Septiembre 1973 - Regimiento De Copiapó | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Septiembre 1973 - Regimiento De Copiapó | ISRELATEDTO | Colgamientos
+Hombre Detenido Septiembre 1973 - Comisaría De Carabineros De Los Andes | ISRELATEDTO | Golpizas
+Hombre Detenido Septiembre 1973 - Comisaría De Carabineros De Los Andes | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Septiembre 1973 - Comisaría De Carabineros De Los Andes | ISRELATEDTO | Colgamientos
+Mujer Detenida Enero 1974 - Dina Calle Londres 38 | ISRELATEDTO | Golpizas
+Mujer Detenida Enero 1974 - Dina Calle Londres 38 | ISRELATEDTO | Lesiones Corporales Deliberadas
+Mujer Detenida Enero 1974 - Dina Calle Londres 38 | ISRELATEDTO | Colgamientos
+Hombre Detenido Enero 1975 - Dina Villa Grimaldi | ISRELATEDTO | Golpizas
+Hombre Detenido Enero 1975 - Dina Villa Grimaldi | ISRELATEDTO | Lesiones Corporales Deliberadas
+Hombre Detenido Enero 1975 - Dina Villa Grimaldi | ISRELATEDTO | Colgamientos
+Hombre Detenido Octubre 1973 - Cárcel Y Retén De Pisagua | ISRELATEDTO | Comisión
+Hombre Detenido Mayo 1975 - Regimiento Chorrillos De Talca | ISRELATEDTO | Comisión
+Hombre Detenido Noviembre 1975 - Dina Villa Grimaldi | ISRELATEDTO | Comisión
+Hombre Detenido Septiembre 1973 - 3A Comisaría De Rahue, Osorno | ISRELATEDTO | Comisión
+Hombre Detenido Diciembre 1973 - Regimiento Chorrillos De Talca | ISRELATEDTO | Comisión
+Hombre Detenido Octubre 1973 - Casa De La Cultura De Barrancas | ISRELATEDTO | Comisión
+Hombre Detenido Diciembre 1983 - Cuartel General De Investigaciones (General Mackenna) | ISRELATEDTO | Comisión
+Hombre Detenido Septiembre 1973 - Regimiento De Copiapó | ISRELATEDTO | Comisión
+Hombre Detenido Septiembre 1973 - Comisaría De Carabineros De Los Andes | ISRELATEDTO | Comisión
+Mujer Detenida Enero 1974 - Dina Calle Londres 38 | ISRELATEDTO | Comisión
+Hombre Detenido Enero 1975 - Dina Villa Grimaldi | ISRELATEDTO | Comisión
+Dina | ISRELATEDTO | Villa Grimaldi
+Dina | ISRELATEDTO | Dina De Londres 38
+Cni | ISRELATEDTO | Cuartel De La Cni En Valdivia
+Cni | ISRELATEDTO | Cuartel De La Cni De Calle Borgoño
+Detenido Diciembre 1983 | OCCURSAT | Villa Grimaldi
+Detenido Diciembre 1983 | OCCURSAT | Cuartel General De Investigaciones (General Mackenna)
+Detenido Septiembre 1973 (Osorno) | OCCURSAT | Fiscalía Militar De Osorno
+Detenido Octubre 1973 (Linares) | OCCURSAT | Escuela De Artillería De Linares
+Detenido Octubre 1973 (Curanilahue) | OCCURSAT | Comisaría De Curanilahue
+Detenido Abril 1974 | OCCURSAT | Dina De Londres 38
+Detenido Agosto 1984 | OCCURSAT | Cuartel De La Cni En Valdivia
+Detenido Octubre 1985 | OCCURSAT | Cuartel De La Cni De Calle Borgoño
+Detenido Octubre 1973 (Fuerte Müller) | OCCURSAT | Fuerte Müller De Infantería De Marina De Las Salinas
+Hombre Detenido En Agosto De 1974 | OCCURSAT | Primera Comisaría De Carabineros De Calama
+Mujer Detenida En Enero De 1975 | OCCURSAT | Dina Villa Grimaldi, Región Metropolitana
+Hombre Detenido En Septiembre De 1973 | OCCURSAT | Comisaría De Puerto Aysén
+Hombre Detenido En Septiembre De 1974 | OCCURSAT | Estadio Fiscal De Punta Arenas
+Hombre Detenido En Julio De 1980 | OCCURSAT | Cuartel Borgoño
+Hombre Detenido En Julio De 1980 | OCCURSAT | Región Metropolitana
+Hombre Detenido En Noviembre De 1973 | OCCURSAT | Campo De Prisioneros Chacabuco
+Mujer Detenida En Febrero De 1975 (Dina Villa Grimaldi) | OCCURSAT | Dina Villa Grimaldi, Región Metropolitana
+Hombre Detenido En Mayo De 1976 | OCCURSAT | Ex Iglesia La Providencia, Antofagasta, Ii Región
+Hombre Detenido En Noviembre De 1974 (Collipulli) | OCCURSAT | Comisaría De Collipulli
+Mujer Detenida En Febrero De 1975 (Cuartel Silva Palma De La Armada) | OCCURSAT | Cuartel Silva Palma De La Armada, Valparaíso
+Mujer Detenida En Mayo De 1975 (Cuartel De La Dina En Villa Grimaldi) | OCCURSAT | Cuartel De La Dina En Villa Grimaldi, Región Metropolitana
+Hombre Detenido En Septiembre De 1973 | ISRELATEDTO | Simulacro De Fusilamiento
+Hombre Detenido En Septiembre De 1974 | ISRELATEDTO | Simulacro De Fusilamiento
+Hombre Detenido En Noviembre De 1973 | ISRELATEDTO | Humillaciones Y Vejámenes
+Mujer Detenida En Febrero De 1975 (Cuartel Silva Palma De La Armada) | ISRELATEDTO | Desnudamiento
+Mujer Detenida En Febrero De 1975 (Cuartel Silva Palma De La Armada) | ISRELATEDTO | Agresiones Y Violencia Sexuales
+Mujer Detenida En Mayo De 1975 (Cuartel De La Dina En Villa Grimaldi) | ISRELATEDTO | Desnudamiento
+Mujer Detenida En Mayo De 1975 (Cuartel De La Dina En Villa Grimaldi) | ISRELATEDTO | Agresiones Y Violencia Sexuales
+Mujer Detenida (Tejas Verdes, Sept 1973) | ISRELATEDTO | Comisión
+Mujer Detenida (Estadio Nacional, Sept 1973) | ISRELATEDTO | Comisión
+Mujer Detenida (Regimiento Arica, Oct 1973) | ISRELATEDTO | Comisión
+Hombre Detenido (Divina Providencia, Jun 1975) | ISRELATEDTO | Comisión
+Hombre Detenido (Villa Grimaldi, Dec 1975) | ISRELATEDTO | Comisión
+Mujer Detenida (Vallenar, Jan 1979) | ISRELATEDTO | Comisión
+Hombre Detenido (Regimiento Rancagua, Dec 1973) | ISRELATEDTO | Comisión
+Hombre Detenido (Fiscalía Militar Calama, Aug 1974) | ISRELATEDTO | Comisión
+Hombre Detenido (Cni Talca, May 1980) | ISRELATEDTO | Comisión
+Hombre Detenido (Cerro Chena, Oct 1973) | ISRELATEDTO | Comisión
+Hombre Detenido (Isla Quiriquina, Sept 1973) | ISRELATEDTO | Comisión
+Hombre Detenido (Cerro Moreno, Sept 1973) | ISRELATEDTO | Comisión
+Mujer Detenida (Tejas Verdes, Sept 1973) | OCCURSAT | Regimiento De Ingenieros De Tejas Verdes, V Región
+Mujer Detenida (Estadio Nacional, Sept 1973) | OCCURSAT | Estadio Nacional, Región Metropolitana
+Mujer Detenida (Regimiento Arica, Oct 1973) | OCCURSAT | Regimiento Arica, La Serena, Iv Región
+Hombre Detenido (Divina Providencia, Jun 1975) | OCCURSAT | Dina De La Ex Iglesia Divina Providencia, Antofagasta, Ii Región
+Hombre Detenido (Villa Grimaldi, Dec 1975) | OCCURSAT | Dina De Villa Grimaldi, Región Metropolitana
+Mujer Detenida (Vallenar, Jan 1979) | OCCURSAT | Comisaría De Vallenar, Iii Región
+Hombre Detenido (Regimiento Rancagua, Dec 1973) | OCCURSAT | Regimiento Rancagua, Arica, I Región
+Hombre Detenido (Fiscalía Militar Calama, Aug 1974) | OCCURSAT | Fiscalía Militar De Calama, Ii Región
+Hombre Detenido (Cni Talca, May 1980) | OCCURSAT | Cuartel De La Cni De Talca, Vii Región
+Hombre Detenido (Cerro Chena, Oct 1973) | OCCURSAT | Recinto Militar De Cerro Chena, Región Metropolitana
+Hombre Detenido (Isla Quiriquina, Sept 1973) | OCCURSAT | Isla Quiriquina, Viii Región
+Hombre Detenido (Cerro Moreno, Sept 1973) | OCCURSAT | Base Aérea Cerro Moreno, Ii Región
+Mujer Detenida (Regimiento Arica, Oct 1973) | OCCURSAT | Cárcel Del Buen Pastor
+Mujer Detenida (Tejas Verdes, Sept 1973) | ISRELATEDTO | Agresión Sexual
+Mujer Detenida (Estadio Nacional, Sept 1973) | ISRELATEDTO | Agresión Sexual
+Mujer Detenida (Regimiento Arica, Oct 1973) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Divina Providencia, Jun 1975) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Villa Grimaldi, Dec 1975) | ISRELATEDTO | Agresión Sexual
+Mujer Detenida (Vallenar, Jan 1979) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Regimiento Rancagua, Dec 1973) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Fiscalía Militar Calama, Aug 1974) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Cni Talca, May 1980) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Cerro Chena, Oct 1973) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Isla Quiriquina, Sept 1973) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Cerro Moreno, Sept 1973) | ISRELATEDTO | Agresión Sexual
+Hombre Detenido (Regimiento Rancagua, Dec 1973) | ISRELATEDTO | Ruleta Rusa
+Hombre Detenido (Fiscalía Militar Calama, Aug 1974) | ISRELATEDTO | Ruleta Rusa
+Hombre Detenido (Cni Talca, May 1980) | ISRELATEDTO | Ruleta Rusa
+Mujer Detenida (Estadio Nacional, Sept 1973) | ISRELATEDTO | Presenciar Fusilamientos
+Hombre Detenido (Cerro Chena, Oct 1973) | ISRELATEDTO | Presenciar Fusilamientos
+Hombre Detenido (Divina Providencia, Jun 1975) | ISRELATEDTO | Presenciar Tortura A Familiares
+Mujer Detenida (Vallenar, Jan 1979) | ISRELATEDTO | Presenciar Tortura A Familiares
+Hombre Detenido (Isla Quiriquina, Sept 1973) | ISRELATEDTO | Confinamiento Infrahumano
+Hombre Detenido (Cerro Moreno, Sept 1973) | ISRELATEDTO | Confinamiento Infrahumano
+Agresión Sexual | ISPARTOF | Tortura
+Reclusión En La Comisaría De Chol-Chol, Ix Región (Sep 1973) | ISPARTOF | Privaciones Deliberadas De Medios De Vida
+Reclusión En El Regimiento Arica, La Serena, Iv Región (May 1974) | ISPARTOF | Privaciones Deliberadas De Medios De Vida
+Reclusión En El Destacamento De Infantería De Marina N° 4 Cochrane, Xii Región (Sep 1973) | ISPARTOF | Privación O Interrupción Del Sueño
+Reclusión En La Comisaría De Salamanca, Iv Región (Sep 1973) | ISPARTOF | Privación O Interrupción Del Sueño
+Reclusión En El Retén De Carabineros De Valdivia, X Región (Sep 1973) | ISPARTOF | Asfixias
+Reclusión En El Estadio Regional De Concepción, A Cargo Del Ejército, Viii Región (Nov 1973) | ISPARTOF | Asfixias
+Reclusión En El Fuerte Borgoño, Viii Región (Sep 1973) | ISPARTOF | Asfixias
+Reclusión En El Regimiento N° 14 De Aysén, Xi Región (Sep 1973) | ISPARTOF | Exposición A Temperaturas Extremas
+Reclusión En El Campo De Prisioneros Chacabuco, Ii Región (Jan 1974) | ISPARTOF | Exposición A Temperaturas Extremas
+Reclusión En El Grupo De Instrucción De Carabineros, Antofagasta, Ii Región (Jun 1974) | ISPARTOF | Exposición A Temperaturas Extremas
+Detención En Jaula De Alambre De Púa | ISRELATEDTO | Comisión Nacional Sobre Prisión Política Y Tortura
+Privaciones Deliberadas De Medios De Vida | ISRELATEDTO | Comisión Nacional Sobre Prisión Política Y Tortura
+Privación O Interrupción Del Sueño | ISRELATEDTO | Comisión Nacional Sobre Prisión Política Y Tortura
+Asfixias | ISRELATEDTO | Comisión Nacional Sobre Prisión Política Y Tortura
+Exposición A Temperaturas Extremas | ISRELATEDTO | Comisión Nacional Sobre Prisión Política Y Tortura

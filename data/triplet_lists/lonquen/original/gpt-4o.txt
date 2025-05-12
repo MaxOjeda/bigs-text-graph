@@ -1,0 +1,488 @@
+marianela cifuentes | chief | corte suprema
+lorena pizarro | member | agrupacion de familiares de detenidos desaparecidos
+david coliqueo fuentealba | member | carabineros de chile
+justo ignacio romo peralta | member | carabineros de chile
+felix hector sagredo aravena | member | carabineros de chile
+jacinto torres gonzalez | member | carabineros de chile
+juan jose villegas navarro | member | carabineros de chile
+pablo nancupil raguileo | member | carabineros de chile
+lautaro eugenio castro mendoza | affected by | Carabineros
+javier egana | member | Museo de la Memoria
+alejandro gonzalez | chief | Museo de la Memoria
+cristian precht | chief | Museo de la Memoria
+enrique alvear | member | Museo de la Memoria
+jaime martinez | member | corte suprema
+abraham santibanez | member | corte suprema
+adolfo banados cuadra | chief | Corte de Apelaciones de Santiago
+gonzalo salazar | chief | Instituto Medico Legal
+hector solis | chief | Corte de Apelaciones de Santiago
+adolfo banados cuadra | chief | Carabineros
+sergio diez | affected by | Carabineros
+cristian precht | member | vicaria de la solidaridad
+carlos contreras | member | Carabineros
+luis navarro | member | vicaria de la solidaridad
+marisela santibanez | member | corporacion memoria lonquen
+lorena pizarro | member | corporacion memoria lonquen
+haydee oberreuter | member | corporacion memoria lonquen
+carlos maureira | affected by | Carabineros
+enrique alvear | member | vicaria de la solidaridad
+javier egana | member | vicaria de la solidaridad
+alejandro gonzalez | chief | vicaria de la solidaridad
+maximo pacheco | member | vicaria de la solidaridad
+jaime martinez | member | vicaria de la solidaridad
+abraham santibanez | member | vicaria de la solidaridad
+israel borquez | member | corte suprema
+juana godoy | member | corte suprema
+gonzalo aguirre | member | vicaria de la solidaridad
+sergio miguel maureira lillo | affected by | Carabineros
+rodolfo antonio maureira lillo | affected by | Carabineros
+segundo armando maureira lillo | affected by | Carabineros
+jose manuel maureira lillo | affected by | Carabineros
+oscar nibaldo hernandez flores | affected by | Carabineros
+carlos segundo hernandez flores | affected by | Carabineros
+nelson hernandez flores | affected by | Carabineros
+enrique astudillo alvarez | affected by | Carabineros
+omar astudillo alvarez | affected by | Carabineros
+ramon astudillo alvarez | affected by | Carabineros
+miguel angel arturo brant bustamante | affected by | Carabineros
+ivan gerardo ordonez lama | affected by | Carabineros
+jose manuel herrera villegas | affected by | Carabineros
+manuel jesus navarro salinas | affected by | Carabineros
+abraham santibanez | other | empresa metropolitana de residuos solidos
+sergio diez | member | naciones unidas
+gonzalo salazar | other | justicia militar
+sergio adrian maureira lillo | affected by | Carabineros
+ignacio del carmen vergara guajardo | affected by | Carabineros
+rodolfo antonio maureira munoz | affected by | Carabineros
+sergio miguel maureira munoz | affected by | Carabineros
+jose manuel maureira munoz | affected by | Carabineros
+segundo armando maureira munoz | affected by | Carabineros
+omar astudillo rojas | affected by | Carabineros
+ramon astudillo rojas | affected by | Carabineros
+juan jose villegas navarro | affected by | Carabineros
+felix hector sagredo aravena | affected by | Carabineros
+manuel munoz rencoret | affected by | Carabineros
+jacinto torres gonzalez | affected by | Carabineros
+david coliqueo fuentealba | affected by | Carabineros
+jose belmar sepulveda | affected by | Carabineros
+justo ignacio romo peralta | affected by | Carabineros
+sergio fernandez | member | ministerio del interior
+gonzalo salazar | chief | fiscalia militar
+jose auth | member | partido por la democracia
+marcelo ivan castro mendoza | member | Carabineros
+david coliqueo peralta | member | Carabineros
+pablo nancupil raquileo | member | Carabineros
+marcelo ivan castro mendoza | chief | carabineros de chile
+marianela cifuentes | affected by | corte de apelaciones de san miguel
+jaime martinez | affected by | cooperativa agricola el triunfador
+abraham santibanez | affected by | cooperativa agricola el triunfador
+juana godoy | member | investigaciones
+lautaro eugenio castro mendoza | member | investigaciones
+Juan J. Villegas Navarro | member | investigaciones
+felix hector sagredo aravena | member | investigaciones
+manuel munoz rencoret | member | investigaciones
+sergio fernandez | chief | Carabineros
+adriana sottovia | chief | corte de apelaciones de san miguel
+david coliqueo fuentealba | cause of | supreme court condemns carabineros
+justo ignacio romo peralta | cause of | supreme court condemns carabineros
+felix hector sagredo aravena | cause of | supreme court condemns carabineros
+jacinto torres gonzalez | cause of | supreme court condemns carabineros
+juan jose villegas navarro | cause of | supreme court condemns carabineros
+pablo nancupil raguileo | cause of | supreme court condemns carabineros
+marianela cifuentes | affected by | supreme court condemns carabineros
+lorena pizarro | affected by | supreme court condemns carabineros
+nelson caucoto | affected by | supreme court condemns carabineros
+lautaro eugenio castro mendoza | cause of | Arrest of 15 men
+abraham santibanez | affected by | Finding of human remains
+enrique alvear | affected by | Finding of human remains
+cristian precht | affected by | Finding of human remains
+javier egana | affected by | Finding of human remains
+alejandro gonzalez | affected by | Finding of human remains
+maximo pacheco | affected by | Finding of human remains
+jaime martinez | affected by | Finding of human remains
+adolfo banados cuadra | affected by | Corte Suprema investigation
+hector solis | affected by | Identification of 13 bodies
+sergio diez | affected by | discovery of lonquen bodies
+cristian precht | cause of | discovery of lonquen bodies
+adolfo banados cuadra | cause of | detentions in isla de maipo
+lautaro eugenio castro mendoza | cause of | detentions in isla de maipo
+luis navarro | affected by | masacre de Lonquen conmemoration
+marisela santibanez | affected by | masacre de Lonquen conmemoration
+lorena pizarro | affected by | masacre de Lonquen conmemoration
+haydee oberreuter | affected by | masacre de Lonquen conmemoration
+carlos maureira | affected by | masacre de Lonquen conmemoration
+lautaro eugenio castro mendoza | cause of | military prosecutor indicts
+cristian precht | affected by | first visit to Lonquen
+enrique alvear | affected by | first visit to Lonquen
+javier egana | affected by | first visit to Lonquen
+alejandro gonzalez | affected by | first visit to Lonquen
+maximo pacheco | affected by | first visit to Lonquen
+jaime martinez | affected by | first visit to Lonquen
+abraham santibanez | affected by | first visit to Lonquen
+adolfo banados cuadra | cause of | pleno designates minister
+lautaro eugenio castro mendoza | cause of | arrest of 15 men
+lautaro eugenio castro mendoza | cause of | fiscal decision on officers
+abraham santibanez | affected by | discovery of Lonquen ovens
+gonzalo salazar | cause of | prisoners' release decision
+sergio miguel maureira lillo | affected by | arrest of 15 men
+rodolfo antonio maureira lillo | affected by | arrest of 15 men
+segundo armando maureira lillo | affected by | arrest of 15 men
+jose manuel maureira lillo | affected by | arrest of 15 men
+oscar nibaldo hernandez flores | affected by | arrest of 15 men
+carlos segundo hernandez flores | affected by | arrest of 15 men
+nelson hernandez flores | affected by | arrest of 15 men
+enrique astudillo alvarez | affected by | arrest of 15 men
+omar astudillo alvarez | affected by | arrest of 15 men
+ramon astudillo alvarez | affected by | arrest of 15 men
+miguel angel arturo brant bustamante | affected by | arrest of 15 men
+ivan gerardo ordonez lama | affected by | arrest of 15 men
+jose manuel herrera villegas | affected by | arrest of 15 men
+manuel jesus navarro salinas | affected by | arrest of 15 men
+sergio diez | affected by | discovery of Lonquen ovens
+cristian precht | cause of | first commission to Lonquen
+lautaro eugenio castro mendoza | cause of | lonquen massacre
+miguel angel arturo brant bustamante | affected by | mass arrest at isla de maipo plaza
+jose manuel herrera villegas | affected by | mass arrest at isla de maipo plaza
+manuel jesus navarro salinas | affected by | mass arrest at isla de maipo plaza
+ivan gerardo ordonez lama | affected by | mass arrest at isla de maipo plaza
+sergio adrian maureira lillo | affected by | arrest at sergio maureira's house
+carlos segundo hernandez flores | affected by | arrest at la ballica no 12
+nelson hernandez flores | affected by | arrest at la ballica no 12
+oscar nibaldo hernandez flores | affected by | arrest at la ballica no 12
+ignacio del carmen vergara guajardo | affected by | arrest at la ballica no 12
+rodolfo antonio maureira munoz | affected by | arrest of rodolfo and sergio maureira
+sergio miguel maureira munoz | affected by | arrest of rodolfo and sergio maureira
+jose manuel maureira munoz | affected by | second maureira house arrest
+segundo armando maureira munoz | affected by | second maureira house arrest
+enrique astudillo alvarez | affected by | astudillo family arrest
+omar astudillo rojas | affected by | astudillo family arrest
+ramon astudillo rojas | affected by | astudillo family arrest
+lautaro eugenio castro mendoza | cause of | death of detainees
+juan jose villegas navarro | cause of | death of detainees
+felix hector sagredo aravena | cause of | death of detainees
+manuel munoz rencoret | cause of | death of detainees
+jacinto torres gonzalez | cause of | death of detainees
+david coliqueo fuentealba | cause of | death of detainees
+jose belmar sepulveda | cause of | death of detainees
+justo ignacio romo peralta | cause of | death of detainees
+gonzalo salazar | cause of | dictation of orders 1979
+sergio fernandez | acted upon | discovery of remains
+purisima munoz | affected by | opposition to Lonquen landfill
+sergio miguel maureira lillo | affected by | death of detainees
+enrique astudillo alvarez | affected by | death of detainees
+omar astudillo rojas | affected by | death of detainees
+ramon astudillo rojas | affected by | death of detainees
+miguel brant benavente | affected by | death of detainees
+carlos segundo hernandez flores | affected by | death of detainees
+nelson hernandez flores | affected by | death of detainees
+oscar nibaldo hernandez flores | affected by | death of detainees
+jose manuel herrera villegas | affected by | death of detainees
+jose manuel maureira munoz | affected by | death of detainees
+rodolfo antonio maureira munoz | affected by | death of detainees
+segundo armando maureira munoz | affected by | death of detainees
+sergio miguel maureira munoz | affected by | death of detainees
+manuel jesus navarro salinas | affected by | death of detainees
+ivan gerardo ordonez lama | affected by | death of detainees
+marcelo ivan castro mendoza | acted upon | arrest of youths
+david coliqueo peralta | acted upon | arrest of youths
+pablo nancupil raquileo | acted upon | arrest of youths
+marianela cifuentes | cause of | sentencing of former carabineros
+marcelo ivan castro mendoza | cause of | sentencing of former carabineros
+david coliqueo fuentealba | cause of | sentencing of former carabineros
+justo ignacio romo peralta | cause of | sentencing of former carabineros
+felix hector sagredo aravena | cause of | sentencing of former carabineros
+jacinto torres gonzalez | cause of | sentencing of former carabineros
+juan jose villegas navarro | cause of | sentencing of former carabineros
+pablo nancupil raguileo | cause of | sentencing of former carabineros
+luis diaz bahamondes | affected by | remains identified in lonquen
+cristian precht | affected by | discovery at lonquen
+enrique alvear | affected by | discovery at lonquen
+javier egana | affected by | discovery at lonquen
+alejandro gonzalez | affected by | discovery at lonquen
+maximo pacheco | affected by | discovery at lonquen
+jaime martinez | affected by | discovery at lonquen
+abraham santibanez | affected by | discovery at lonquen
+israel borquez | affected by | un report to the supreme court
+juana godoy | affected by | discovery at lonquen
+gonzalo aguirre | affected by | discovery at lonquen
+luis navarro | affected by | discovery at lonquen
+adolfo banados cuadra | affected by | minister in visit extraordinary
+lautaro eugenio castro mendoza | cause of | 15 people detained
+lautaro eugenio castro mendoza | unspecified | military indictment issued
+Juan J. Villegas Navarro | cause of | 15 people detained
+Juan J. Villegas Navarro | unspecified | military indictment issued
+felix hector sagredo aravena | cause of | 15 people detained
+felix hector sagredo aravena | unspecified | military indictment issued
+manuel munoz rencoret | cause of | 15 people detained
+lautaro eugenio castro mendoza | cause of | encargatoria de reo contra militares
+juan jose villegas navarro | cause of | encargatoria de reo contra militares
+felix hector sagredo aravena | cause of | encargatoria de reo contra militares
+manuel munoz rencoret | cause of | encargatoria de reo contra militares
+jacinto torres gonzalez | cause of | encargatoria de reo contra militares
+david coliqueo fuentealba | cause of | encargatoria de reo contra militares
+jose belmar sepulveda | cause of | encargatoria de reo contra militares
+justo ignacio romo peralta | cause of | encargatoria de reo contra militares
+sergio miguel maureira lillo | affected by | ministro dinamita hornos de Lonquen
+adriana sottovia | cause of | 7 carabineros acusados por Lonquen
+cristian precht | cause of | primer Comision verifica Lonquen
+municipalidad de isla de maipo | is contained in | isla de maipo
+cementerio parroquial de isla de maipo | is contained in | isla de maipo
+estadio nacional | is contained in | santiago
+san miguel | is contained in | santiago
+manuel rodriguez 988 isla de maipo | is contained in | isla de maipo
+lonquen | is contained in | isla de maipo
+lonquen | is contained in | santiago
+isla de maipo | is contained in | santiago
+instituto medico legal | is contained in | fund lonquen
+calle la ballica n° 12 | is contained in | fundo naguayan
+lonquen | is contained in | talagante
+lonquen | is contained in | san miguel
+isla de maipo | is contained in | san miguel
+public wake for victims | occurs at | municipalidad de isla de maipo
+solemn burial of victims | occurs at | cementerio parroquial de isla de maipo
+kidnappings in isla de maipo | occurs at | isla de maipo
+Arrest of 15 men | occurs at | isla de maipo
+Finding of human remains | occurs at | hornos de lonquen
+Corte Suprema investigation | occurs at | santiago
+Identification of 13 bodies | occurs at | san miguel
+Public wake for victims | occurs at | isla de maipo
+Burial ceremony of victims | occurs at | cementerio parroquial de isla de maipo
+detentions in isla de maipo | occurs at | isla de maipo
+discovery of lonquen bodies | occurs at | lonquen
+masacre de Lonquen conmemoration | occurs at | lonquen
+first visit to Lonquen | occurs at | lonquen
+formal complaint presented | occurs at | santiago
+pleno designates minister | occurs at | santiago
+ministro Banados declares incompetence | occurs at | santiago
+military prosecutor indicts | occurs at | santiago
+discovery of Lonquen ovens | occurs at | lonquen
+arrest of 15 men | occurs at | isla de maipo
+fiscal decision on officers | occurs at | lonquen
+prisoners' release decision | occurs at | instituto medico legal
+first commission to Lonquen | occurs at | lonquen
+mass arrest at isla de maipo plaza | occurs at | isla de maipo
+arrest at sergio maureira's house | occurs at | fundo naguayan
+arrest at la ballica no 12 | occurs at | calle la ballica n° 12
+arrest of rodolfo and sergio maureira | occurs at | fundo naguayan
+second maureira house arrest | occurs at | fundo naguayan
+astudillo family arrest | occurs at | fundo naguayan
+lonquen massacre | occurs at | lonquen
+dictation of orders 1979 | occurs at | isla de maipo
+court martial decision | occurs at | isla de maipo
+explosion at Lonquen | occurs at | lonquen
+opposition to Lonquen landfill | occurs at | lonquen
+arrest of youths | occurs at | isla de maipo
+discovery of remains | occurs at | lonquen
+detention at plaza de isla de maipo | occurs at | isla de maipo
+detentions at domiciles in isla de maipo | occurs at | isla de maipo
+remains identified in lonquen | occurs at | lonquen
+sentencing of former carabineros | occurs at | isla de maipo
+supreme court confirmation | occurs at | santiago
+discovery at lonquen | occurs at | lonquen
+un report to the supreme court | occurs at | santiago
+minister in visit extraordinary | occurs at | santiago
+15 people detained | occurs at | isla de maipo
+encargatoria de reo contra militares | occurs at | lonquen
+sobreseimiento de reos | occurs at | lonquen
+confirmacion de sobreseimiento | occurs at | lonquen
+ministro dinamita hornos de Lonquen | occurs at | lonquen
+empresa propone basural | occurs at | lonquen
+primer Comision verifica Lonquen | occurs at | lonquen
+7 carabineros acusados por Lonquen | occurs at | san miguel
+carabineros de chile | if part of | corte suprema
+Corte de Apelaciones de Santiago | if part of | corte suprema
+Corte Marcial | if part of | corte suprema
+Carabineros | if part of | Instituto Medico Legal
+vicaria de la solidaridad | if part of | Instituto Medico Legal
+Carabineros | if part of | corporacion memoria lonquen
+corporacion memoria lonquen | if part of | vicaria de la solidaridad
+asamblea general | if part of | naciones unidas
+unidad programa de derechos humanos de la subsecretaria de derechos humanos | if part of | unidad programa de derechos humanos de la subsecretaria de derechos humanos
+Carabineros | if part of | fiscalia militar
+Corte Marcial | if part of | fiscalia militar
+Instituto Medico Legal | if part of | fiscalia militar
+Carabineros | if part of | ministerio del interior
+partido por la democracia | if part of | organismos de derechos humanos
+carabineros de chile | if part of | corte de apelaciones de san miguel
+cooperativa agricola el triunfador | if part of | vicaria de la solidaridad
+Instituto Medico Legal | if part of | corte suprema
+justicia militar | if part of | corte suprema
+vicaria de la solidaridad | if part of | naciones unidas
+david coliqueo fuentealba | was present at | isla de maipo
+justo ignacio romo peralta | was present at | isla de maipo
+felix hector sagredo aravena | was present at | isla de maipo
+jacinto torres gonzalez | was present at | isla de maipo
+juan jose villegas navarro | was present at | isla de maipo
+pablo nancupil raguileo | was present at | isla de maipo
+marianela cifuentes | was present at | isla de maipo
+abraham santibanez | was present at | hornos de lonquen
+enrique alvear | was present at | hornos de lonquen
+cristian precht | was present at | hornos de lonquen
+javier egana | was present at | hornos de lonquen
+alejandro gonzalez | was present at | hornos de lonquen
+maximo pacheco | was present at | hornos de lonquen
+jaime martinez | was present at | hornos de lonquen
+adolfo banados cuadra | was present at | hornos de lonquen
+lautaro eugenio castro mendoza | was present at | isla de maipo
+gonzalo salazar | was present at | cementerio parroquial de isla de maipo
+hector solis | was present at | cementerio parroquial de isla de maipo
+lautaro eugenio castro mendoza | was present at | isla de maipo
+cristian precht | was present at | lonquen
+luis navarro | was present at | lonquen
+marisela santibanez | was present at | lonquen
+lorena pizarro | was present at | lonquen
+haydee oberreuter | was present at | lonquen
+carlos maureira | was present at | lonquen
+enrique alvear | was present at | lonquen
+javier egana | was present at | lonquen
+alejandro gonzalez | was present at | lonquen
+maximo pacheco | was present at | lonquen
+jaime martinez | was present at | lonquen
+abraham santibanez | was present at | lonquen
+juana godoy | was present at | lonquen
+gonzalo aguirre | was present at | lonquen
+luis navarro | was present at | lonquen
+adolfo banados cuadra | was present at | lonquen
+lautaro eugenio castro mendoza | was present at | lonquen
+sergio miguel maureira lillo | was present at | isla de maipo
+rodolfo antonio maureira lillo | was present at | isla de maipo
+segundo armando maureira lillo | was present at | isla de maipo
+jose manuel maureira lillo | was present at | isla de maipo
+oscar nibaldo hernandez flores | was present at | isla de maipo
+carlos segundo hernandez flores | was present at | isla de maipo
+nelson hernandez flores | was present at | isla de maipo
+enrique astudillo alvarez | was present at | isla de maipo
+omar astudillo alvarez | was present at | isla de maipo
+ramon astudillo alvarez | was present at | isla de maipo
+miguel angel arturo brant bustamante | was present at | isla de maipo
+ivan gerardo ordonez lama | was present at | isla de maipo
+jose manuel herrera villegas | was present at | isla de maipo
+manuel jesus navarro salinas | was present at | isla de maipo
+gonzalo salazar | was present at | instituto medico legal
+sergio adrian maureira lillo | was present at | fundo naguayan
+carlos segundo hernandez flores | was present at | calle la ballica n° 12
+nelson hernandez flores | was present at | calle la ballica n° 12
+oscar nibaldo hernandez flores | was present at | calle la ballica n° 12
+ignacio del carmen vergara guajardo | was present at | calle la ballica n° 12
+rodolfo antonio maureira munoz | was present at | fundo naguayan
+sergio miguel maureira munoz | was present at | fundo naguayan
+jose manuel maureira munoz | was present at | fundo naguayan
+segundo armando maureira munoz | was present at | fundo naguayan
+enrique astudillo alvarez | was present at | fundo naguayan
+omar astudillo rojas | was present at | fundo naguayan
+ramon astudillo rojas | was present at | fundo naguayan
+miguel angel arturo brant bustamante | was present at | lonquen
+carlos segundo hernandez flores | was present at | lonquen
+nelson hernandez flores | was present at | lonquen
+oscar nibaldo hernandez flores | was present at | lonquen
+jose manuel herrera villegas | was present at | lonquen
+sergio adrian maureira lillo | was present at | lonquen
+jose manuel maureira munoz | was present at | lonquen
+rodolfo antonio maureira munoz | was present at | lonquen
+segundo armando maureira munoz | was present at | lonquen
+sergio miguel maureira munoz | was present at | lonquen
+manuel jesus navarro salinas | was present at | lonquen
+ivan gerardo ordonez lama | was present at | lonquen
+enrique astudillo alvarez | was present at | lonquen
+omar astudillo rojas | was present at | lonquen
+ramon astudillo rojas | was present at | lonquen
+juan jose villegas navarro | was present at | lonquen
+felix hector sagredo aravena | was present at | lonquen
+manuel munoz rencoret | was present at | lonquen
+jacinto torres gonzalez | was present at | lonquen
+david coliqueo fuentealba | was present at | lonquen
+jose belmar sepulveda | was present at | lonquen
+justo ignacio romo peralta | was present at | lonquen
+gonzalo salazar | was present at | instituto medico legal
+sergio fernandez | was present at | lonquen
+jose auth | was present at | lonquen
+purisima munoz | was present at | lonquen
+sergio miguel maureira lillo | was present at | lonquen
+marcelo ivan castro mendoza | was present at | isla de maipo
+david coliqueo fuentealba | was present at | isla de maipo
+justo ignacio romo peralta | was present at | isla de maipo
+felix hector sagredo aravena | was present at | isla de maipo
+jacinto torres gonzalez | was present at | isla de maipo
+juan jose villegas navarro | was present at | isla de maipo
+pablo nancupil raguileo | was present at | isla de maipo
+marcelo ivan castro mendoza | was present at | lonquen
+pablo nancupil raguileo | was present at | lonquen
+luis diaz bahamondes | was present at | lonquen
+israel borquez | was present at | santiago
+Juan J. Villegas Navarro | was present at | lonquen
+sergio fernandez | was present at | lonquen
+jose auth | was present at | lonquen
+purisima munoz | was present at | lonquen
+adriana sottovia | was present at | san miguel
+sergio diez | was present at | lonquen
+agrupacion de familiares de detenidos desaparecidos | affected by | supreme court condemns carabineros
+carabineros de chile | cause of | supreme court condemns carabineros
+carabineros de chile | cause of | kidnappings in isla de maipo
+corte suprema | cause of | supreme court condemns carabineros
+fisco | cause of | supreme court condemns carabineros
+Carabineros | cause of | Arrest of 15 men
+Carabineros | cause of | Finding of human remains
+corte suprema | affected by | Corte Suprema investigation
+Corte Marcial | cause of | Corte Marcial verdict
+Corte de Apelaciones de Santiago | affected by | Identification of 13 bodies
+Servicio Medico Legal | cause of | Identification of 13 bodies
+Carabineros | cause of | detentions in isla de maipo
+Carabineros | cause of | discovery of lonquen bodies
+vicaria de la solidaridad | unspecified | discovery of lonquen bodies
+Instituto Medico Legal | affected by | discovery of lonquen bodies
+Carabineros | cause of | masacre de Lonquen conmemoration
+corporacion memoria lonquen | affected by | masacre de Lonquen conmemoration
+vicaria de la solidaridad | unspecified | masacre de Lonquen conmemoration
+orquesta de instrumentos autoctonos y nuevas tecnologia | unspecified | masacre de Lonquen conmemoration
+vicaria de la solidaridad | cause of | first visit to Lonquen
+corte suprema | affected by | formal complaint presented
+corte suprema | cause of | pleno designates minister
+Instituto Medico Legal | cause of | pleno designates minister
+justicia militar | affected by | ministro Banados declares incompetence
+tenencia de isla de maipo | cause of | military prosecutor indicts
+Carabineros | cause of | military prosecutor indicts
+Carabineros | cause of | arrest of 15 men
+Instituto Medico Legal | affected by | discovery of Lonquen ovens
+justicia militar | cause of | fiscal decision on officers
+Corte Marcial | cause of | court martial confirmation
+vicaria de la solidaridad | cause of | first commission to Lonquen
+empresa metropolitana de residuos solidos | cause of | discovery of Lonquen ovens
+Carabineros | cause of | mass arrest at isla de maipo plaza
+Carabineros | cause of | arrest at sergio maureira's house
+Carabineros | cause of | arrest at la ballica no 12
+Carabineros | cause of | arrest of rodolfo and sergio maureira
+Carabineros | cause of | second maureira house arrest
+Carabineros | cause of | astudillo family arrest
+Carabineros | cause of | lonquen massacre
+fisco | affected by | lonquen massacre
+unidad programa de derechos humanos de la subsecretaria de derechos humanos | unspecified | lonquen massacre
+fiscalia militar | cause of | dictation of orders 1979
+Corte Marcial | affected by | court martial decision
+Instituto Medico Legal | affected by | death of detainees
+ministerio del interior | affected by | discovery of remains
+Carabineros | cause of | arrest of youths
+Carabineros | cause of | death of detainees
+iglesia catolica | affected by | discovery of remains
+empresa metropolitana de residuos solidos | cause of | opposition to Lonquen landfill
+partido por la democracia | cause of | opposition to Lonquen landfill
+organismos de derechos humanos | affected by | opposition to Lonquen landfill
+carabineros de chile | cause of | detention at plaza de isla de maipo
+carabineros de chile | cause of | detentions at domiciles in isla de maipo
+carabineros de chile | cause of | sentencing of former carabineros
+carabineros de chile | cause of | supreme court confirmation
+corte de apelaciones de san miguel | affected by | sentencing of former carabineros
+corte suprema | affected by | supreme court confirmation
+iglesia catolica | unspecified | remains identified in lonquen
+chile | unspecified | sentencing of former carabineros
+vicaria de la solidaridad | cause of | discovery at lonquen
+corte suprema | affected by | un report to the supreme court
+investigaciones | affected by | un report to the supreme court
+Instituto Medico Legal | unspecified | discovery at lonquen
+Corte de Apelaciones de Santiago | affected by | minister in visit extraordinary
+cooperativa agricola el triunfador | cause of | discovery at lonquen
+justicia militar | affected by | declaration of incompetence
+justicia militar | affected by | military indictment issued
+Carabineros | cause of | 7 carabineros acusados por Lonquen
+vicaria de la solidaridad | affected by | primer Comision verifica Lonquen
+partido por la democracia | unspecified | empresa propone basural
+corte de apelaciones de san miguel | unspecified | 7 carabineros acusados por Lonquen

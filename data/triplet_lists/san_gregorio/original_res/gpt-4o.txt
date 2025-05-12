@@ -1,0 +1,381 @@
+hector fernando osses yanez | member | carabineros
+aquiles bustamante oliva | member | carabineros
+julio cesar yanez illanes | member | carabineros
+juan gallardo nunez | affected by | subcomisaria de carabineros de la granja
+pedro otarola sepulveda | affected by | subcomisaria de carabineros de la granja
+mario angel candia acevedo | affected by | subcomisaria de carabineros de la granja
+luis humberto munoz aguayo | affected by | subcomisaria de carabineros de la granja
+luis antonio villarroel rivera | affected by | subcomisaria de carabineros de la granja
+marianela cifuentes alarcon | other | corte de apelaciones de san miguel
+pablo fuenzalida | other | corte de apelaciones de san miguel
+hector andres queglas maturana | affected by | carabineros
+luis eugenio morales munoz | affected by | carabineros
+dante valentin olivares jimenez | affected by | carabineros
+jeremias jara valenzuela | affected by | carabineros
+pedro otarola sepulveda | affected by | carabineros
+armando saez perez | member | carabineros
+fernando felix rojas veliz | member | carabineros
+luis alberto baeza sanhueza | member | carabineros
+segundo baldomero llanos amarilis | member | carabineros
+pedro humire loredo | affected by | carabineros
+oscar patricio ibacache carrasco | member | carabineros
+hernan rafael sepulveda bravo | affected by | carabineros
+juan manuel sepulveda bravo | affected by | carabineros
+ricardo del carmen sepulveda bravo | affected by | carabineros
+jaime reyes godoy | member | carabineros
+luis alberto lobos canas | affected by | carabineros
+victor galvarino silva lopez | affected by | carabineros
+roberto enrique anfrens fuentes | affected by | carabineros
+miguel angel rios traslavina | affected by | carabineros
+rogelio gustavo ramirez amestica | affected by | carabineros
+marco orlando rios bustos | affected by | carabineros
+juan manuel pinto godoy | affected by | carabineros
+jose tomas beltran bizama | affected by | carabineros
+eduardo antonio fonseca castro | affected by | carabineros
+hernan anselmo cortes velasquez | affected by | carabineros
+luis alberto lobos canas | member | partido comunista
+nicolas pavez | member | agrupacion de familiares de ejecutados politicos
+alicia lira | member | agrupacion de familiares de ejecutados politicos
+enrique romero jara | affected by | carabineros
+juan eliecer ponce manivet | affected by | carabineros
+jaime antonio rivera aguilar | affected by | comision nacional de verdad y reconciliacion
+eduardo santos quinteros miranda | affected by | comision nacional de verdad y reconciliacion
+rosa sepulveda | affected by | comision rettig
+pedro otalora | affected by | servicio medico legal
+jeremias jara valenzuela | affected by | subcomisaria la granja
+cesar mendoza | chief | carabineros
+hector fernando osses yanez | member | subcomisaria la granja
+aquiles bustamante oliva | member | subcomisaria la granja
+luis alberto baeza sanhueza | member | subcomisaria la granja
+segundo baldomero llanos amariles | member | subcomisaria la granja
+julio cesar yanez illanes | member | subcomisaria la granja
+hector fernando osses yanez | chief | subcomisaria de carabineros de la granja
+aquiles bustamante oliva | member | subcomisaria de carabineros de la granja
+segundo baldomero llanos amariles | member | carabineros
+fernando rojas velis | member | carabineros
+juan fernando campos gatica | affected by | carabineros
+mario angel candia acevedo | affected by | carabineros
+luis humberto munoz aguayo | affected by | carabineros
+luis antonio villarroel rivera | affected by | carabineros
+marianela cifuentes alarcon | other | carabineros
+sonia isaura norambuena cruz | affected by | fach
+sonia isaura norambuena cruz | affected by | comando de area jurisdiccional de seguridad interior
+sonia isaura norambuena cruz | affected by | compania anti insurgencia
+sonia isaura norambuena cruz | affected by | escuela de especialidades
+sonia isaura norambuena cruz | affected by | ala de mantenimiento
+sonia isaura norambuena cruz | affected by | academia politecnica aeronautica
+sonia isaura norambuena cruz | affected by | ala de abastecimiento y mantenimiento
+sonia isaura norambuena cruz | affected by | academia de la escuela de aviacion de el bosque
+mario vivero avila | member | fach
+oscar chylk | member | compania anti insurgencia
+leonardo antonucci | chief | compania anti insurgencia
+francisco cartes cartes | affected by | comision rettig
+pedro otarala | affected by | carabineros
+manuel gutierrez montano | affected by | carabineros
+armando saez perez | member | subcomisaria la granja
+jose tomas beltran bizama | affected by | carabineros de chile
+eduardo antonio fonseca castro | affected by | carabineros de chile
+hernan anselmo cortes velasquez | affected by | carabineros de chile
+herman brady roche | chief | fuerzas armadas
+mario vivero avila | chief | fuerza aerea de chile
+sonia isaura norambuena cruz | affected by | fuerza aerea de chile
+francisco cartes cartes | affected by | fuerza aerea de chile
+julio cesar yanez illanes | was present at | subcomisaria la granja
+segundo baldomero llanos amariles | was present at | subcomisaria la granja
+luis alberto baeza sanhueza | was present at | subcomisaria la granja
+aquiles bustamante oliva | was present at | subcomisaria la granja
+hector fernando osses yanez | was present at | subcomisaria la granja
+jorge hernan espinoza farias | was present at | subcomisaria la granja
+luis eugenio morales munoz | was present at | subcomisaria la granja
+hector andres queglas maturana | was present at | subcomisaria la granja
+manuel gutierrez montano | was present at | subcomisaria la granja
+arnaldo saez | was present at | subcomisaria la granja
+jeremias jara valenzuela | was present at | subcomisaria la granja
+eduardo santos quinteros miranda | was present at | subcomisaria la granja
+jaime antonio rivera aguilar | was present at | subcomisaria la granja
+execution of jorge espinoza | occurs at | subcomisaria la granja
+subcomisaria la granja | is contained in | poblacion san gregorio
+subcomisaria la granja | is contained in | san gregorio
+accusation against carabineros | occurs at | corte de apelaciones de san miguel
+detention of luis eugenio morales | occurs at | la granja
+carabineros | cause of | detention of luis eugenio morales
+subcomisaria de carabineros de la granja | cause of | detention of luis eugenio morales
+marianela cifuentes alarcon | cause of | detention of luis eugenio morales
+armando saez perez | cause of | detention of luis eugenio morales
+aquiles bustamante oliva | cause of | detention of luis eugenio morales
+hector fernando osses yanez | cause of | detention of luis eugenio morales
+hector andres queglas maturana | affected by | detention of luis eugenio morales
+execution of luis eugenio morales | occurs at | avenidas departamental con santa rosa
+subcomisaria de carabineros de la granja | cause of | execution of luis eugenio morales
+fernando rojas velis | cause of | execution of luis eugenio morales
+hector andres queglas maturana | affected by | execution of luis eugenio morales
+juan fernando campos gatica | affected by | execution of luis antonio villarroel
+detention of luis antonio villarroel | occurs at | esquina de los pasajes 9 poniente y 5 norte de poblacion san gregorio
+execution of luis antonio villarroel | occurs at | la granja
+mario angel candia acevedo | affected by | execution of luis antonio villarroel
+carabineros | cause of | execution of luis antonio villarroel
+subcomisaria de carabineros de la granja | cause of | execution of luis antonio villarroel
+luis humberto munoz aguayo | affected by | execution of luis antonio villarroel
+detention at san gregorio | occurs at | tenencia de carabineros nueva espana, poblacion san gregorio
+carabineros | cause of | detention at san gregorio
+segundo baldomero llanos amarilis | cause of | detention at san gregorio
+luis alberto baeza sanhueza | cause of | detention at san gregorio
+fernando felix rojas veliz | cause of | detention at san gregorio
+julio cesar yanez illanes | cause of | detention at san gregorio
+armando saez perez | cause of | detention at san gregorio
+aquiles bustamante oliva | cause of | detention at san gregorio
+hector fernando osses yanez | cause of | detention at san gregorio
+pedro humire loredo | affected by | detention at san gregorio
+execution of Victor Galvarino Silva Lopez | occurs at | uspallata and antofagasta
+carabineros | cause of | execution of Victor Galvarino Silva Lopez
+ricardo del carmen sepulveda bravo | affected by | execution of Victor Galvarino Silva Lopez
+juan manuel sepulveda bravo | affected by | execution of Victor Galvarino Silva Lopez
+hernan rafael sepulveda bravo | affected by | execution of Victor Galvarino Silva Lopez
+oscar patricio ibacache carrasco | cause of | execution of Victor Galvarino Silva Lopez
+execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez | occurs at | poblacion kennedy
+carabineros | cause of | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+juan manuel pinto godoy | affected by | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+oscar patricio ibacache carrasco | cause of | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+subcomisaria la granja | cause of | execution of luis eugenio morales
+jaime antonio rivera aguilar | affected by | execution of luis eugenio morales
+execution of luis eugenio morales | occurs at | subcomisaria la granja
+eduardo santos quinteros miranda | affected by | execution of luis eugenio morales
+comision nacional de verdad y reconciliacion | affected by | execution of luis eugenio morales
+carabineros | cause of | execution of luis eugenio morales
+julio cesar yanez illanes | cause of | execution of luis eugenio morales
+segundo baldomero llanos amariles | cause of | execution of luis eugenio morales
+luis alberto baeza sanhueza | cause of | execution of luis eugenio morales
+aquiles bustamante oliva | cause of | execution of luis eugenio morales
+hector fernando osses yanez | cause of | execution of luis eugenio morales
+arnaldo saez | cause of | execution of luis eugenio morales
+mario angel candia acevedo | affected by | detention of luis antonio villarroel
+detention of luis antonio villarroel | occurs at | poblacion san gregorio
+luis antonio villarroel rivera | affected by | detention of luis antonio villarroel
+subcomisaria de carabineros de la granja | cause of | detention of luis antonio villarroel
+hector fernando osses yanez | cause of | detention of luis antonio villarroel
+marianela cifuentes alarcon | cause of | detention of luis antonio villarroel
+aquiles bustamante oliva | cause of | detention of luis antonio villarroel
+luis humberto munoz aguayo | affected by | detention of luis antonio villarroel
+detention of luis antonio villarroel | occurs at | pasaje 3 norte n° 0467 de poblacion san gregorio
+carabineros | cause of | detention of luis antonio villarroel
+juan fernando campos gatica | affected by | detention of luis antonio villarroel
+armando saez perez | cause of | detention of luis antonio villarroel
+marianela cifuentes alarcon | cause of | detention of juan gallardo
+marianela cifuentes alarcon | cause of | execution of juan gallardo
+marianela cifuentes alarcon | cause of | detention of pedro otarola
+marianela cifuentes alarcon | cause of | execution of candia munoz villarroel
+hector fernando osses yanez | cause of | detention of juan gallardo
+hector fernando osses yanez | cause of | execution of juan gallardo
+hector fernando osses yanez | cause of | detention of pedro otarola
+hector fernando osses yanez | cause of | execution of candia munoz villarroel
+aquiles bustamante oliva | cause of | detention of juan gallardo
+aquiles bustamante oliva | cause of | execution of juan gallardo
+aquiles bustamante oliva | cause of | detention of pedro otarola
+aquiles bustamante oliva | cause of | execution of candia munoz villarroel
+julio cesar yanez illanes | cause of | execution of juan gallardo
+juan gallardo nunez | affected by | detention of juan gallardo
+juan gallardo nunez | affected by | execution of juan gallardo
+pedro otarola sepulveda | affected by | detention of pedro otarola
+mario angel candia acevedo | affected by | execution of candia munoz villarroel
+luis humberto munoz aguayo | affected by | execution of candia munoz villarroel
+luis antonio villarroel rivera | affected by | execution of candia munoz villarroel
+oscar patricio ibacache carrasco | cause of | execution of Luis Alberto Lobos Canas
+oscar patricio ibacache carrasco | cause of | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+luis alberto lobos canas | affected by | execution of Luis Alberto Lobos Canas
+victor galvarino silva lopez | affected by | execution of Victor Galvarino Silva Lopez
+roberto enrique anfrens fuentes | affected by | death of Roberto Enrique Anfrens Fuentes
+miguel angel rios traslavina | affected by | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+rogelio gustavo ramirez amestica | affected by | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+marco orlando rios bustos | affected by | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+jose tomas beltran bizama | affected by | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+eduardo antonio fonseca castro | affected by | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+hernan anselmo cortes velasquez | affected by | execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez
+nicolas pavez | affected by | report on executions
+alicia lira | affected by | report on executions
+pascale bonnefoy | cause of | morgue report
+john dinges | cause of | morgue report
+enrique romero jara | cause of | coup in chile
+oscar patricio ibacache carrasco | cause of | coup in chile
+juan eliecer ponce manivet | cause of | coup in chile
+pedro otalora | affected by | execution of pedro otarola
+hector fernando osses yanez | cause of | execution of jorge espinoza
+aquiles bustamante oliva | cause of | execution of jorge espinoza
+luis eugenio morales munoz | affected by | detention of luis eugenio morales
+luis eugenio morales munoz | affected by | execution of luis eugenio morales
+luis antonio villarroel rivera | affected by | execution of luis antonio villarroel
+francisco cartes cartes | affected by | francisco cartes report
+jeremias jara valenzuela | affected by | detention of frigorifico workers
+pedro otarala | affected by | detention of frigorifico workers
+manuel gutierrez montano | affected by | detention of frigorifico workers
+herman brady roche | cause of | death of sonia norambuena
+mario vivero avila | cause of | death of sonia norambuena
+sonia isaura norambuena cruz | affected by | death of sonia norambuena
+francisco cartes cartes | affected by | death of sonia norambuena
+poblacion san gregorio | is contained in | la granja
+tenencia de carabineros nueva espana, poblacion san gregorio | is contained in | calle industrias n° 8363-8403
+comisaria de la poblacion san gregorio | is contained in | calle industrias n° 8363-8403
+uspallata and antofagasta | is contained in | poblacion los nogales
+posta nº3 | is contained in | poblacion los nogales
+puente bulnes | is contained in | rio mapocho
+zanjon de la aguada | is contained in | rio mapocho
+puente iquique | is contained in | poblacion los nogales
+poblacion kennedy | is contained in | poblacion los nogales
+estadio chile | is contained in | santiago
+estadio nacional | is contained in | santiago
+poblacion los nogales | is contained in | santiago
+subcomisaria de la granja | is contained in | la granja
+avenidas departamental con santa rosa | is contained in | la granja
+pasaje 3 norte n° 0467 de poblacion san gregorio | is contained in | la granja
+esquina de los pasajes 9 poniente y 5 norte de poblacion san gregorio | is contained in | la granja
+matadero de la granja | is contained in | el bosque
+cementerio general | is contained in | santiago
+subcomisaria de carabineros de la granja | cause of | detention of juan gallardo
+subcomisaria de carabineros de la granja | cause of | execution of juan gallardo
+subcomisaria de carabineros de la granja | cause of | detention of pedro otarola
+subcomisaria de carabineros de la granja | cause of | execution of candia munoz villarroel
+comision nacional sobre prision politica y tortura | unspecified | detention at san gregorio
+carabineros | cause of | death of Ricardo del Carmen Sepulveda Bravo
+carabineros | cause of | execution of Luis Alberto Lobos Canas
+carabineros | cause of | death of Roberto Enrique Anfrens Fuentes
+carabineros | cause of | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+comision rettig | affected by | execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos
+unidad popular | affected by | coup in chile
+congreso nacional | affected by | coup in chile
+agrupacion de familiares de ejecutados politicos | affected by | report on executions
+carabineros | cause of | coup in chile
+guardias | cause of | coup in chile
+corporacion nacional de reparacion y reconciliacion | cause of | law 19.123 promulgation
+comision rettig | cause of | law 19.123 promulgation
+agrupacion de familiares de ejecutados politicos | affected by | morgue report
+carabineros | cause of | execution of jorge espinoza
+carabineros | cause of | accusation against carabineros
+corte de apelaciones de san miguel | affected by | accusation against carabineros
+servicio medico legal | affected by | execution of pedro otarola
+comision rettig | affected by | francisco cartes report
+carabineros | cause of | detention of frigorifico workers
+agrupacion de familiares de ejecutados politicos | cause of | court request for case reopening
+fuerza aerea de chile | cause of | death of sonia norambuena
+guarnicion aerea el bosque | cause of | death of sonia norambuena
+detention of juan gallardo | occurs at | la granja
+execution of juan gallardo | occurs at | la granja
+detention of pedro otarola | occurs at | la granja
+execution of candia munoz villarroel | occurs at | poblacion san gregorio
+detention at san gregorio | occurs at | comisaria de la poblacion san gregorio
+death of Ricardo del Carmen Sepulveda Bravo | occurs at | posta nº3
+execution of Luis Alberto Lobos Canas | occurs at | rio mapocho
+execution of Victor Galvarino Silva Lopez | occurs at | zanjon de la aguada
+death of Roberto Enrique Anfrens Fuentes | occurs at | zanjon de la aguada
+execution of Rios Traslavina, Ramirez Amestica, and Rios Bustos | occurs at | poblacion los nogales
+execution of Beltran Bizama, Fonseca Castro, and Cortes Velasquez | occurs at | lo errazuriz
+coup in chile | occurs at | estadio nacional
+report on executions | occurs at | poblacion los nogales
+morgue report | occurs at | santiago
+execution of pedro otarola | occurs at | cementerio general
+francisco cartes report | occurs at | el bosque
+detention of frigorifico workers | occurs at | villa nueva paraguay
+court request for case reopening | occurs at | santiago
+death of sonia norambuena | occurs at | ochagavia
+subcomisaria de carabineros de la granja | if part of | carabineros
+carabineros | if part of | comision nacional sobre prision politica y tortura
+carabineros | if part of | comision rettig
+guardias | if part of | carabineros
+subcomisaria la granja | if part of | carabineros
+compania anti insurgencia | if part of | comando de area jurisdiccional de seguridad interior
+escuela de especialidades | if part of | compania anti insurgencia
+ala de mantenimiento | if part of | compania anti insurgencia
+academia politecnica aeronautica | if part of | compania anti insurgencia
+ala de abastecimiento y mantenimiento | if part of | compania anti insurgencia
+academia de la escuela de aviacion de el bosque | if part of | compania anti insurgencia
+guarnicion aerea el bosque | if part of | fuerza aerea de chile
+comando conjunto | if part of | fuerzas armadas
+marianela cifuentes alarcon | was present at | la granja
+hector fernando osses yanez | was present at | la granja
+aquiles bustamante oliva | was present at | la granja
+julio cesar yanez illanes | was present at | la granja
+juan gallardo nunez | was present at | la granja
+hector fernando osses yanez | was present at | poblacion san gregorio
+aquiles bustamante oliva | was present at | poblacion san gregorio
+mario angel candia acevedo | was present at | poblacion san gregorio
+luis humberto munoz aguayo | was present at | poblacion san gregorio
+luis antonio villarroel rivera | was present at | poblacion san gregorio
+hector andres queglas maturana | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+luis eugenio morales munoz | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+dante valentin olivares jimenez | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+jeremias jara valenzuela | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+pedro otarola sepulveda | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+hector fernando osses yanez | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+aquiles bustamante oliva | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+armando saez perez | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+julio cesar yanez illanes | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+fernando felix rojas veliz | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+luis alberto baeza sanhueza | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+segundo baldomero llanos amarilis | was present at | tenencia de carabineros nueva espana, poblacion san gregorio
+pedro humire loredo | was present at | comisaria de la poblacion san gregorio
+oscar patricio ibacache carrasco | was present at | poblacion los nogales
+hernan rafael sepulveda bravo | was present at | uspallata and antofagasta
+juan manuel sepulveda bravo | was present at | uspallata and antofagasta
+ricardo del carmen sepulveda bravo | was present at | posta nº3
+luis alberto lobos canas | was present at | rio mapocho
+luis alberto lobos canas | was present at | puente bulnes
+victor galvarino silva lopez | was present at | zanjon de la aguada
+roberto enrique anfrens fuentes | was present at | zanjon de la aguada
+miguel angel rios traslavina | was present at | poblacion los nogales
+rogelio gustavo ramirez amestica | was present at | poblacion los nogales
+marco orlando rios bustos | was present at | puente iquique
+juan manuel pinto godoy | was present at | poblacion kennedy
+jose tomas beltran bizama | was present at | lo errazuriz
+eduardo antonio fonseca castro | was present at | lo errazuriz
+hernan anselmo cortes velasquez | was present at | lo errazuriz
+nicolas pavez | was present at | santiago
+alicia lira | was present at | santiago
+pascale bonnefoy | was present at | santiago
+john dinges | was present at | santiago
+enrique romero jara | was present at | poblacion los nogales
+oscar patricio ibacache carrasco | was present at | poblacion los nogales
+juan eliecer ponce manivet | was present at | poblacion los nogales
+pedro otalora | was present at | cementerio general
+dante valentin olivares jimenez | was present at | la bandera
+hector andres queglas maturana | was present at | la granja
+luis eugenio morales munoz | was present at | la granja
+hector andres queglas maturana | was present at | subcomisaria de la granja
+luis eugenio morales munoz | was present at | subcomisaria de la granja
+hector andres queglas maturana | was present at | avenidas departamental con santa rosa
+luis eugenio morales munoz | was present at | avenidas departamental con santa rosa
+juan fernando campos gatica | was present at | pasaje 3 norte n° 0467 de poblacion san gregorio
+juan fernando campos gatica | was present at | subcomisaria de la granja
+mario angel candia acevedo | was present at | esquina de los pasajes 9 poniente y 5 norte de poblacion san gregorio
+luis humberto munoz aguayo | was present at | esquina de los pasajes 9 poniente y 5 norte de poblacion san gregorio
+luis antonio villarroel rivera | was present at | esquina de los pasajes 9 poniente y 5 norte de poblacion san gregorio
+mario angel candia acevedo | was present at | subcomisaria de la granja
+luis humberto munoz aguayo | was present at | subcomisaria de la granja
+luis antonio villarroel rivera | was present at | subcomisaria de la granja
+sonia isaura norambuena cruz | was present at | cementerio general
+mario vivero avila | was present at | puente ochagavia
+leonardo antonucci | was present at | el bosque
+francisco cartes cartes | was present at | el bosque
+jeremias jara valenzuela | was present at | matadero de la granja
+pedro otarala | was present at | matadero de la granja
+manuel gutierrez montano | was present at | matadero de la granja
+jeremias jara valenzuela | was present at | villa nueva paraguay
+pedro otarala | was present at | villa nueva paraguay
+manuel gutierrez montano | was present at | villa nueva paraguay
+jeremias jara valenzuela | was present at | poblacion san gregorio
+pedro otarala | was present at | poblacion san gregorio
+manuel gutierrez montano | was present at | poblacion san gregorio
+jeremias jara valenzuela | was present at | zanjon el mariscal
+pedro otarala | was present at | zanjon el mariscal
+manuel gutierrez montano | was present at | zanjon el mariscal
+jeremias jara valenzuela | was present at | avenida santa rosa
+pedro otarala | was present at | avenida santa rosa
+manuel gutierrez montano | was present at | avenida santa rosa
+jeremias jara valenzuela | was present at | san bernardo
+jaime antonio rivera aguilar | was present at | zanjon el mariscal
+eduardo santos quinteros miranda | was present at | zanjon el mariscal
+jose tomas beltran bizama | was present at | lo errazuriz
+eduardo antonio fonseca castro | was present at | lo errazuriz
+hernan anselmo cortes velasquez | was present at | lo errazuriz
+herman brady roche | was present at | santiago
+mario vivero avila | was present at | el bosque
+sonia isaura norambuena cruz | was present at | ochagavia
+francisco cartes cartes | was present at | ochagavia
+sonia isaura norambuena cruz | was present at | cementerio general

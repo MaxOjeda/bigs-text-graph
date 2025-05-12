@@ -1,0 +1,67 @@
+Tenencia De Carabineros | ISCONTAINEDIN | Nueva España
+Nueva España | ISCONTAINEDIN | San Gregorio
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Héctor Andrés Queglas Maturana
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Luis Eugenio Morales Muñoz
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Dante Valentín Olivares Jiménez
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Jeremías Jara Valenzuela
+La Tenencia De Carabineros Nueva España, Población San Gregorio | ISRELATEDTO | Pedro Otárola Sepúlveda
+Héctor Fernando Osses Yáñez | ISRELATEDTO | Cárcel De San Gregorio
+Aquiles Bustamante Oliva | ISRELATEDTO | Cárcel De San Gregorio
+Armando Sáez Pérez | ISRELATEDTO | Cárcel De San Gregorio
+Julio Yáñez Illanes | ISRELATEDTO | Cárcel De San Gregorio
+Fernando Félix Rojas Véliz | ISRELATEDTO | Cárcel De San Gregorio
+Luis Alberto Baeza Sanhueza | ISRELATEDTO | Cárcel De San Gregorio
+Segundo Baldomero Llanos Amarilis | ISRELATEDTO | Cárcel De San Gregorio
+Pedro Humire Loredo | ISRELATEDTO | Cárcel De San Gregorio
+11 De Septiembre De 1973 | OCCURSAT | Cárcel De San Gregorio
+Oscar Patricio Ibacache Carrasco | ISRELATEDTO | Población Los Nogales
+Tenencia Los Nogales | ISRELATEDTO | Luis Alberto Lobos Cañas
+Tenencia Los Nogales | ISRELATEDTO | Víctor Galvarino Silva López
+Tenencia Los Nogales | ISRELATEDTO | Roberto Enrique Anfrens Fuentes
+Tenencia Los Nogales | ISRELATEDTO | Miguel Angel Ríos Traslaviña
+Tenencia Los Nogales | ISRELATEDTO | Rogelio Gustavo Ramírez Améstica
+Tenencia Los Nogales | ISRELATEDTO | Marco Orlando Ríos Bustos
+Tenencia Los Nogales | ISRELATEDTO | Juan Manuel Pinto Godoy
+Tenencia Los Nogales | ISRELATEDTO | José Tomás Beltrán Bizama
+Tenencia Los Nogales | ISRELATEDTO | Eduardo Antonio Fonseca Castro
+Tenencia Los Nogales | ISRELATEDTO | Hernán Anselmo Cortés Velásquez
+Tenencia Los Nogales | ISRELATEDTO | Juan Eliecer Ponce Manivet
+Comando De Área Jurisdiccional De Seguridad Interior | ISRELATEDTO | Herman Brady Roche
+Comando De Área Jurisdiccional De Seguridad Interior | ISPARTOF | Agrupación Sur
+Comando De Área Jurisdiccional De Seguridad Interior | ISRELATEDTO | Guarnición El Bosque
+Mario Vivero Ávila | ISRELATEDTO | Agrupación Sur
+Santiago | ISCONTAINEDIN | El Bosque
+El Bosque | ISCONTAINEDIN | Fuerza Aérea De Chile
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Francisco Cartes Cartes
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Eugenio Cartes
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Edith Cartes
+Sonia Isaura Norambuena Cruz | ISRELATEDTO | Cecilia Cartes
+Fuerza Aérea De Chile | ISRELATEDTO | Comisión Rettig
+Jeremías Jara Valenzuela | ISRELATEDTO | Digna Valenzuela
+El Bosque | ISCONTAINEDIN | Población Villa Nueva Paraguay
+Pedro Otárola Sepúlveda | ISRELATEDTO | Rosa Sepúlveda
+Héctor Osses Yáñez | ISRELATEDTO | Aquiles Bustamante Oliva
+Héctor Osses Yáñez | ISRELATEDTO | Luis Alberto Baeza Sanhueza
+Héctor Osses Yáñez | ISRELATEDTO | Segundo Llanos Amariles
+Héctor Osses Yáñez | ISRELATEDTO | Julio César Yáñez Illanes
+Héctor Osses Yáñez | ISRELATEDTO | Héctor Andrés Queglas Maturana
+Pedro Otárola Sepúlveda | ISRELATEDTO | Fuerza Aérea De Chile
+Luis Eugenio Morales Muñoz | ISRELATEDTO | Héctor Andrés Queglas Maturana
+Juan Fernando Campos Gatica | ISCONTAINEDIN | La Granja
+Sonia Isaura Norambuena Cruz | OCCURSAT | Santa Adriana
+Población Villa Nueva Paraguay | ISCONTAINEDIN | Santiago
+Mario Ángel Candia Acevedo | ISCONTAINEDIN | La Granja
+Luis Humberto Muñoz Aguayo | ISCONTAINEDIN | La Granja
+Luis Antonio Villarroel Rivera | ISCONTAINEDIN | La Granja
+Luis Antonio Villarroel Rivera | ISRELATEDTO | Población San Gregorio
+Luis Antonio Villarroel Rivera | ISRELATEDTO | Héctor Osses Yáñez
+Luis Antonio Villarroel Rivera | ISRELATEDTO | Aquiles Bustamante Oliva
+Mario Ángel Candia Acevedo | ISRELATEDTO | Población San Gregorio
+Luis Humberto Muñoz Aguayo | ISRELATEDTO | Población San Gregorio
+Héctor Osses Yáñez | ISRELATEDTO | Subcomisaría De Carabineros De La Granja
+Aquiles Bustamante Oliva | ISRELATEDTO | Subcomisaría De Carabineros De La Granja
+Julio Yáñez Illanes | ISRELATEDTO | Juan Gallardo Núñez
+Pedro Otárola Sepúlveda | ISRELATEDTO | Población San Gregorio
+Marianela Cifuentes | ISRELATEDTO | Corte De Apelaciones De San Miguel
+Pablo Fuenzalida | ISRELATEDTO | Estudio Jurídico Caucoto Abogados
+Corte De Apelaciones De San Miguel | ISRELATEDTO | Población San Gregorio

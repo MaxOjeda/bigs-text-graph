@@ -1,0 +1,151 @@
+Tenencia De Carabineros Isla De Maipo | ISCONTAINEDIN | Manuel Rodríguez 988 Isla De Maipo Región Metropolitana
+Tenencia De Carabineros Isla De Maipo | ISPARTOF | Carabineros
+Detenciones En 1973 | OCCURSAT | Tenencia De Carabineros Isla De Maipo
+Presos Políticos | WASPRESENTAT | Detenciones En 1973
+Presos Políticos | ISRELATEDTO | Comisaría De Buin
+Presos Políticos | ISRELATEDTO | Retén De Viluco
+Presos Políticos | ISRELATEDTO | Cerro Chena
+Presos Políticos | ISRELATEDTO | Estadio Nacional
+Presos Políticos | ISRELATEDTO | Polvorín De Talagante
+Marcelo Iván Castro Mendoza | ISRELATEDTO | Carabineros
+David Coliqueo Peralta | ISRELATEDTO | Carabineros
+Pablo Ñancupil Raquileo | ISRELATEDTO | Carabineros
+Justo Romo Peralta | ISRELATEDTO | Carabineros
+Félix Sagredo Aravena | ISRELATEDTO | Carabineros
+Jacinto Torres González | ISRELATEDTO | Carabineros
+Juan José Villegas Navarro | ISRELATEDTO | Carabineros
+Informe Valech | ISRELATEDTO | El 'Caso De Lonquen'
+El Ciudadano | ISRELATEDTO | El 'Caso De Lonquen'
+Memoriaviva | ISRELATEDTO | El 'Caso De Lonquen'
+El Pais | ISRELATEDTO | El 'Caso De Lonquen'
+Lonquén | ISRELATEDTO | El 'Caso De Lonquen'
+Sergio Maureira Lillo | ISRELATEDTO | El 'Caso De Lonquen'
+Rodolfo Antonio Maureira | ISRELATEDTO | El 'Caso De Lonquen'
+Sergio Miguel Maureira | ISRELATEDTO | El 'Caso De Lonquen'
+Segundo Armando Maureira | ISRELATEDTO | El 'Caso De Lonquen'
+José Manuel Maureira | ISRELATEDTO | El 'Caso De Lonquen'
+Oscar Hernández Flores | ISRELATEDTO | El 'Caso De Lonquen'
+Carlos Hernández Flores | ISRELATEDTO | El 'Caso De Lonquen'
+Nelson Hernández Flores | ISRELATEDTO | El 'Caso De Lonquen'
+Enrique Astudillo Alvarez | ISRELATEDTO | El 'Caso De Lonquen'
+Omar Astudillo | ISRELATEDTO | El 'Caso De Lonquen'
+Ramón Astudillo | ISRELATEDTO | El 'Caso De Lonquen'
+Miguel Brant | ISRELATEDTO | El 'Caso De Lonquen'
+Iván Ordóñez | ISRELATEDTO | El 'Caso De Lonquen'
+José Herrera | ISRELATEDTO | El 'Caso De Lonquen'
+Manuel Navarro | ISRELATEDTO | El 'Caso De Lonquen'
+Lautaro Castro Mendoza | ISRELATEDTO | El 'Caso De Lonquen'
+Vicaría De La Solidaridad | ISRELATEDTO | El 'Caso De Lonquen'
+Cristián Precht | ISRELATEDTO | El 'Caso De Lonquen'
+Enrique Alvear | ISRELATEDTO | El 'Caso De Lonquen'
+Javier Egaña | ISRELATEDTO | El 'Caso De Lonquen'
+Alejandro González | ISRELATEDTO | El 'Caso De Lonquen'
+Máximo Pacheco | ISRELATEDTO | El 'Caso De Lonquen'
+Jaime Martínez | ISRELATEDTO | El 'Caso De Lonquen'
+Abraham Santibáñez | ISRELATEDTO | El 'Caso De Lonquen'
+Israel Bórquez | ISRELATEDTO | El 'Caso De Lonquen'
+Juana Godoy | ISRELATEDTO | El 'Caso De Lonquen'
+Gonzalo Aguirre | ISRELATEDTO | El 'Caso De Lonquen'
+Luis Navarro | ISRELATEDTO | El 'Caso De Lonquen'
+Adolfo Bañados Cuadra | ISRELATEDTO | El 'Caso De Lonquen'
+Gonzalo Salazar | ISRELATEDTO | El 'Caso De Lonquen'
+Instituto Médico Legal | ISRELATEDTO | Lonquén
+Sergio Fernández | ISRELATEDTO | Lonquén
+Sergio Diez | ISRELATEDTO | Lonquén
+Vicaría De La Solidaridad | ISRELATEDTO | Lonquén
+Cristián Precht | ISRELATEDTO | Vicaría De La Solidaridad
+Enrique Alvear | ISRELATEDTO | Vicaría De La Solidaridad
+Javier Egaña | ISRELATEDTO | Vicaría De La Solidaridad
+Alejandro González | ISRELATEDTO | Vicaría De La Solidaridad
+Máximo Pacheco | ISRELATEDTO | Vicaría De La Solidaridad
+Jaime Martínez | ISRELATEDTO | Vicaría De La Solidaridad
+Abraham Santibáñez | ISRELATEDTO | Vicaría De La Solidaridad
+Gonzalo Aguirre | ISRELATEDTO | Vicaría De La Solidaridad
+Luis Navarro | ISRELATEDTO | Vicaría De La Solidaridad
+Adolfo Bañados Cuadra | ISRELATEDTO | Lonquén
+Lautaro Eugenio Castro Mendoza | ISRELATEDTO | Lonquén
+David Coliqueo Fuentealba | ISRELATEDTO | Lonquén
+Justo Romo Peralta | ISRELATEDTO | Lonquén
+Félix Sagredo Aravena | ISRELATEDTO | Lonquén
+Jacinto Torres González | ISRELATEDTO | Lonquén
+Juan José Villegas Navarro | ISRELATEDTO | Lonquén
+José Auth | ISRELATEDTO | Lonquén
+Purísima Muñoz | ISRELATEDTO | Lonquén
+Sergio Maureira Lillo | ISRELATEDTO | Lonquén
+Adriana Sottovia | ISRELATEDTO | Lonquén
+Marianela Cifuentes Alarcón | ISRELATEDTO | Lonquén
+Isla De Maipo | ISRELATEDTO | Lonquén
+Hornos De Lonquén | ISPARTOF | Lonquén
+Emeres | ISRELATEDTO | Lonquén
+Partido Por La Democracia | ISRELATEDTO | Lonquén
+José Manuel Maureira Muñoz | ISRELATEDTO | Lonquén
+Rodolfo Maureira Muñoz | ISRELATEDTO | Lonquén
+Segundo Maureira Muñoz | ISRELATEDTO | Lonquén
+Sergio Maureira Muñoz | ISRELATEDTO | Lonquén
+Manuel Navarro Salinas | ISRELATEDTO | Lonquén
+Iván Ordoñez Lama | ISRELATEDTO | Lonquén
+Enrique Astudillo Álvarez | ISRELATEDTO | Lonquén
+Omar Astudillo Rojas | ISRELATEDTO | Lonquén
+Ramón Astudillo Rojas | ISRELATEDTO | Lonquén
+Miguel Brant Benavente | ISRELATEDTO | Lonquén
+Carlos Hernández Flores | ISRELATEDTO | Lonquén
+Nelson Hernández Flores | ISRELATEDTO | Lonquén
+Óscar Hernández Flores | ISRELATEDTO | Lonquén
+José Manuel Herrera Villegas | ISRELATEDTO | Lonquén
+David Coliqueo Fuentealba | ISRELATEDTO | Secuestro Calificado
+Justo Ignacio Romo Peralta | ISRELATEDTO | Secuestro Calificado
+Félix Héctor Sagredo Aravena | ISRELATEDTO | Secuestro Calificado
+Jacinto Torres González | ISRELATEDTO | Secuestro Calificado
+Juan José Villegas Navarro | ISRELATEDTO | Secuestro Calificado
+Pablo Ñancupil Raguileo | ISRELATEDTO | Secuestro Simple
+Lautaro Castro Mendoza | ISRELATEDTO | Hornos De Lonquén
+Isla De Maipo | ISRELATEDTO | Lonquén
+Corte Suprema | ISRELATEDTO | Secuestro Calificado
+Corte Suprema | ISRELATEDTO | Secuestro Simple
+Ministerio De La Corte De Apelaciones De Santiago | ISRELATEDTO | Lonquén
+Adolfo Bañados Cuadra | ISRELATEDTO | Lonquén
+Héctor Solís | ISRELATEDTO | Lonquén
+Marianela Cifuentes | ISRELATEDTO | Secuestro Calificado
+Marianela Cifuentes | ISRELATEDTO | Secuestro Simple
+Nelson Caucoto | ISRELATEDTO | Lonquén
+Lorena Pizarro | ISRELATEDTO | Agrupación De Familiares De Detenidos Desaparecidos
+Museo De La Memoria | ISRELATEDTO | Lonquén
+Enrique Alvear | ISRELATEDTO | Lonquén
+Cristian Precht | ISRELATEDTO | Lonquén
+Javier Egaña | ISRELATEDTO | Lonquén
+Alejandro González | ISRELATEDTO | Lonquén
+Máximo Pacheco | ISRELATEDTO | Lonquén
+Jaime Martínez | ISRELATEDTO | Lonquén
+Abraham Santibáñez | ISRELATEDTO | Lonquén
+Fundo Naguayán | ISRELATEDTO | Isla De Maipo
+Tenencia De Isla De Maipo | ISRELATEDTO | Isla De Maipo
+Cementerio Parroquial De Isla De Maipo | ISRELATEDTO | Isla De Maipo
+Servicio Médico Legal | ISRELATEDTO | Lonquén
+Fisco | ISRELATEDTO | Secuestro Calificado
+Unidad Programa De Derechos Humanos De La Subsecretaria De Derechos Humanos | ISRELATEDTO | Secuestro Calificado
+Carlos Segundo Hernández Flores | ISRELATEDTO | Secuestro Calificado
+Nelson Hernández Flores | ISRELATEDTO | Secuestro Calificado
+Oscar Nibaldo Hernández Flores | ISRELATEDTO | Secuestro Calificado
+Ignacio Del Carmen Vergara Guajardo | ISRELATEDTO | Secuestro Calificado
+Rodolfo Antonio Maureira Muñoz | ISRELATEDTO | Secuestro Calificado
+Sergio Miguel Maureira Muñoz | ISRELATEDTO | Secuestro Calificado
+José Manuel Maureira Muñoz | ISRELATEDTO | Secuestro Calificado
+Segundo Armando Maureira Muñoz | ISRELATEDTO | Secuestro Calificado
+Enrique Astudillo Álvarez | ISRELATEDTO | Secuestro Calificado
+Omar Astudillo Rojas | ISRELATEDTO | Secuestro Calificado
+Ramón Astudillo Rojas | ISRELATEDTO | Secuestro Calificado
+Miguel Ángel Arturo Brant Bustamante | ISRELATEDTO | Secuestro Calificado
+José Manuel Herrera Villegas | ISRELATEDTO | Secuestro Calificado
+Manuel Jesús Navarro Salinas | ISRELATEDTO | Secuestro Calificado
+Iván Gerardo Ordóñez Lama | ISRELATEDTO | Secuestro Calificado
+Sergio Adrián Maureira Lillo | ISRELATEDTO | Secuestro Calificado
+15 Víctimas | ISRELATEDTO | Carabineros
+Carlos Contreras | ISRELATEDTO | Santiago
+Sitio De Memoria Lonquén | ISRELATEDTO | Hornos De Lonquén
+Luis Navarro | ISRELATEDTO | Vicaria De La Solidaridad
+Marisela Santibáñez | WASPRESENTAT | Sitio De Memoria Lonquén
+Lorena Pizarro | WASPRESENTAT | Sitio De Memoria Lonquén
+Haydee Oberreuter | WASPRESENTAT | Sitio De Memoria Lonquén
+Orquesta De Instrumentos Autóctonos Y Nuevas Tecnología Oiant | ISRELATEDTO | Argentina
+Carlos Maureira | ISRELATEDTO | Hornos De Lonquén
+Corporación Memoria Lonquén | ISRELATEDTO | Sitio De Memoria Lonquén

@@ -1,0 +1,2041 @@
+oscar varela | member | corporacion de ex presos politicos de pisagua
+juan ramirez | member | corporacion de ex presos politicos de pisagua
+jaime coronil | member | corporacion de ex presos politicos de pisagua
+Juan Valencia Hinojosa | affected by | consejo de guerra
+jose humberto lizardi flores | affected by | consejo de guerra
+Mario Morris Barrios | affected by | consejo de guerra
+jose rufino cordova croxatto | affected by | consejo de guerra
+julio cesar cabezas gacitua | affected by | consejo de guerra
+freddy taberna gallegos | member | partido socialista de iquique
+jini arancibia | affected by | partido socialista de iquique
+Pedro Arancibia | affected by | batallon logistico de pisagua
+Vladislav Kuzmicic | affected by | batallon logistico de pisagua
+Alberto Newmann | affected by | batallon logistico de pisagua
+francisco prieto enriquez | affected by | batallon logistico de pisagua
+augusto pinochet ugarte | chief | batallon logistico de pisagua
+augusto pinochet ugarte | other | cni
+felix morales cortes | affected by | ministerio del interior
+felix morales cortes | affected by | partido de recabaren
+angel veas | affected by | ministerio del interior
+olegario apablaza | member | ejercito
+luis gallardo | member | ejercito
+freddy taberna gallegos | member | partido socialista
+jose demostenes rosier sampson ocaranza | affected by | partido socialista
+juan antonio ruz diaz | affected by | partido socialista
+rodolfo jacinto fuenzalida fernandez | affected by | partido socialista
+luis alberto lizardi lizardi | affected by | partido socialista
+marcelo omar guzman fuentes | affected by | partido socialista
+nelson munoz morales | other | partido socialista
+augusto pinochet ugarte | chief | gobierno de chile
+felipe valenzuela | affected by | fuerzas armadas de chile
+hector salazar | member | vicaria de la solidaridad
+carlos vilas | member | vicaria de la solidaridad
+ernesto montoya | member | vicaria de la solidaridad
+hector salazar | member | comision de derechos humanos
+carlos vilas | member | comision de derechos humanos
+ernesto montoya | member | comision de derechos humanos
+nelson munoz morales | member | juzgado de crimen de pozo almonte
+alberto enrique neumann lagos | member | vicaria de la solidaridad
+patricio aylwin | chief | comision de verdad y reconciliacion
+francisco prieto enriquez | affected by | fuerzas armadas de chile
+michel selim nash saez | affected by | ejercito
+Jesus Canas Canas | affected by | ejercito
+Juan Jimenez Vidal | affected by | ejercito
+marcelo omar guzman fuentes | affected by | ejercito
+juan efrain calderon villalon | affected by | ejercito
+luis alberto lizardi lizardi | affected by | ejercito
+julio cesar cabezas gacitua | affected by | ejercito
+Julio Cordova Croxato | affected by | ejercito
+Mario Morris Barrios | affected by | ejercito
+jose humberto lizardi flores | affected by | ejercito
+Juan Valencia Hinojosa | affected by | ejercito
+Sergio Benavides Villarreal | member | ejercito
+Manuel Vega Collao | member | carabineros
+Roberto Ampuero Alarcon | member | ejercito
+Gabriel Guerrero Reeve | member | ejercito
+Arturo Contador Rosales | member | ejercito
+Mario Carroza | other | corte de apelaciones de santiago
+mario acuna riquelme | member | fiscalia militar
+juan antonio ruz diaz | affected by | partido socialista de iquique
+rodolfo jacinto fuenzalida fernandez | affected by | partido socialista de iquique
+jose demostenes rosier sampson ocaranza | affected by | partido socialista de iquique
+Mario Morris Barrios | affected by | militares
+javier prado aranguiz | affected by | militares
+augusto pinochet ugarte | chief | ejercito
+francisco prieto enriquez | affected by | consejos de guerra
+freddy alonso | affected by | consejos de guerra
+julio cesar cabezas gacitua | affected by | consejos de guerra
+carlos vila | member | vicaria de la solidaridad
+haroldo quinteros | affected by | consejos de guerra
+hernan sanchez marre | member | corte suprema
+nelson munoz morales | affected by | corte suprema
+jaime estevez | member | gobierno de patricio aylwin
+marcelo omar guzman fuentes | member | socialista
+nolberto jesus canas | member | socialista
+michel selim nash saez | member | juventudes comunistas
+Juan Jimenez Vidal | member | socialista
+jose cordova croxato | member | mapu oc
+Juan Valencia Hinojosa | member | comunista
+Mario Morris Barrios | member | comunista
+jose humberto lizardi flores | member | mir
+freddy taberna gallegos | member | socialista
+jose demostenes rosier sampson ocaranza | member | socialista
+juan antonio ruz diaz | member | socialista
+rodolfo jacinto fuenzalida fernandez | member | socialista
+german elidio palominos lamas | member | socialista
+alberto enrique neumann lagos | affected by | poder judicial
+alberto enrique neumann lagos | affected by | armada de chile
+alberto enrique neumann lagos | affected by | compania sudamericana de vapores
+alberto enrique neumann lagos | affected by | ejercito
+pilo durana | member | armagedon
+erick otto frederich claussen sparenberg | chief | fuerza aerea
+ramon larrain larrain | chief | ejercito
+nolberto jesus canas | affected by | ejercito
+michael nash | affected by | ejercito
+luis pino soto | affected by | cni
+nelson jose marquez agusto | affected by | ejercito
+orlando tomas cabello cabello | affected by | consejos de guerra
+nicolas chanez chanez | affected by | consejos de guerra
+juan apolinario mamani garcia | affected by | consejos de guerra
+luis anibal manriquez wilden | affected by | consejos de guerra
+hugo tomas martinez guillen | affected by | consejos de guerra
+juan orlando rojas osega | affected by | consejos de guerra
+jose rufino cordova croxatto | affected by | consejos de guerra
+jose humberto lizardi flores | affected by | consejos de guerra
+Mario Morris Barrios | affected by | consejos de guerra
+Juan Valencia Hinojosa | affected by | consejos de guerra
+rodolfo jacinto fuenzalida fernandez | affected by | consejos de guerra
+juan antonio ruz diaz | affected by | consejos de guerra
+jose demostenes rosier sampson ocaranza | affected by | consejos de guerra
+freddy marcelo taberba gallegos | affected by | consejos de guerra
+german eladio palominos lamas | affected by | consejos de guerra
+juan alarcon | affected by | consejos de guerra
+nolberto jesus canas | affected by | consejos de guerra
+marcelo omar guzman fuentes | affected by | consejos de guerra
+michel selim nash saez | affected by | consejos de guerra
+luis alberto lizardi lizardi | affected by | consejos de guerra
+Juan Jimenez Vidal | affected by | consejos de guerra
+carlos forestier haensgen | chief | ejercito
+luis a. lizardi lizardi | member | militante socialista
+marcelo o. guzman fuentes | member | militante socialista
+nolberto jesus canas | member | militante socialista
+luis pino soto | affected by | dina
+pilo durana | member | patria y libertad
+pilo durana | member | udi
+nelson munoz morales | member | juzgado de pozo almonte
+augusto pinochet ugarte | chief | justicia militar
+andres vargas | other | grupo proceso
+erick otto frederich claussen sparenberg | chief | fuerza aerea de chile
+rodolfo calderon marin | member | cire
+oscar walter pedro ripoll codoceo | affected by | regimiento rancagua
+julio gaston valenzuela bastias | affected by | regimiento rancagua
+manuel francisco donoso danobeitia | affected by | regimiento rancagua
+oscar walter pedro ripoll codoceo | affected by | cuartel de investigaciones
+julio gaston valenzuela bastias | affected by | cuartel de investigaciones
+manuel francisco donoso danobeitia | affected by | cuartel de investigaciones
+waldo sankan | affected by | cuartel de investigaciones
+oscar walter pedro ripoll codoceo | affected by | partido socialista
+julio gaston valenzuela bastias | affected by | partido socialista
+manuel francisco donoso danobeitia | affected by | partido socialista
+waldo sankan | affected by | partido socialista
+gerardo poblete fernandez | affected by | carabineros
+gerardo poblete fernandez | member | congregacion salesiana
+blas barraza quintero | member | carabineros
+froilan moncada saez | member | carabineros
+nelson caucoto | member | congregacion salesiana
+jaime rodriguez | member | corte suprema de justicia
+hugo dolmestch | member | corte suprema de justicia
+carlos kunsemuller | member | corte suprema de justicia
+nibaldo segura | member | corte suprema de justicia
+ruben ballesteros | member | corte suprema de justicia
+gustavo erme san martin ravanal | member | carabineros
+enzo claudio meniconi lorca | member | carabineros
+daniel calvo | other | carabineros
+ricardo salgado torres | affected by | carabineros
+maximiano ortazar | member | congregacion salesiana
+ulises aliaga rojas | member | congregacion salesiana
+hugo grober venegas islas | affected by | investigaciones
+hugo grober venegas islas | affected by | regimiento rancagua de arica
+hugo grober venegas islas | affected by | servicio militar de arica
+jose luis catalan reyes | member | regimiento cazadores de valdivia
+jose luis catalan reyes | member | escuela de suboficiales del ejercito
+jose luis catalan reyes | member | escuela de caballeria blindada
+jose luis catalan reyes | member | comandancia de la guarnicion de ejercito de arica
+jose luis catalan reyes | member | cire, centro de inteligencia regional
+patricio padilla villen | chief | cire, centro de inteligencia regional
+jose lautaro vignolo quezada | member | cire, centro de inteligencia regional
+Miguel Aguirre Alvarez | member | ejercito
+roberto fuentes zambrano | member | ejercito
+miguel nash | affected by | batallon logistico n° 6 pisagua
+juan antonio ruz diaz | affected by | batallon logistico n° 6 pisagua
+marcelo omar guzman fuentes | affected by | batallon logistico n° 6 pisagua
+luis alberto lizardi lizardi | affected by | batallon logistico n° 6 pisagua
+norberto canas | affected by | batallon logistico n° 6 pisagua
+julio cesar cabezas gacitua | affected by | tribunal militar en tiempo de guerra
+Juan Valencia Hinojosa | affected by | tribunal militar en tiempo de guerra
+Mario Morris Barrios | affected by | tribunal militar en tiempo de guerra
+jose humberto lizardi flores | affected by | tribunal militar en tiempo de guerra
+jose cordova croxato | affected by | tribunal militar en tiempo de guerra
+freddy taberna gallegos | affected by | consejo de guerra
+jose demostenes rosier sampson ocaranza | affected by | consejo de guerra
+rodolfo jacinto fuenzalida fernandez | affected by | consejo de guerra
+german elidio palominos lamas | affected by | consejo de guerra
+conrado garcia | member | ejercito
+carlos herrera jimenez | member | ejercito
+michel selim nash saez | affected by | campo de prisioneros de pisagua
+jorge rogelio marin rossel | member | partido socialista
+jorge rogelio marin rossel | affected by | regimiento de telecomunicaciones
+williams millar sanhueza | member | partido socialista
+williams millar sanhueza | affected by | regimiento de telecomunicaciones
+pedro prado ortiz | affected by | ejercito
+manuel araya zavala | affected by | regimiento de telecomunicaciones
+manuel araya zavala | affected by | campo de prisioneros de pisagua
+mario acuna riquelme | chief | consejo de guerra
+carlos forestier haensen | chief | sexta division de ejercito
+pedro prado ortiz | affected by | regimiento de telecomunicaciones
+william robert millar sanhueza | affected by | regimiento de telecomunicaciones
+jorge rogelio marin rossel | affected by | vi division de ejercito
+william robert millar sanhueza | affected by | vi division de ejercito
+Luis Emilio Recabarren | member | partido obrero socialista
+Luis Emilio Recabarren | member | partido comunista de chile
+Victor Osorio Reyes | other | consejo de monumentos nacionales
+gabriel gonzalez videla | affected by | comision nacional de verdad y reconciliacion
+carlos ibanez del campo | affected by | comision nacional de verdad y reconciliacion
+felipe rocha p. | member | municipalidad de huara
+ivan paniagua v. | other | consejo de monumentos nacionales
+belen rojas silva | other | consejo de monumentos nacionales
+yasna provoste campillay | member | ministerio de educacion
+rodrigo gonzalez lopez | member | subsecretaria de educacion
+nelson bravo ramirez | affected by | regimiento de telecomunicaciones
+nelson jose marquez agusto | affected by | regimiento de telecomunicaciones
+carlos herrera jimenez | affected by | regimiento de telecomunicaciones
+luis emilio morales marino | member | partido comunista
+luis emilio morales marino | affected by | carabineros
+Miguel Aguirre Alvarez | member | sexta division del ejercito
+roberto fuentes zambrano | member | sexta division del ejercito
+miguel nash | affected by | regimiento de telecomunicaciones
+juan antonio ruz diaz | affected by | regimiento de telecomunicaciones
+grober hugo venegas islas | affected by | policia de investigaciones de chile
+grober hugo venegas islas | affected by | ejercito de chile
+grober hugo venegas islas | affected by | servicio de inteligencia militar
+grober hugo venegas islas | affected by | cni
+georgina del carmen inostroza valencia | affected by | cni
+augusto pinochet ugarte | chief | ejercito de chile
+grober hugo venegas islas | affected by | comision nacional de verdad y reconciliacion
+julio cesar cabezas gacitua | affected by | consejo de defensa del estado
+mario acuna riquelme | member | comision investigadora del consejo de defensa del estado
+jose cordova croxato | member | empresa portuaria de iquique
+jose cordova croxato | member | mapu
+Mario Morris Barrios | member | comision investigadora del consejo de defensa del estado
+Juan Valencia Hinojosa | member | empresa de comercio agricola
+Juan Valencia Hinojosa | member | partido comunista
+isaias higueras zuniga | member | partido comunista
+isaias higueras zuniga | affected by | ejercito de chile
+nelson jose marquez agusto | affected by | partido comunista
+tomas orlando cabello cabello | affected by | carabineros de chile
+tomas orlando cabello cabello | affected by | regimiento de telecomunicaciones
+nicolas chanez chanez | affected by | carabineros de chile
+juan apolinario mamani garcia | affected by | carabineros de chile
+juan apolinario mamani garcia | affected by | regimiento de telecomunicaciones
+hugo tomas martinez guillen | affected by | carabineros de chile
+jose manuel balmaceda | affected by | Pisagua during 1891 Civil War
+enrique vedia | affected by | Pisagua during 1891 Civil War
+jini arancibia | affected by | report on executions
+Pedro Arancibia | affected by | execution of prisoners
+Vladislav Kuzmicic | affected by | execution of prisoners
+Alberto Newmann | affected by | execution of prisoners
+francisco prieto enriquez | affected by | execution of prisoners
+augusto pinochet ugarte | cause of | opening of pisagua camp
+felix morales cortes | affected by | death of Felix Morales Cortes
+angel veas | affected by | death of Felix Morales Cortes
+olegario apablaza | affected by | arrival of relegated subofficers
+luis gallardo | affected by | arrival of relegated subofficers
+freddy taberna gallegos | affected by | execution of Freddy Taberna and others
+jose demostenes rosier sampson ocaranza | affected by | execution of Freddy Taberna and others
+juan antonio ruz diaz | affected by | execution of Freddy Taberna and others
+rodolfo jacinto fuenzalida fernandez | affected by | execution of Freddy Taberna and others
+luis alberto lizardi lizardi | affected by | execution of Freddy Taberna and others
+marcelo omar guzman fuentes | affected by | execution of Freddy Taberna and others
+nelson munoz morales | cause of | discovery of mass grave
+felipe valenzuela | affected by | discovery of remains near Quillagua Viejo
+hector salazar | cause of | discovery of remains in Pisagua
+carlos vilas | cause of | discovery of remains in Pisagua
+ernesto montoya | cause of | discovery of remains in Pisagua
+nelson munoz morales | cause of | discovery of remains in Pisagua
+alberto enrique neumann lagos | cause of | discovery of remains in Pisagua
+patricio aylwin | cause of | discovery of remains in Pisagua
+francisco prieto enriquez | affected by | discovery of remains in Pisagua
+michel selim nash saez | affected by | execution of prisoners
+Jesus Canas Canas | affected by | execution of prisoners
+Juan Jimenez Vidal | affected by | execution of prisoners
+marcelo omar guzman fuentes | affected by | execution of prisoners
+juan efrain calderon villalon | affected by | execution of prisoners
+luis alberto lizardi lizardi | affected by | execution of prisoners
+julio cesar cabezas gacitua | affected by | execution of prisoners
+Julio Cordova Croxato | affected by | execution of prisoners
+Mario Morris Barrios | affected by | execution of prisoners
+jose humberto lizardi flores | affected by | execution of prisoners
+Juan Valencia Hinojosa | affected by | execution of prisoners
+Sergio Benavides Villarreal | cause of | supreme court decision
+Manuel Vega Collao | cause of | supreme court decision
+Roberto Ampuero Alarcon | cause of | supreme court decision
+Gabriel Guerrero Reeve | cause of | supreme court decision
+Arturo Contador Rosales | cause of | supreme court decision
+Sergio Figueroa Lopez | cause of | supreme court decision
+Miguel Aguirre Alvarez | cause of | supreme court decision
+Mario Carroza | cause of | court ruling on exagents
+mario acuna riquelme | cause of | court ruling on exagents
+hector taberna | cause of | execution of socialist leaders
+manuel eduardo sanhueza mellado | affected by | supreme court decision on Pisagua
+nicolas chanez chanez | affected by | supreme court decision on Pisagua
+tomas orlando cabello cabello | affected by | supreme court decision on Pisagua
+luis manriquez wilde | affected by | supreme court decision on Pisagua
+juan orlando rojas osega | affected by | supreme court decision on Pisagua
+hugo tomas martinez guillen | affected by | supreme court decision on Pisagua
+alberto amador yanez carvajal | affected by | supreme court decision on Pisagua
+luis alberto toro castillo | affected by | supreme court decision on Pisagua
+nelson jose marquez agusto | affected by | supreme court decision on Pisagua
+german elidio palominos lamas | affected by | supreme court decision on Pisagua
+juan apolinario mamani garcia | affected by | supreme court decision on Pisagua
+jose rufino cordova croxatto | affected by | supreme court decision on Pisagua
+Juan Valencia Hinojosa | affected by | supreme court decision on Pisagua
+julio cesar cabezas gacitua | affected by | supreme court decision on Pisagua
+Mario Morris Barrios | affected by | supreme court decision on Pisagua
+jose humberto lizardi flores | affected by | supreme court decision on Pisagua
+luis alberto lizardi lizardi | affected by | supreme court decision on Pisagua
+marcelo omar guzman fuentes | affected by | supreme court decision on Pisagua
+juan efrain calderon villalon | affected by | supreme court decision on Pisagua
+michel nasch | affected by | supreme court decision on Pisagua
+juan antonio ruz diaz | affected by | supreme court decision on Pisagua
+rodolfo jacinto fuenzalida fernandez | affected by | supreme court decision on Pisagua
+jose demostenes rosier sampson ocaranza | affected by | supreme court decision on Pisagua
+javier prado aranguiz | cause of | Pisagua as detention center
+augusto pinochet ugarte | cause of | execution of Julio Cabezas
+julio cesar cabezas gacitua | affected by | execution of Julio Cabezas
+nelson munoz morales | affected by | threat to judge Nelson Munoz
+marcelo omar guzman fuentes | affected by | execution of marcelo guzman
+nolberto jesus canas | affected by | execution of nolberto canas
+michel selim nash saez | affected by | execution of michel nash
+juan efrain calderon villalon | affected by | execution of juan calderon
+Juan Jimenez Vidal | affected by | execution of juan jimenez
+julio cesar cabezas gacitua | affected by | execution of julio cabezas
+jose cordova croxato | affected by | execution of jose cordova
+Juan Valencia Hinojosa | affected by | execution of juan valencia
+Mario Morris Barrios | affected by | execution of mario morris
+jose humberto lizardi flores | affected by | execution of humberto lizardi
+freddy taberna gallegos | affected by | execution of freddy taberna
+jose demostenes rosier sampson ocaranza | affected by | execution of jose sampson
+juan antonio ruz diaz | affected by | execution of juan ruz
+rodolfo jacinto fuenzalida fernandez | affected by | execution of rodolfo fuenzalida
+german elidio palominos lamas | affected by | execution of german palominos
+luis higuera | affected by | execution of luis higuera
+nelson jose marquez agusto | affected by | execution of nelson marquez
+luis alberto toro castillo | affected by | execution of luis toro
+alberto amador yanez carvajal | affected by | execution of alberto yanez
+manuel eduardo sanhueza mellado | affected by | death of manuel sanhueza
+marcelino lamas largo | affected by | execution of marcelino lamas
+alberto enrique neumann lagos | affected by | arrest of alberto neumann
+alberto enrique neumann lagos | affected by | transfer to pisagua
+alberto enrique neumann lagos | affected by | release from pisagua
+erick otto frederich claussen sparenberg | cause of | detention at base aerea los condores
+ramon larrain larrain | cause of | announcement of new prisoners
+marcelo omar guzman fuentes | affected by | death of six prisoners
+nolberto jesus canas | affected by | death of six prisoners
+michael nash | affected by | death of six prisoners
+juan efrain calderon villalon | affected by | death of six prisoners
+luis alberto lizardi lizardi | affected by | death of six prisoners
+Juan Jimenez Vidal | affected by | death of six prisoners
+luis pino soto | affected by | disappearance of luis pino soto
+pilo durana | cause of | attack at iglesia del carmen
+luis a. lizardi lizardi | affected by | execution of Luis A. Lizardi
+marcelo o. guzman fuentes | affected by | execution of Marcelo O. Guzman
+nolberto jesus canas | affected by | execution of Nolberto Jesus Canas
+michel selim nash saez | affected by | execution of Michel Selim Nash
+Mario Morris Barrios | affected by | hallazgo de pisagua
+jose cordova croxato | affected by | hallazgo de pisagua
+jose humberto lizardi flores | affected by | hallazgo de pisagua
+nelson munoz morales | cause of | hallazgo de pisagua
+augusto pinochet ugarte | cause of | hallazgo de pisagua
+erick otto frederich claussen sparenberg | cause of | detention and torture at Base Aerea Los Condores
+oscar walter pedro ripoll codoceo | affected by | execution of three socialists
+julio gaston valenzuela bastias | affected by | execution of three socialists
+manuel francisco donoso danobeitia | affected by | execution of three socialists
+humberto villalobos lopez | affected by | vehicle accident south of Arica
+jose martinez albarracin | affected by | vehicle accident south of Arica
+waldo sankan | affected by | vehicle accident south of Arica
+gerardo poblete fernandez | affected by | death of Gerardo Poblete
+blas barraza quintero | cause of | death of Gerardo Poblete
+froilan moncada saez | cause of | death of Gerardo Poblete
+nelson caucoto | affected by | sentencing of ex-carabineros
+jaime rodriguez | cause of | sentencing of ex-carabineros
+hugo dolmestch | cause of | sentencing of ex-carabineros
+carlos kunsemuller | cause of | sentencing of ex-carabineros
+nibaldo segura | unspecified | sentencing of ex-carabineros
+ruben ballesteros | unspecified | sentencing of ex-carabineros
+gustavo erme san martin ravanal | cause of | death of Gerardo Poblete
+enzo claudio meniconi lorca | cause of | death of Gerardo Poblete
+daniel calvo | cause of | report on Gerardo Poblete's death
+ricardo salgado torres | affected by | death of Gerardo Poblete
+maximiano ortazar | affected by | death of Gerardo Poblete
+hugo grober venegas islas | affected by | escape of hugo grober venegas
+miguel nash | affected by | transfer to caleta de pisagua
+juan antonio ruz diaz | affected by | transfer to caleta de pisagua
+miguel nash | affected by | execution of prisoners
+marcelo omar guzman fuentes | affected by | execution of prisoners
+luis alberto lizardi lizardi | affected by | execution of prisoners
+norberto canas | affected by | execution of prisoners
+julio cesar cabezas gacitua | affected by | military tribunal executions
+Juan Valencia Hinojosa | affected by | military tribunal executions
+Mario Morris Barrios | affected by | military tribunal executions
+jose humberto lizardi flores | affected by | military tribunal executions
+jose cordova croxato | affected by | military tribunal executions
+freddy taberna gallegos | affected by | execution of socialist leaders
+juan antonio ruz diaz | affected by | execution of socialist leaders
+jose demostenes rosier sampson ocaranza | affected by | execution of socialist leaders
+rodolfo jacinto fuenzalida fernandez | affected by | execution of socialist leaders
+Miguel Aguirre Alvarez | affected by | commutation to london
+roberto fuentes zambrano | affected by | commutation to london
+jorge rogelio marin rossel | affected by | arrest of Jorge Marin Rossel
+williams millar sanhueza | affected by | arrest of Williams Millar Sanhueza
+jorge rogelio marin rossel | affected by | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+williams millar sanhueza | affected by | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+pedro prado ortiz | affected by | death of Pedro Prado Ortiz
+manuel araya zavala | affected by | arrest of Manuel Heriberto Araya Zavala
+mario acuna riquelme | cause of | executions in Pisagua
+carlos forestier haensen | cause of | executions in Pisagua
+pedro prado ortiz | affected by | death of Pedro Prado
+jorge rogelio marin rossel | affected by | detention of Marin and Millar
+jorge rogelio marin rossel | affected by | torture of Marin and Millar
+jorge rogelio marin rossel | affected by | disappearance of Marin and Millar
+william robert millar sanhueza | affected by | detention of Marin and Millar
+william robert millar sanhueza | affected by | torture of Marin and Millar
+william robert millar sanhueza | affected by | disappearance of Marin and Millar
+Mario Carroza | cause of | detention of Marin and Millar
+Mario Carroza | cause of | torture of Marin and Millar
+Mario Carroza | cause of | disappearance of Marin and Millar
+Victor Osorio Reyes | cause of | death of Pedro Prado
+gabriel gonzalez videla | cause of | declaration of monument status
+carlos ibanez del campo | cause of | declaration of monument status
+felipe rocha p. | affected by | declaration of monument status
+ivan paniagua v. | affected by | declaration of monument status
+belen rojas silva | affected by | declaration of monument status
+nelson bravo ramirez | affected by | declaration of nelson bravo ramirez
+luis emilio morales marino | affected by | declaration of luis emilio morales marino
+luis emilio morales marino | affected by | detention of luis emilio morales marino
+miguel nash | affected by | transfer to pisagua
+juan antonio ruz diaz | affected by | transfer to pisagua
+grober hugo venegas islas | affected by | detention of Grober Venegas
+grober hugo venegas islas | affected by | disappearance of Grober Venegas
+augusto pinochet ugarte | cause of | disappearance of Grober Venegas
+luis angel medina henriquez | cause of | detention of Grober Venegas
+julio cesar cabezas gacitua | affected by | execution of 5 people
+mario acuna riquelme | affected by | execution of 5 people
+jose cordova croxato | affected by | execution of 5 people
+jose humberto lizardi flores | affected by | execution of 5 people
+Juan Valencia Hinojosa | affected by | execution of 5 people
+carlos forestier haensen | cause of | execution of 5 people
+isaias higueras zuniga | affected by | death of isaias higueras
+hugo tomas martinez guillen | affected by | death of hugo martinez
+juan orlando rojas osega | affected by | death of juan rojas
+tomas orlando cabello cabello | affected by | release announcement of prisoners
+nicolas chanez chanez | affected by | release announcement of prisoners
+juan apolinario mamani garcia | affected by | release announcement of prisoners
+luis anibal manriquez wilden | affected by | release announcement of prisoners
+hugo tomas martinez guillen | affected by | release announcement of prisoners
+juan orlando rojas osega | affected by | release announcement of prisoners
+nicolas chanez chanez | affected by | letter to nicolas chanez's family
+michel selim nash saez | affected by | execution of michel selim nash saez
+juan efrain calderon villalon | affected by | execution of juan calderon villalon
+Juan Jimenez Vidal | affected by | execution of juan jimenez vidal
+julio cesar cabezas gacitua | affected by | execution of julio c. cabezas gacitua
+jose cordova croxato | affected by | execution of jose r. cordova croxato
+Juan Valencia Hinojosa | affected by | execution of juan valencia hinojosa
+Mario Morris Barrios | affected by | execution of mario morris barrios
+jose humberto lizardi flores | affected by | execution of humberto lizardi flores
+freddy taberna gallegos | affected by | execution of freddy taberna gallegos
+jose demostenes rosier sampson ocaranza | affected by | execution of jose sampson ocaranza
+juan antonio ruz diaz | affected by | execution of juan a. ruz diaz
+rodolfo jacinto fuenzalida fernandez | affected by | execution of rodolfo fuenzalida fernandez
+german elidio palominos lamas | affected by | execution of german palominos lamas
+luis alberto toro castillo | affected by | execution of luis toro castillo
+alberto amador yanez carvajal | affected by | execution of alberto yanez carvajal
+manuel eduardo sanhueza mellado | affected by | death of manuel sanhueza mellado
+marcelino lamas largo | affected by | execution of marcelino lamas largo
+nelson jose marquez agusto | affected by | execution of Luis A. Lizardi
+luis alberto lizardi lizardi | affected by | execution of Luis A. Lizardi
+marcelo omar guzman fuentes | affected by | execution of Marcelo O. Guzman
+juan efrain calderon villalon | affected by | execution of Juan Calderon Villalon
+Juan Jimenez Vidal | affected by | execution of Juan Jimenez Vidal
+gerardo poblete fernandez | affected by | murder of Gerardo Poblete
+blas espinoza barraza | cause of | murder of Gerardo Poblete
+froilan moncada saez | cause of | murder of Gerardo Poblete
+enzo claudio meniconi lorca | cause of | murder of Gerardo Poblete
+rodolfo jacinto fuenzalida fernandez | affected by | council of war in Pisagua
+juan antonio ruz diaz | affected by | council of war in Pisagua
+jose demostenes rosier sampson ocaranza | affected by | council of war in Pisagua
+freddy taberna gallegos | affected by | council of war in Pisagua
+german elidio palominos lamas | affected by | council of war in Pisagua
+jorge rogelio marin rossel | cause of | death of pedro prado
+william robert millar sanhueza | cause of | death of pedro prado
+jorge rogelio marin rossel | affected by | detention of Jorge Marin
+villa grimaldi | is contained in | cerro chena
+estadio nacional | is contained in | cerro chena
+pisagua | is contained in | chile
+pisagua | is contained in | iquique
+pisagua | is contained in | pacific
+pozo almonte | is contained in | pisagua
+campo de detencion de pisagua | is contained in | pisagua
+carcel de pisagua | is contained in | pisagua
+estadio regional de concepcion | is contained in | regimiento n° 14 de aysen
+grupo de instruccion de carabineros | is contained in | regimiento n° 14 de aysen
+calle independencia n. 1718 | is contained in | valparaiso
+hospital deformes | is contained in | valparaiso
+iglesia del carmen | is contained in | arica
+campamento/camping las machas | is contained in | arica
+carcel anexa, ex comercial, calle yungay | is contained in | arica
+carcel de arica | is contained in | arica
+carcel de mujeres buen pastor de arica | is contained in | arica
+casa de seguridad de la dina/cni “carrera pinto” | is contained in | arica
+comisaria de carabineros carlos dittborn | is contained in | arica
+comisaria de carabineros de arica | is contained in | arica
+comisaria de carabineros nº 3 | is contained in | arica
+cuartel de investigaciones | is contained in | arica
+industria abandonada – frente a la ex citroen (nun & german) | is contained in | arica
+avenida santa maria 2936, sector industrial de arica | is contained in | arica
+loteo tarapaca oriente, 7, manzana ll | is contained in | arica
+prefectura de carabineros | is contained in | arica
+recinto cni, calle azola | is contained in | arica
+recinto cni, camino a azapa s/n, parcela nº 35 poblacion san miguel de azapa | is contained in | arica
+recinto dina en calle diego portales s/n | is contained in | arica
+regimiento motorizado reforzado nº 4 “rancagua” de arica | is contained in | arica
+carcel publica de arica | is contained in | arica
+batallon logistico n° 6 pisagua | is contained in | isla dawson
+campamento de prisioneros de pisagua | is contained in | isla dawson
+comisaria de chol-chol | is contained in | destacamento de infanteria de marina n° 4 cochrane
+regimiento arica | is contained in | destacamento de infanteria de marina n° 4 cochrane
+comisaria de salamanca | is contained in | destacamento de infanteria de marina n° 4 cochrane
+reten de carabineros de valdivia | is contained in | destacamento de infanteria de marina n° 4 cochrane
+estadio regional de concepcion | is contained in | destacamento de infanteria de marina n° 4 cochrane
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | rotonda tucapel
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | calle libertad
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | plaza 1ero de mayo
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | diego portales con av. santa maria
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | diego portales con azola
+colon nº 30 entre calle andres bello y pasaje el morro | is contained in | gonzalo cerda con chapiquina
+iglesia del carmen | is contained in | rotonda tucapel
+iglesia del carmen | is contained in | calle libertad
+iglesia del carmen | is contained in | plaza 1ero de mayo
+iglesia del carmen | is contained in | diego portales con av. santa maria
+iglesia del carmen | is contained in | diego portales con azola
+iglesia del carmen | is contained in | gonzalo cerda con chapiquina
+regimiento de copiapo | is contained in | regimiento de copiapo
+comisaria de carabineros de los andes | is contained in | comisaria de carabineros de los andes
+calle londres 38 | is contained in | calle londres 38
+villa grimaldi | is contained in | villa grimaldi
+cuartel general de investigaciones (general mackenna) | is contained in | cuartel general de investigaciones (general mackenna)
+pisagua | is contained in | pisagua
+carcel buen pastor de iquique | is contained in | luis cruz martinez nº 1260
+batallon logistico n° 6 pisagua | is contained in | pisagua
+campamento de prisioneros de pisagua | is contained in | pisagua
+regimiento rancagua | is contained in | arica
+iquique | is contained in | chile
+plaza brasil | is contained in | iquique
+santiago | is contained in | chile
+colegio don bosco | is contained in | iquique
+alto ramirez | is contained in | valle de azapa
+cire, centro de inteligencia regional | is contained in | rotonda camino azapa
+avenida thompson y salvador allende | is contained in | iquique
+calle oscar quina 1333 | is contained in | antofagasta
+capuchinos | is contained in | estadio nacional
+regimiento de telecomunicaciones | is contained in | iquique
+avenida luis emilio recabarren | is contained in | iquique
+fosa | is contained in | cementerio historico
+pisagua | is contained in | tarapaca
+huara | is contained in | tarapaca
+iquique | is contained in | tarapaca
+cuartel de investigaciones de arica | is contained in | calle angamos nº 990-998
+calle tarapaca | is contained in | iquique
+carcel buen pastor | is contained in | campamento – camping las machas
+carcel publica | is contained in | campamento – camping las machas
+cementerio de pisagua | is contained in | pisagua
+avenida santa maria 2936 | is contained in | industria abandonada frente a la ex citroen
+avenida salvador allende | is contained in | iquique
+cementerio 3 | is contained in | iquique
+cementerio n° 3 de iquique | is contained in | iquique
+base aerea los condores | is contained in | batallon logistico n° 6 pisagua
+comisaria de carabineros no 3 de arica | is contained in | avenida loa no.1475
+base aerea los condores | is contained in | iquique
+batallon logistico n° 6 pisagua | is contained in | iquique
+calle azola | is contained in | rotonda tucapel
+carcel buen pastor de iquique | is contained in | calle luis cruz martinez nº 1260
+carcel publica de arica | is contained in | calle baquedano nº 01
+carcel publica de arica | is contained in | poblacion el morro
+calle baquedano nº 01 | is contained in | poblacion el morro
+calle colon | is contained in | poblacion el morro
+patricio lynch | is contained in | poblacion el morro
+comisaria de carabineros no1 de iquique | is contained in | pedro lagos
+pedro lagos | is contained in | iquique
+avenida st maria 900 | is contained in | arica
+comisaria de carabineros no1 de arica | is contained in | avenida st maria 900
+campamento – camping las machas | is contained in | arica
+carcel buen pastor | is contained in | iquique
+comisaria | is contained in | prefectura de carabineros
+penal de punta peuco | is contained in | centro penitenciario de alto hospicio
+inmueble en avenida santa maria 2936, sector industrial de arica | is contained in | arica
+tucapel | is contained in | arica
+avenida diego portales | is contained in | arica
+avda. diego portales | is contained in | arica
+valle de azapa | is contained in | arica
+bernardo o'higgins 427 | is contained in | tarapaca
+avenida diego portales | is contained in | valle de azapa
+pisagua | is contained in | huara
+calle comercio | is contained in | pozo almonte
+calle barros arana | is contained in | iquique
+calle o´higgins | is contained in | iquique
+pisagua | is contained in | valparaiso
+carcel publica de arica | is contained in | calle baquedano
+pozo almonte | is contained in | tarapaca
+huara | is contained in | iquique
+fiscalia militar de osorno | is contained in | hospital base de osorno
+reten de carabineros | is contained in | pisagua
+calle borgono | is contained in | santiago
+santiago | is contained in | region metropolitana
+fuerte muller de infanteria de marina de las salinas | is contained in | v region
+primera comisaria de carabineros de calama | is contained in | calama
+calama | is contained in | ii region
+villa grimaldi | is contained in | region metropolitana
+mercado | is contained in | puerto de pisagua
+teatro municipal | is contained in | puerto de pisagua
+ex carcel publica | is contained in | puerto de pisagua
+multicancha deportiva | is contained in | puerto de pisagua
+escuela | is contained in | puerto de pisagua
+fosa | is contained in | puerto de pisagua
+carcel del buen pastor | is contained in | regimiento arica
+casa de seguridad de la dina/cni carrera pinto | is contained in | arica
+regimiento motorizado reforzado nº 4 rancagua de arica | is contained in | arica
+cuartel borgono | is contained in | region metropolitana
+rotonda tucapel | is contained in | arica
+calle libertad | is contained in | arica
+plaza 1ero de mayo | is contained in | arica
+diego portales con av. santa maria | is contained in | arica
+diego portales con azola | is contained in | arica
+gonzalo cerda con chapiquina | is contained in | arica
+chihuio | is contained in | futrono
+paine | is contained in | san bernardo
+cuartel de investigaciones | is contained in | avenida santa maria 2936
+prefectura de carabineros | is contained in | avenida santa maria 2936
+recinto dina en calle diego portales s/n | is contained in | diego portales con av. santa maria
+cuartel de la dina en villa grimaldi | is contained in | villa grimaldi
+detention and torture | occurs at | antofagasta
+detention and torture | occurs at | villa grimaldi
+detention and torture | occurs at | vallenar
+detention and russian roulette | occurs at | arica
+detention and russian roulette | occurs at | calama
+detention and russian roulette | occurs at | talca
+detention and execution witnessing | occurs at | estadio nacional
+detention and execution witnessing | occurs at | cerro chena
+Pisagua during 1891 Civil War | occurs at | pisagua
+report on executions | occurs at | pisagua
+execution of socialist members | occurs at | iquique
+opening of pisagua camp | occurs at | pisagua
+execution of prisoners | occurs at | pisagua
+discovery of mass graves | occurs at | pisagua
+death of Felix Morales Cortes | occurs at | pisagua
+arrival of relegated subofficers | occurs at | pisagua
+execution of Freddy Taberna and others | occurs at | pisagua
+discovery of mass grave | occurs at | pozo almonte
+detention at estadio nacional | occurs at | estadio nacional
+detention at cerro chena | occurs at | cerro chena
+detention at isla quiriquina | occurs at | isla quiriquina
+detention at cerro moreno | occurs at | base aerea cerro moreno
+detention at comisaria de chol-chol | occurs at | comisaria de chol-chol
+discovery of remains in Pisagua | occurs at | carcel de pisagua
+discovery of remains near Quillagua Viejo | occurs at | quillagua viejo
+execution of prisoners | occurs at | pisagua
+execution of prisoners | occurs at | pisagua
+hallazgo de pisagua | occurs at | pisagua
+court ruling on exagents | occurs at | santiago
+supreme court decision | occurs at | pisagua
+execution of socialist leaders | occurs at | iquique
+Pisagua as detention center | occurs at | pisagua
+supreme court decision on Pisagua | occurs at | pisagua
+execution of Julio Cabezas | occurs at | pisagua
+threat to judge Nelson Munoz | occurs at | pisagua
+detention and torture | occurs at | estadio regional de concepcion
+detention and torture | occurs at | estadio regional de concepcion
+detention and torture | occurs at | fuerte borgono
+detention and torture | occurs at | regimiento n° 14 de aysen
+detention and torture | occurs at | campo de prisioneros chacabuco
+detention and torture | occurs at | grupo de instruccion de carabineros
+arrest of alberto neumann | occurs at | hospital deformes
+transfer to pisagua | occurs at | carcel de pisagua
+release from pisagua | occurs at | valparaiso
+political prisoners in Arica | occurs at | carcel publica de arica
+detention at base aerea los condores | occurs at | base aerea los condores
+detention at batallon logistico n° 6 pisagua | occurs at | batallon logistico n° 6 pisagua
+detention at campamento de prisioneros de pisagua | occurs at | campamento de prisioneros de pisagua
+transfer to Valparaiso | occurs at | valparaiso
+announcement of new prisoners | occurs at | pisagua
+death of six prisoners | occurs at | pisagua
+arrival of naval group | occurs at | pisagua
+interrogation and torture | occurs at | pisagua
+preparation for special mission | occurs at | pisagua
+execution at Pisagua cemetery | occurs at | pisagua
+detention in chol-chol | occurs at | comisaria de chol-chol
+detention in regimiento arica | occurs at | regimiento arica
+detention in destacamento cochrane | occurs at | destacamento de infanteria de marina n° 4 cochrane
+detention in comisaria salamanca | occurs at | comisaria de salamanca
+detention in reten valdivia | occurs at | reten de carabineros de valdivia
+detention in estadio regional | occurs at | estadio regional de concepcion
+decree of law n°4 | occurs at | colon nº 30 entre calle andres bello y pasaje el morro
+disappearance of luis pino soto | occurs at | colon nº 30 entre calle andres bello y pasaje el morro
+attack at iglesia del carmen | occurs at | iglesia del carmen
+execution of Luis A. Lizardi | occurs at | pisagua
+execution of Marcelo O. Guzman | occurs at | pisagua
+execution of Nolberto Jesus Canas | occurs at | pisagua
+execution of Michel Selim Nash | occurs at | pisagua
+detention in Copiapo | occurs at | regimiento de copiapo
+detention in Los Andes | occurs at | comisaria de carabineros de los andes
+detention in Londres 38 | occurs at | calle londres 38
+detention in Villa Grimaldi | occurs at | villa grimaldi
+detention in General Mackenna | occurs at | cuartel general de investigaciones (general mackenna)
+detention and torture | occurs at | 3a comisaria de rahue
+detention and torture | occurs at | regimiento chorrillos
+detention and torture | occurs at | casa de la cultura de barrancas
+detention and torture | occurs at | cuartel general de investigaciones (general mackenna)
+detentions in Pisagua | occurs at | pisagua
+hallazgo de pisagua | occurs at | cementerio de pisagua
+detention and torture at Base Aerea Los Condores | occurs at | base aerea los condores
+detention and torture at Batallon Logistico N° 6 Pisagua | occurs at | batallon logistico n° 6 pisagua
+detention and torture at Campamento de Prisioneros de Pisagua | occurs at | campamento de prisioneros de pisagua
+execution of three socialists | occurs at | pisagua
+detention at Regimiento Rancagua | occurs at | regimiento rancagua
+transfer to cuartel de Investigaciones | occurs at | arica
+vehicle accident south of Arica | occurs at | arica
+death of Gerardo Poblete | occurs at | iquique
+death of Gerardo Poblete | occurs at | plaza brasil
+sentencing of ex-carabineros | occurs at | chile
+death of Gerardo Poblete | occurs at | colegio don bosco
+escape of hugo grober venegas | occurs at | valle de azapa
+transfer to caleta de pisagua | occurs at | caleta de pisagua
+execution of prisoners | occurs at | caleta de pisagua
+military tribunal executions | occurs at | caleta de pisagua
+execution of socialist leaders | occurs at | caleta de pisagua
+commutation to london | occurs at | londres
+arrest of Jorge Marin Rossel | occurs at | iquique
+arrest of Williams Millar Sanhueza | occurs at | iquique
+arrest of Williams Millar Sanhueza | occurs at | iquique
+disappearance of Jorge Marin Rossel and Williams Millar Sanhueza | occurs at | iquique
+death of Pedro Prado Ortiz | occurs at | iquique
+arrest of Manuel Heriberto Araya Zavala | occurs at | arica
+executions in Pisagua | occurs at | pisagua
+detention of Marin and Millar | occurs at | regimiento de telecomunicaciones
+torture of Marin and Millar | occurs at | regimiento de telecomunicaciones
+disappearance of Marin and Millar | occurs at | regimiento de telecomunicaciones
+death of Pedro Prado | occurs at | regimiento de telecomunicaciones
+declaration of monument status | occurs at | ex carcel publica
+declaration of monument status | occurs at | mercado
+declaration of monument status | occurs at | teatro municipal
+discovery of bodies | occurs at | fosa
+declaration of nelson bravo ramirez | occurs at | pisagua
+declaration of luis emilio morales marino | occurs at | pisagua
+detention of luis emilio morales marino | occurs at | pisagua
+transfer to pisagua | occurs at | pisagua
+detention of Grober Venegas | occurs at | cuartel de investigaciones de arica
+disappearance of Grober Venegas | occurs at | valle de azapa
+execution of 5 people | occurs at | pisagua
+detention of Jose Cordova Croxato | occurs at | iquique
+detention of Humberto Lizardi Flores | occurs at | iquique
+detention of Mario Morris Barrios | occurs at | iquique
+detention of Juan Valencia Hinojosa | occurs at | iquique
+publication of military bando | occurs at | iquique
+death of isaias higueras | occurs at | pisagua
+death of hugo martinez | occurs at | pisagua
+death of juan rojas | occurs at | pisagua
+release announcement of prisoners | occurs at | pisagua
+letter to nicolas chanez's family | occurs at | iquique
+execution of michel selim nash saez | occurs at | carcel publica
+execution of juan calderon villalon | occurs at | carcel publica
+execution of juan jimenez vidal | occurs at | carcel publica
+execution of julio c. cabezas gacitua | occurs at | carcel publica
+execution of jose r. cordova croxato | occurs at | carcel buen pastor
+execution of juan valencia hinojosa | occurs at | carcel publica
+execution of mario morris barrios | occurs at | carcel publica
+execution of humberto lizardi flores | occurs at | carcel publica
+execution of freddy taberna gallegos | occurs at | carcel publica
+execution of jose sampson ocaranza | occurs at | carcel publica
+execution of juan a. ruz diaz | occurs at | carcel buen pastor
+execution of rodolfo fuenzalida fernandez | occurs at | carcel buen pastor
+execution of german palominos lamas | occurs at | carcel buen pastor
+execution of luis higuera | occurs at | campamento – camping las machas
+execution of nelson marquez | occurs at | campamento – camping las machas
+execution of luis toro castillo | occurs at | campamento – camping las machas
+execution of alberto yanez carvajal | occurs at | campamento – camping las machas
+death of manuel sanhueza mellado | occurs at | campamento – camping las machas
+execution of marcelino lamas largo | occurs at | campamento – camping las machas
+execution of Luis A. Lizardi | occurs at | campamento de prisioneros de pisagua
+execution of Marcelo O. Guzman | occurs at | campamento de prisioneros de pisagua
+execution of Nolberto Jesus Canas | occurs at | campamento de prisioneros de pisagua
+execution of Michel Selim Nash | occurs at | campamento de prisioneros de pisagua
+execution of Juan Calderon Villalon | occurs at | campamento de prisioneros de pisagua
+execution of Juan Jimenez Vidal | occurs at | campamento de prisioneros de pisagua
+execution of 5 prisoners | occurs at | cementerio de pisagua
+discovery of clandestine grave | occurs at | pisagua
+murder of Gerardo Poblete | occurs at | colegio don bosco
+council of war in Pisagua | occurs at | pisagua
+detention of women | occurs at | industria abandonada frente a la ex citroen
+detentions at Camping Las Machas | occurs at | campamento/camping las machas
+detention of alberto yanez | occurs at | iquique
+detention of henry torres | occurs at | iquique
+detention of manuel sanhueza | occurs at | pisagua
+death of pedro prado | occurs at | cementerio 3
+detention of Jorge Marin | occurs at | alto hospicio
+detention of Salome Castillo | occurs at | alto hospicio
+detention of William Millar | occurs at | iquique
+detention of William Millar | occurs at | iquique
+detention of Jorge Marin | occurs at | iquique
+disappearance of Jorge Marin | occurs at | iquique
+radio announcement of escape | occurs at | iquique
+press report of escape | occurs at | iquique
+detention at los condores | occurs at | base aerea los condores
+detention at batallon logistico n° 6 pisagua | occurs at | batallon logistico n° 6 pisagua
+detention at campamento de prisioneros de pisagua | occurs at | campamento de prisioneros de pisagua
+torture of Atiliano Hernandez | occurs at | comisaria de carabineros no 3 de arica
+detention at base los condores | occurs at | base aerea los condores
+detention at batallon logistico n° 6 | occurs at | batallon logistico n° 6 pisagua
+decree of law n°4 | occurs at | rotonda tucapel
+disappearance of luis pino soto | occurs at | calle azola
+church of carmen attack | occurs at | iglesia del carmen
+detentions in Arica | occurs at | carcel publica de arica
+detentions in Arica | occurs at | carcel publica de arica
+detentions in Arica | occurs at | carcel publica de arica
+report by Comision Nacional | occurs at | carcel publica de arica
+death of Gerardo Poblete Fernandez | occurs at | comisaria de carabineros no1 de iquique
+detention of Enrique Sironvalles Buteler | occurs at | comisaria de carabineros no1 de iquique
+detention of priest and seminarian | occurs at | comisaria de carabineros no1 de iquique
+execution of Juan Calderon Villalon | occurs at | pisagua
+execution of Juan Jimenez Vidal | occurs at | pisagua
+execution of julio c. cabezas | occurs at | pisagua
+execution of jose r. cordova | occurs at | pisagua
+execution of juan valencia hinojosa | occurs at | pisagua
+execution of mario morris barrios | occurs at | pisagua
+execution of humberto lizardi flores | occurs at | pisagua
+execution of freddy taberna gallegos | occurs at | pisagua
+execution of jose sampson ocaranza | occurs at | pisagua
+execution of juan a. ruz diaz | occurs at | pisagua
+execution of rodolfo fuenzalida fernandez | occurs at | pisagua
+execution of german palominos lamas | occurs at | pisagua
+arrest of gerardo poblete | occurs at | colegio don bosco
+death of Gerardo Poblete | occurs at | comisaria
+homenaje to gerardo poblete | occurs at | plaza brasil
+execution of Luis Higuera | occurs at | pisagua
+execution of Nelson Marquez | occurs at | pisagua
+execution of Luis Toro Castillo | occurs at | pisagua
+execution of Alberto Yanez Carvajal | occurs at | pisagua
+death of Manuel Sanhueza Mellado | occurs at | pisagua
+execution of Marcelino Lamas Largo | occurs at | pisagua
+death of Salvador Fidel Cautivo Ahumada | occurs at | tucapel
+death of Julio Valenzuela | occurs at | arica
+execution of Grober Venegas | occurs at | valle de azapa
+report on Grober Venegas case | occurs at | arica
+sentencing of ex-military | occurs at | arica
+execution in Valle de Azapa | occurs at | valle de azapa
+detention of grober venegas | occurs at | arica
+arica court ruling | occurs at | arica
+arrest of Grober Venegas | occurs at | avenida diego portales
+court ruling on Grober Venegas case | occurs at | santiago
+discovery of pisagua fosa | occurs at | pisagua
+discovery of pisagua mass grave | occurs at | pisagua
+execution of juan calderon | occurs at | pisagua
+execution of marcelo guzman | occurs at | pisagua
+execution of luis lizardi | occurs at | pisagua
+execution of nolberto canas | occurs at | pisagua
+execution of juan jimenez | occurs at | pisagua
+execution of michel nash | occurs at | pisagua
+detention of political prisoners | occurs at | carcel publica de arica
+increase in detainees | occurs at | carcel publica de arica
+transfer of female prisoners | occurs at | carcel publica de arica
+sequestration of grober venegas | occurs at | avenida diego portales
+execution of Luis Rojas Valenzuela | occurs at | iquique
+execution of humberto lizardi | occurs at | carcel buen pastor
+execution of freddy taberna | occurs at | carcel buen pastor
+execution of jose sampson | occurs at | carcel buen pastor
+execution of juan ruz | occurs at | carcel buen pastor
+execution of rodolfo fuenzalida | occurs at | carcel buen pastor
+execution of german palominos | occurs at | carcel buen pastor
+state of emergency in arica | occurs at | arica
+detention and torture | occurs at | londres 38
+detention and torture | occurs at | cuartel de la cni
+fiscalia militar de calama | if part of | fiscalia de carabineros
+peloton de fusilamiento | if part of | consejo de guerra
+batallon logistico de pisagua | if part of | cni
+regimiento valdivia | if part of | ejercito
+estadio nacional | if part of | cerro chena
+vicaria de la solidaridad | if part of | juzgado de crimen de pozo almonte
+comision de derechos humanos | if part of | juzgado de crimen de pozo almonte
+comision de verdad y reconciliacion | if part of | gobierno de chile
+corte suprema | if part of | alemania
+ejercito | if part of | chile
+carabineros | if part of | chile
+corte de apelaciones de santiago | if part of | chile
+fiscalia militar | if part of | chile
+vicaria de la solidaridad | if part of | iglesia catolica
+regimiento n° 14 de aysen | if part of | ejercito
+campo de prisioneros chacabuco | if part of | ejercito
+grupo de instruccion de carabineros | if part of | ejercito
+juventudes comunistas | if part of | comunista
+dina | if part of | cni
+cni | if part of | dina
+fuerza aerea | if part of | fuerzas armadas
+ejercito | if part of | fuerzas armadas
+armada | if part of | ejercito
+regimiento arica | if part of | ejercito
+destacamento de infanteria de marina n° 4 cochrane | if part of | ejercito
+estadio regional de concepcion | if part of | ejercito
+cni | if part of | gendarmeria
+armagedon | if part of | patria y libertad
+juventudes comunistas | if part of | militante socialista
+regimiento de copiapo | if part of | dina
+carabineros | if part of | dina
+cuartel general de investigaciones | if part of | dina
+regimiento chorrillos | if part of | organismos de seguridad
+regimiento yungay | if part of | organismos de seguridad
+cuartel general de investigaciones | if part of | organismos de seguridad
+sexta division del ejercito | if part of | ejercito
+juzgado de pozo almonte | if part of | corte de apelaciones de arica
+septimo juzgado militar de arica | if part of | justicia militar
+fuerza aerea de chile | if part of | ministerio del interior
+agp | if part of | partido socialista
+congregacion salesiana | if part of | carabineros
+congregacion salesiana | if part of | comision rettig
+regimiento rancagua de arica | if part of | ejercito
+regimiento cazadores de valdivia | if part of | ejercito
+escuela de suboficiales del ejercito | if part of | ejercito
+escuela de caballeria blindada | if part of | ejercito
+comandancia de la guarnicion de ejercito de arica | if part of | ejercito
+servicio militar de arica | if part of | ejercito
+regimiento de telecomunicaciones | if part of | ejercito
+tribunal militar en tiempo de guerra | if part of | ejercito
+consejo de guerra | if part of | ejercito
+batallon logistico n° 6 pisagua | if part of | ejercito
+juventudes comunistas | if part of | partido socialista
+regimiento de telecomunicaciones | if part of | vi division de ejercito
+campo de prisioneros de pisagua | if part of | vi division de ejercito
+consejo de guerra | if part of | sexta division de ejercito
+vi division de ejercito | if part of | ejercito
+partido obrero socialista | if part of | partido comunista de chile
+comision chilena de dd.hh. capitulo iquique | if part of | consejo de monumentos nacionales
+subsecretaria de educacion | if part of | ministerio de educacion
+ministerio de educacion | if part of | presidencia de la republica
+regimiento de telecomunicaciones | if part of | sexta division del ejercito
+empresa cooperativa de consumo norte grande limitada coopenor | if part of | partido comunista
+cni | if part of | ministerio del interior
+servicio de inteligencia militar | if part of | ejercito de chile
+comision investigadora del consejo de defensa del estado | if part of | consejo de defensa del estado
+regimiento de telecomunicaciones | if part of | ejercito de chile
+vi division del ejercito | if part of | ejercito de chile
+carabineros de chile | if part of | ejercito de chile
+juventudes comunistas | if part of | socialista
+consejo de guerra | if part of | fuerzas armadas
+carabineros | if part of | fuerzas armadas
+partido socialista | if part of | agp
+cni | if part of | ejercito
+jjcc | if part of | comision nacional de verdad y reconciliacion
+regimiento nº 6 tarapaca | if part of | ejercito
+consejo comunal de la sociedad civil de iquique | if part of | concejo municipal
+juventud socialista | if part of | comision nacional de verdad y reconciliacion
+empresa portuaria de chile | if part of | comision nacional de verdad y reconciliacion
+juventud socialista | if part of | partido socialista de iquique
+servicio de inteligencia de carabineros | if part of | carabineros
+servicio de inteligencia de la fuerza aerea | if part of | fuerza aerea
+direccion de inteligencia de la fuerza aerea | if part of | fuerza aerea
+servicio de inteligencia de carabineros | if part of | cni
+patria y libertad | if part of | udi
+la izquierda diario | if part of | comision nacional sobre prision politica y tortura
+carabineros | if part of | fisco
+juventudes comunistas | if part of | mir
+consejo economico y social | if part of | naciones unidas
+comision de derechos humanos | if part of | naciones unidas
+centro de inteligencia regional | if part of | ejercito de chile
+centro de inteligencia regional | if part of | defensa nacional
+centro de inteligencia regional | if part of | carabineros de chile
+centro de inteligencia regional | if part of | policia de investigaciones de chile
+corte de apelaciones de arica | if part of | poder judicial
+centro de inteligencia regional | if part of | ejercito
+comisaria de carabineros oficina victoria | if part of | campo de prisioneros de pisagua
+comisaria de carabineros oficina victoria | if part of | regimiento de telecomunicaciones n° 6 tarapaca
+unidad popular | if part of | campo de prisioneros de pisagua
+unidad popular | if part of | regimiento de telecomunicaciones n° 6 tarapaca
+cire | if part of | ejercito
+servicio de inteligencia militar | if part of | ejercito
+centros de inteligencia regional | if part of | ejercito
+comision valech | if part of | dictadura
+regimientos | if part of | dictadura
+corporacion de derechos humanos y sitios de la memoria de tarapaca | if part of | organizaciones de derechos humanos
+ministerio secretaria general de la presidencia | if part of | presidencia de la republica
+consejo de monumentos nacionales | if part of | republica de chile
+municipalidad de huara | if part of | republica de chile
+contraloria general de la republica | if part of | republica de chile
+presidencia de la republica | if part of | republica de chile
+fiscalia militar de osorno | if part of | dina
+escuela de artilleria de linares | if part of | dina
+comisaria de curanilahue | if part of | dina
+regimiento chorrillos | if part of | dina
+infanteria de marina | if part of | cni
+comision | if part of | dina
+regimiento talca | if part of | dina
+regimiento arica | if part of | estadio nacional
+carcel del buen pastor | if part of | regimiento arica
+regimiento de ingenieros de tejas verdes | if part of | cuartel de la dina
+carabineros | if part of | cni
+armada | if part of | cni
+patria y libertad | if part of | armagedon
+fuerzas armadas y carabineros | if part of | ejercito
+universidad de chile | if part of | municipio local
+universidad arturo prat | if part of | municipio local
+cni | if part of | regimiento motorizado reforzado nº 4 rancagua
+dina | if part of | regimiento motorizado reforzado nº 4 rancagua
+dina | if part of | armada
+cruz roja internacional | if part of | armada
+dina | cause of | detention and torture
+regimiento rancagua | cause of | detention and russian roulette
+fiscalia militar de calama | cause of | detention and russian roulette
+cni | cause of | detention and russian roulette
+instituto medico legal de iquique | affected by | report on executions
+batallon logistico de pisagua | cause of | execution of prisoners
+infanteria de marina | cause of | execution of prisoners
+partido socialista de iquique | affected by | execution of socialist members
+cni | cause of | discovery of mass graves
+partido de recabaren | affected by | death of Felix Morales Cortes
+ministerio del interior | cause of | death of Felix Morales Cortes
+regimiento valdivia | affected by | arrival of relegated subofficers
+partido socialista | affected by | execution of Freddy Taberna and others
+estadio nacional | cause of | detention at estadio nacional
+cerro chena | cause of | detention at cerro chena
+isla quiriquina | cause of | detention at isla quiriquina
+base aerea cerro moreno | cause of | detention at cerro moreno
+comisaria de chol-chol | cause of | detention at comisaria de chol-chol
+colonia dignidad | affected by | discovery of remains near Quillagua Viejo
+fuerzas armadas de chile | cause of | discovery of remains in Pisagua
+fuerzas armadas de chile | cause of | discovery of remains near Quillagua Viejo
+vicaria de la solidaridad | affected by | discovery of remains in Pisagua
+comision de derechos humanos | affected by | discovery of remains in Pisagua
+juzgado de crimen de pozo almonte | affected by | discovery of remains in Pisagua
+comision de verdad y reconciliacion | affected by | discovery of remains in Pisagua
+corte suprema | affected by | supreme court decision
+corte de apelaciones de santiago | affected by | court ruling on exagents
+ejercito | cause of | execution of prisoners
+ejercito | cause of | execution of prisoners
+carabineros | cause of | execution of prisoners
+carabineros | cause of | execution of prisoners
+fiscalia militar | cause of | execution of prisoners
+fiscalia militar | cause of | execution of prisoners
+militares | cause of | execution of socialist leaders
+partido socialista de iquique | affected by | execution of socialist leaders
+suprema | unspecified | supreme court decision on Pisagua
+consejos de guerra | cause of | execution of Julio Cabezas
+corte suprema | affected by | threat to judge Nelson Munoz
+ejercito | cause of | detention and torture
+regimiento n° 14 de aysen | cause of | detention and torture
+campo de prisioneros chacabuco | cause of | detention and torture
+grupo de instruccion de carabineros | cause of | detention and torture
+comision nacional sobre prision politica y tortura | unspecified | detention and torture
+socialista | affected by | execution of marcelo guzman
+socialista | affected by | execution of nolberto canas
+juventudes comunistas | affected by | execution of michel nash
+socialista | affected by | execution of juan jimenez
+mapu oc | affected by | execution of jose cordova
+comunista | affected by | execution of juan valencia
+comunista | affected by | execution of mario morris
+mir | affected by | execution of humberto lizardi
+socialista | affected by | execution of freddy taberna
+socialista | affected by | execution of jose sampson
+socialista | affected by | execution of juan ruz
+socialista | affected by | execution of rodolfo fuenzalida
+socialista | affected by | execution of german palominos
+municipalidad de valparaiso | affected by | arrest of alberto neumann
+armada de chile | affected by | transfer to pisagua
+compania sudamericana de vapores | affected by | transfer to pisagua
+ejercito | affected by | transfer to pisagua
+dina | affected by | political prisoners in Arica
+cni | affected by | political prisoners in Arica
+carabineros | affected by | political prisoners in Arica
+gendarmeria | affected by | political prisoners in Arica
+comision valech | affected by | political prisoners in Arica
+ministerio del interior | affected by | detention at base aerea los condores
+fuerza aerea | cause of | detention at base aerea los condores
+ejercito | cause of | detention at campamento de prisioneros de pisagua
+ejercito | cause of | death of six prisoners
+armada | cause of | arrival of naval group
+armada | cause of | interrogation and torture
+ejercito | cause of | execution at Pisagua cemetery
+comisaria de chol-chol | affected by | detention in chol-chol
+regimiento arica | affected by | detention in regimiento arica
+destacamento de infanteria de marina n° 4 cochrane | affected by | detention in destacamento cochrane
+comisaria de salamanca | affected by | detention in comisaria salamanca
+reten de carabineros de valdivia | affected by | detention in reten valdivia
+estadio regional de concepcion | affected by | detention in estadio regional
+comision nacional sobre prision politica y tortura | affected by | decree of law n°4
+comision nacional sobre prision politica y tortura | affected by | disappearance of luis pino soto
+armagedon | cause of | attack at iglesia del carmen
+patria y libertad | cause of | attack at iglesia del carmen
+consejos de guerra | cause of | execution of Luis A. Lizardi
+consejos de guerra | cause of | execution of Marcelo O. Guzman
+consejos de guerra | cause of | execution of Nolberto Jesus Canas
+consejos de guerra | cause of | execution of Michel Selim Nash
+ejercito | cause of | execution of Luis A. Lizardi
+ejercito | cause of | execution of Marcelo O. Guzman
+ejercito | cause of | execution of Nolberto Jesus Canas
+ejercito | cause of | execution of Michel Selim Nash
+militante socialista | affected by | execution of Luis A. Lizardi
+militante socialista | affected by | execution of Marcelo O. Guzman
+militante socialista | affected by | execution of Nolberto Jesus Canas
+juventudes comunistas | affected by | execution of Michel Selim Nash
+organismos de derechos humanos | unspecified | execution of Luis A. Lizardi
+organismos de derechos humanos | unspecified | execution of Marcelo O. Guzman
+organismos de derechos humanos | unspecified | execution of Nolberto Jesus Canas
+organismos de derechos humanos | unspecified | execution of Michel Selim Nash
+coordinadora serapj – arica | unspecified | execution of Luis A. Lizardi
+coordinadora serapj – arica | unspecified | execution of Marcelo O. Guzman
+coordinadora serapj – arica | unspecified | execution of Nolberto Jesus Canas
+coordinadora serapj – arica | unspecified | execution of Michel Selim Nash
+regimiento de copiapo | affected by | detention in Copiapo
+carabineros | affected by | detention in Los Andes
+dina | affected by | detention in Londres 38
+dina | affected by | detention in Villa Grimaldi
+cuartel general de investigaciones | affected by | detention in General Mackenna
+comisaria de rahue | affected by | detention and torture
+regimiento chorrillos | affected by | detention and torture
+regimiento yungay | affected by | detention and torture
+cuartel general de investigaciones | affected by | detention and torture
+organismos de seguridad | cause of | detention and torture
+comision nacional sobre prision politica y tortura | affected by | detentions in Pisagua
+dina | cause of | detentions in Pisagua
+cni | cause of | detentions in Pisagua
+sexta division del ejercito | cause of | detentions in Pisagua
+juzgado de pozo almonte | cause of | hallazgo de pisagua
+vicaria de la solidaridad | cause of | hallazgo de pisagua
+corte de apelaciones de arica | affected by | hallazgo de pisagua
+justicia militar | cause of | hallazgo de pisagua
+septimo juzgado militar de arica | cause of | hallazgo de pisagua
+corte suprema | cause of | hallazgo de pisagua
+grupo proceso | unspecified | hallazgo de pisagua
+fuerza aerea de chile | cause of | detention and torture at Base Aerea Los Condores
+ejercito de chile | cause of | detention and torture at Campamento de Prisioneros de Pisagua
+partido socialista | affected by | execution of three socialists
+regimiento rancagua | affected by | detention at Regimiento Rancagua
+cuartel de investigaciones | affected by | transfer to cuartel de Investigaciones
+jefatura militar | cause of | vehicle accident south of Arica
+agp | cause of | vehicle accident south of Arica
+carabineros | cause of | death of Gerardo Poblete
+congregacion salesiana | affected by | death of Gerardo Poblete
+carabineros | cause of | sentencing of ex-carabineros
+corte suprema de justicia | affected by | sentencing of ex-carabineros
+comision rettig | unspecified | death of Gerardo Poblete
+carabineros | cause of | report on Gerardo Poblete's death
+congregacion salesiana | affected by | testimony received by memoriaviva
+investigaciones | cause of | escape of hugo grober venegas
+regimiento rancagua de arica | cause of | escape of hugo grober venegas
+servicio militar de arica | cause of | escape of hugo grober venegas
+ejercito | cause of | transfer to caleta de pisagua
+regimiento de telecomunicaciones | cause of | transfer to caleta de pisagua
+tribunal militar en tiempo de guerra | cause of | military tribunal executions
+consejo de guerra | cause of | execution of socialist leaders
+partido socialista | affected by | execution of socialist leaders
+batallon logistico n° 6 pisagua | cause of | transfer to caleta de pisagua
+juventudes comunistas | affected by | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+partido socialista | affected by | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+emporchi | affected by | arrest of Jorge Marin Rossel
+regimiento de telecomunicaciones | cause of | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+vi division de ejercito | cause of | disappearance of Jorge Marin Rossel and Williams Millar Sanhueza
+campo de prisioneros de pisagua | cause of | executions in Pisagua
+consejo de guerra | cause of | executions in Pisagua
+unidad popular | affected by | executions in Pisagua
+regimiento de telecomunicaciones | cause of | detention of Marin and Millar
+regimiento de telecomunicaciones | cause of | torture of Marin and Millar
+regimiento de telecomunicaciones | cause of | disappearance of Marin and Millar
+regimiento de telecomunicaciones | cause of | death of Pedro Prado
+vi division de ejercito | cause of | detention of Marin and Millar
+ejercito | cause of | disappearance of Marin and Millar
+ejercito | cause of | death of Pedro Prado
+consejo de monumentos nacionales | affected by | death of Pedro Prado
+comision nacional de verdad y reconciliacion | affected by | discovery of bodies
+consejo de monumentos nacionales | cause of | declaration of monument status
+consejo de monumentos nacionales | cause of | declaration of monument status
+comision chilena de dd.hh. capitulo iquique | cause of | declaration of monument status
+municipalidad de huara | cause of | declaration of monument status
+regimiento de telecomunicaciones | affected by | declaration of nelson bravo ramirez
+regimiento de telecomunicaciones | affected by | declaration of luis emilio morales marino
+carabineros | affected by | detention of luis emilio morales marino
+sexta division del ejercito | affected by | transfer to pisagua
+empresa cooperativa de consumo norte grande limitada coopenor | affected by | declaration of luis emilio morales marino
+partido comunista | affected by | declaration of luis emilio morales marino
+policia de investigaciones de chile | affected by | detention of Grober Venegas
+ejercito de chile | affected by | disappearance of Grober Venegas
+comision nacional de verdad y reconciliacion | affected by | disappearance of Grober Venegas
+servicio de inteligencia militar | affected by | disappearance of Grober Venegas
+sexta division de ejercito | cause of | execution of 5 people
+consejo de defensa del estado | affected by | execution of 5 people
+empresa portuaria de iquique | affected by | detention of Jose Cordova Croxato
+empresa de comercio agricola | affected by | detention of Juan Valencia Hinojosa
+sexta division de ejercito | cause of | publication of military bando
+partido comunista | affected by | death of isaias higueras
+partido comunista | affected by | death of hugo martinez
+partido comunista | affected by | death of juan rojas
+regimiento de telecomunicaciones | cause of | death of hugo martinez
+regimiento de telecomunicaciones | cause of | death of juan rojas
+carabineros de chile | cause of | death of hugo martinez
+carabineros de chile | cause of | death of juan rojas
+vi division del ejercito | cause of | release announcement of prisoners
+ejercito de chile | cause of | letter to nicolas chanez's family
+museo de la memoria | affected by | release announcement of prisoners
+juventudes comunistas | affected by | execution of michel selim nash saez
+socialista | affected by | execution of juan jimenez vidal
+consejo defensa del estado | affected by | execution of julio c. cabezas gacitua
+mapu oc | affected by | execution of jose r. cordova croxato
+juventudes comunistas | affected by | execution of juan valencia hinojosa
+juventudes comunistas | affected by | execution of mario morris barrios
+mir | affected by | execution of humberto lizardi flores
+socialista | affected by | execution of freddy taberna gallegos
+socialista | affected by | execution of jose sampson ocaranza
+socialista | affected by | execution of juan a. ruz diaz
+socialista | affected by | execution of rodolfo fuenzalida fernandez
+socialista | affected by | execution of german palominos lamas
+ejercito | cause of | execution of Juan Calderon Villalon
+ejercito | cause of | execution of Juan Jimenez Vidal
+socialista | affected by | execution of Luis A. Lizardi
+socialista | affected by | execution of Marcelo O. Guzman
+socialista | affected by | execution of Nolberto Jesus Canas
+socialista | affected by | execution of Juan Jimenez Vidal
+consejo de guerra | affected by | execution of 5 prisoners
+carabineros | affected by | murder of Gerardo Poblete
+consejo de guerra | affected by | council of war in Pisagua
+partido socialista | affected by | council of war in Pisagua
+agp | cause of | council of war in Pisagua
+cni | cause of | detention of women
+cni | cause of | detentions at Camping Las Machas
+ejercito | cause of | detentions at Camping Las Machas
+jjcc | affected by | detention of manuel sanhueza
+ejercito | cause of | detention of henry torres
+regimiento nº 6 tarapaca | affected by | death of pedro prado
+empresa portuaria de chile | affected by | detention of Jorge Marin
+ferrocarriles del estado de iquique | affected by | detention of William Millar
+juventud socialista | affected by | detention of Jorge Marin
+partido socialista de iquique | affected by | detention of William Millar
+vi division de ejercito | cause of | detention of William Millar
+vi division de ejercito | cause of | detention of Jorge Marin
+regimiento de telecomunicaciones de iquique | cause of | detention of Jorge Marin
+regimiento de telecomunicaciones de iquique | cause of | disappearance of Jorge Marin
+comision nacional de verdad y reconciliacion | unspecified | disappearance of Jorge Marin
+fuerza aerea | cause of | detention at los condores
+sexta division del ejercito | cause of | detention at campamento de prisioneros de pisagua
+fisco | cause of | supreme court ruling
+estado | cause of | supreme court ruling
+carabineros | cause of | torture of Atiliano Hernandez
+servicio de inteligencia de carabineros | cause of | torture of Atiliano Hernandez
+corte suprema | cause of | supreme court ruling
+servicio de inteligencia de la fuerza aerea | cause of | detention at base los condores
+direccion de inteligencia de la fuerza aerea | cause of | detention at base los condores
+servicio de inteligencia de carabineros | cause of | disappearance of luis pino soto
+claudio nash | was present at | pisagua
+oscar varela | was present at | pisagua
+juan ramirez | was present at | pisagua
+jaime coronil | was present at | pisagua
+jose manuel balmaceda | was present at | pisagua
+enrique vedia | was present at | pisagua
+murillo unspecified | was present at | pisagua
+Juan Valencia Hinojosa | was present at | pisagua
+jose humberto lizardi flores | was present at | pisagua
+Mario Morris Barrios | was present at | pisagua
+jose rufino cordova croxatto | was present at | pisagua
+julio cesar cabezas gacitua | was present at | pisagua
+jini arancibia | was present at | iquique
+freddy taberna gallegos | was present at | iquique
+Pedro Arancibia | was present at | pisagua
+Vladislav Kuzmicic | was present at | pisagua
+Alberto Newmann | was present at | pisagua
+francisco prieto enriquez | was present at | pisagua
+augusto pinochet ugarte | was present at | pisagua
+felix morales cortes | was present at | pisagua
+angel veas | was present at | iquique
+olegario apablaza | was present at | pisagua
+luis gallardo | was present at | pisagua
+freddy taberna gallegos | was present at | pisagua
+jose demostenes rosier sampson ocaranza | was present at | pisagua
+juan antonio ruz diaz | was present at | pisagua
+rodolfo jacinto fuenzalida fernandez | was present at | pisagua
+luis alberto lizardi lizardi | was present at | pisagua
+marcelo omar guzman fuentes | was present at | pisagua
+nelson munoz morales | was present at | pozo almonte
+augusto pinochet ugarte | was present at | colonia dignidad
+felipe valenzuela | was present at | campo de detencion de pisagua
+hector salazar | was present at | pozo almonte
+carlos vilas | was present at | pozo almonte
+ernesto montoya | was present at | pozo almonte
+alberto enrique neumann lagos | was present at | pisagua
+patricio aylwin | was present at | pisagua
+francisco prieto enriquez | was present at | carcel de pisagua
+michel selim nash saez | was present at | pisagua
+Jesus Canas Canas | was present at | pisagua
+Juan Jimenez Vidal | was present at | pisagua
+marcelo omar guzman fuentes | was present at | pisagua
+juan efrain calderon villalon | was present at | pisagua
+luis alberto lizardi lizardi | was present at | pisagua
+julio cesar cabezas gacitua | was present at | pisagua
+Julio Cordova Croxato | was present at | pisagua
+Mario Morris Barrios | was present at | pisagua
+jose humberto lizardi flores | was present at | pisagua
+Juan Valencia Hinojosa | was present at | pisagua
+manuel eduardo sanhueza mellado | was present at | pisagua
+nicolas chanez chanez | was present at | pisagua
+tomas orlando cabello cabello | was present at | pisagua
+luis manriquez wilde | was present at | pisagua
+juan orlando rojas osega | was present at | pisagua
+hugo tomas martinez guillen | was present at | pisagua
+alberto amador yanez carvajal | was present at | pisagua
+luis alberto toro castillo | was present at | pisagua
+nelson jose marquez agusto | was present at | pisagua
+german elidio palominos lamas | was present at | pisagua
+juan apolinario mamani garcia | was present at | pisagua
+jose rufino cordova croxatto | was present at | pisagua
+Juan Valencia Hinojosa | was present at | pisagua
+julio cesar cabezas gacitua | was present at | pisagua
+Mario Morris Barrios | was present at | pisagua
+jose humberto lizardi flores | was present at | pisagua
+juan efrain calderon villalon | was present at | pisagua
+michel nasch | was present at | pisagua
+javier prado aranguiz | was present at | pisagua
+francisco prieto enriquez | was present at | pisagua
+freddy alonso | was present at | pisagua
+julio cesar cabezas gacitua | was present at | pisagua
+carlos vila | was present at | iquique
+haroldo quinteros | was present at | pisagua
+hernan sanchez marre | was present at | pisagua
+nelson munoz morales | was present at | pisagua
+jaime estevez | was present at | pisagua
+alberto enrique neumann lagos | was present at | hospital deformes
+alberto enrique neumann lagos | was present at | buque escuela esmeralda
+alberto enrique neumann lagos | was present at | buque maipo
+alberto enrique neumann lagos | was present at | carcel de pisagua
+pilo durana | was present at | iglesia del carmen
+pilo durana | was present at | arica
+sebastian pinera | was present at | arica
+erick otto frederich claussen sparenberg | was present at | base aerea los condores
+ramon larrain larrain | was present at | pisagua
+marcelo omar guzman fuentes | was present at | pisagua
+nolberto jesus canas | was present at | pisagua
+michael nash | was present at | pisagua
+juan efrain calderon villalon | was present at | pisagua
+luis alberto lizardi lizardi | was present at | pisagua
+Juan Jimenez Vidal | was present at | pisagua
+luis pino soto | was present at | calle luis cruz martinez nº 1260
+pilo durana | was present at | iglesia del carmen
+nelson jose marquez agusto | was present at | pisagua
+orlando tomas cabello cabello | was present at | pisagua
+nicolas chanez chanez | was present at | pisagua
+juan apolinario mamani garcia | was present at | pisagua
+luis anibal manriquez wilden | was present at | pisagua
+hugo tomas martinez guillen | was present at | pisagua
+juan orlando rojas osega | was present at | pisagua
+julio cesar cabezas gacitua | was present at | pisagua
+jose rufino cordova croxatto | was present at | pisagua
+jose humberto lizardi flores | was present at | pisagua
+Mario Morris Barrios | was present at | pisagua
+Juan Valencia Hinojosa | was present at | pisagua
+rodolfo jacinto fuenzalida fernandez | was present at | pisagua
+juan antonio ruz diaz | was present at | pisagua
+jose demostenes rosier sampson ocaranza | was present at | pisagua
+freddy marcelo taberba gallegos | was present at | pisagua
+german eladio palominos lamas | was present at | pisagua
+juan alarcon | was present at | pisagua
+michel selim nash saez | was present at | pisagua
+carlos forestier haensgen | was present at | iquique
+mario acuna riquelme | was present at | iquique
+luis a. lizardi lizardi | was present at | pisagua
+marcelo o. guzman fuentes | was present at | pisagua
+luis pino soto | was present at | arica
+pilo durana | was present at | pisagua
+Mario Morris Barrios | was present at | cementerio de pisagua
+jose cordova croxato | was present at | cementerio de pisagua
+jose humberto lizardi flores | was present at | cementerio de pisagua
+nelson munoz morales | was present at | cementerio de pisagua
+nelson munoz morales | was present at | juzgado de pozo almonte
+augusto pinochet ugarte | was present at | cementerio de pisagua
+andres vargas | was present at | cementerio de pisagua
+erick otto frederich claussen sparenberg | was present at | base aerea los condores
+jose lautaro vignolo quezada | was present at | valle de azapa
+oscar walter pedro ripoll codoceo | was present at | regimiento rancagua
+julio gaston valenzuela bastias | was present at | regimiento rancagua
+manuel francisco donoso danobeitia | was present at | regimiento rancagua
+waldo sankan | was present at | regimiento rancagua
+gerardo poblete fernandez | was present at | iquique
+gerardo poblete fernandez | was present at | plaza brasil
+blas barraza quintero | was present at | iquique
+froilan moncada saez | was present at | iquique
+gerardo poblete fernandez | was present at | colegio don bosco
+ricardo salgado torres | was present at | colegio don bosco
+maximiano ortazar | was present at | colegio don bosco
+ulises aliaga rojas | was present at | colegio don bosco
+enzo claudio meniconi lorca | was present at | iquique
+gustavo erme san martin ravanal | was present at | iquique
+hugo grober venegas islas | was present at | valle de azapa
+hugo grober venegas islas | was present at | alto ramirez
+jose luis catalan reyes | was present at | regimiento rancagua
+jose luis catalan reyes | was present at | cire, centro de inteligencia regional
+patricio padilla villen | was present at | cire, centro de inteligencia regional
+jose lautaro vignolo quezada | was present at | cire, centro de inteligencia regional
+Miguel Aguirre Alvarez | was present at | caleta de pisagua
+roberto fuentes zambrano | was present at | caleta de pisagua
+miguel nash | was present at | caleta de pisagua
+juan antonio ruz diaz | was present at | caleta de pisagua
+marcelo omar guzman fuentes | was present at | caleta de pisagua
+luis alberto lizardi lizardi | was present at | caleta de pisagua
+norberto canas | was present at | caleta de pisagua
+julio cesar cabezas gacitua | was present at | caleta de pisagua
+Juan Valencia Hinojosa | was present at | caleta de pisagua
+Mario Morris Barrios | was present at | caleta de pisagua
+jose humberto lizardi flores | was present at | caleta de pisagua
+jose cordova croxato | was present at | caleta de pisagua
+freddy taberna gallegos | was present at | caleta de pisagua
+juan antonio ruz diaz | was present at | caleta de pisagua
+jose demostenes rosier sampson ocaranza | was present at | caleta de pisagua
+rodolfo jacinto fuenzalida fernandez | was present at | caleta de pisagua
+german elidio palominos lamas | was present at | caleta de pisagua
+Miguel Aguirre Alvarez | was present at | estadio nacional
+roberto fuentes zambrano | was present at | estadio nacional
+conrado garcia | was present at | estadio nacional
+carlos herrera jimenez | was present at | estadio nacional
+miguel nash | was present at | capuchinos
+miguel nash | was present at | antofagasta
+miguel nash | was present at | iquique
+miguel nash | was present at | londres
+michel selim nash saez | was present at | pisagua
+jorge rogelio marin rossel | was present at | iquique
+williams millar sanhueza | was present at | iquique
+manuel araya zavala | was present at | regimiento rancagua
+mario acuna riquelme | was present at | pisagua
+carlos forestier haensen | was present at | provincia de tarapaca
+pedro prado ortiz | was present at | regimiento de telecomunicaciones
+jorge rogelio marin rossel | was present at | regimiento de telecomunicaciones
+william robert millar sanhueza | was present at | regimiento de telecomunicaciones
+gabriel gonzalez videla | was present at | ex carcel publica
+carlos ibanez del campo | was present at | ex carcel publica
+felipe rocha p. | was present at | multicancha deportiva
+ivan paniagua v. | was present at | multicancha deportiva
+belen rojas silva | was present at | multicancha deportiva
+nelson bravo ramirez | was present at | pisagua
+nelson jose marquez agusto | was present at | pisagua
+carlos herrera jimenez | was present at | pisagua
+luis emilio morales marino | was present at | pisagua
+miguel nash | was present at | pisagua
+juan antonio ruz diaz | was present at | pisagua
+grober hugo venegas islas | was present at | cuartel de investigaciones de arica
+grober hugo venegas islas | was present at | valle de azapa
+carlos forestier haensen | was present at | iquique
+julio cesar cabezas gacitua | was present at | iquique
+mario acuna riquelme | was present at | iquique
+jose cordova croxato | was present at | iquique
+jose humberto lizardi flores | was present at | iquique
+Mario Morris Barrios | was present at | iquique
+Juan Valencia Hinojosa | was present at | iquique
+isaias higueras zuniga | was present at | pisagua
+nelson jose marquez agusto | was present at | pisagua
+tomas orlando cabello cabello | was present at | pisagua
+nicolas chanez chanez | was present at | pisagua
+juan apolinario mamani garcia | was present at | pisagua
+luis anibal manriquez wilden | was present at | pisagua
+hugo tomas martinez guillen | was present at | pisagua
+juan orlando rojas osega | was present at | pisagua
+alberto amador yanez carvajal | was present at | pisagua
+luis alberto toro castillo | was present at | pisagua
+michel selim nash saez | was present at | campamento – camping las machas
+juan efrain calderon villalon | was present at | campamento – camping las machas
+Juan Jimenez Vidal | was present at | campamento – camping las machas
+julio cesar cabezas gacitua | was present at | carcel publica
+jose cordova croxato | was present at | carcel publica
+Juan Valencia Hinojosa | was present at | carcel publica
+Mario Morris Barrios | was present at | carcel publica
+jose humberto lizardi flores | was present at | carcel publica
+freddy taberna gallegos | was present at | carcel publica
+jose demostenes rosier sampson ocaranza | was present at | carcel publica
+juan antonio ruz diaz | was present at | carcel publica
+rodolfo jacinto fuenzalida fernandez | was present at | carcel publica
+german elidio palominos lamas | was present at | carcel publica
+nelson jose marquez agusto | was present at | campamento de prisioneros de pisagua
+luis alberto lizardi lizardi | was present at | campamento de prisioneros de pisagua
+marcelo omar guzman fuentes | was present at | campamento de prisioneros de pisagua
+nolberto jesus canas | was present at | campamento de prisioneros de pisagua
+michel selim nash saez | was present at | campamento de prisioneros de pisagua
+juan efrain calderon villalon | was present at | campamento de prisioneros de pisagua
+Juan Jimenez Vidal | was present at | campamento de prisioneros de pisagua
+blas espinoza barraza | was present at | iquique
+rodolfo jacinto fuenzalida fernandez | was present at | pisagua
+juan antonio ruz diaz | was present at | pisagua
+jose demostenes rosier sampson ocaranza | was present at | pisagua
+freddy taberna gallegos | was present at | pisagua
+german elidio palominos lamas | was present at | pisagua
+henry torres flores | was present at | iquique
+henry torres flores | was present at | pisagua
+manuel eduardo sanhueza mellado | was present at | pisagua
+hugo tomas martinez guillen | affected by | regimiento de telecomunicaciones
+juan orlando rojas osega | affected by | carabineros de chile
+juan orlando rojas osega | affected by | regimiento de telecomunicaciones
+alberto amador yanez carvajal | affected by | ejercito de chile
+luis alberto toro castillo | affected by | ejercito de chile
+julio cesar cabezas gacitua | member | consejo defensa del estado
+Juan Valencia Hinojosa | member | juventudes comunistas
+Mario Morris Barrios | member | juventudes comunistas
+luis alberto lizardi lizardi | affected by | socialista
+blas espinoza barraza | member | carabineros
+juan antonio ruz diaz | affected by | consejo de guerra
+german elidio palominos lamas | member | partido socialista
+german elidio palominos lamas | member | agp
+alberto amador yanez carvajal | affected by | ejercito
+luis alberto toro castillo | affected by | ejercito
+henry torres flores | affected by | ejercito
+manuel eduardo sanhueza mellado | member | jjcc
+manuel eduardo sanhueza mellado | affected by | ejercito
+marcelino lamas largo | affected by | ejercito
+pedro prado ortiz | affected by | regimiento nº 6 tarapaca
+jorge rogelio marin rossel | member | juventud socialista
+jorge rogelio marin rossel | affected by | ejercito
+jorge rogelio marin rossel | member | empresa portuaria de chile
+william robert millar sanhueza | affected by | ejercito
+william robert millar sanhueza | affected by | ferrocarriles del estado de iquique
+william robert millar sanhueza | member | partido socialista de iquique
+carlos forestier haensgen | chief | vi division de ejercito
+jorge rogelio marin rossel | affected by | regimiento de telecomunicaciones de iquique
+william robert millar sanhueza | affected by | regimiento de telecomunicaciones de iquique
+pedro prado ortiz | affected by | regimiento de telecomunicaciones de iquique
+salome castillo parraga | affected by | regimiento de telecomunicaciones de iquique
+jorge rogelio marin rossel | affected by | comision nacional de verdad y reconciliacion
+william robert millar sanhueza | affected by | comision nacional de verdad y reconciliacion
+nelson jose marquez agusto | affected by | sexta division del ejercito
+hugo dolmestch | member | corte suprema
+carlos kunsemuller | member | corte suprema
+lamberto cisternas | member | corte suprema
+manuel antonio valderrama | member | corte suprema
+jorge dahm | member | corte suprema
+atiliano hernandez hernandez | affected by | estado
+atiliano hernandez hernandez | affected by | carabineros
+erick otto frederich claussen sparenberg | member | servicio de inteligencia de la fuerza aerea
+erick otto frederich claussen sparenberg | member | direccion de inteligencia de la fuerza aerea
+sebastian pinera | chief | gobierno de pinera
+patricio lynch | affected by | comision nacional sobre prision politica y tortura
+gerardo poblete fernandez | member | izquierda cristiana
+fernando astudillo becerra | president | izquierda cristiana
+enrique sironvalles buteler | affected by | carabineros
+atiliano hernandez hernandez | affected by | fisco
+luis alberto lizardi lizardi | affected by | sexta division del ejercito
+marcelo omar guzman fuentes | affected by | sexta division del ejercito
+nolberto jesus canas | affected by | sexta division del ejercito
+ricardo salgado torres | member | izquierda cristiana
+raul silva henriquez | member | congregacion salesiana
+nelson jose marquez agusto | affected by | consejo de guerra
+juan efrain calderon villalon | member | consejo de guerra
+jose rufino cordova croxatto | member | mapu oc
+salvador fidel cautivo ahumada | affected by | carabineros
+amos waka | member | comision de derechos humanos
+julio gaston valenzuela bastias | affected by | policia de investigaciones de arica
+grober hugo venegas islas | affected by | policia de investigaciones de arica
+grober hugo venegas islas | affected by | centro de inteligencia regional
+patricio padilla villar | member | ejercito de chile
+jose luis catalan reyes | member | ejercito de chile
+jose lautaro vignolo quezada | member | ejercito de chile
+rodolfo calderon marin | member | centro de inteligencia regional
+rodrigo olavarria rodriguez | chief | corte de apelaciones de arica
+gustavo erme san martin ravanal | member | carabineros de chile
+enzo claudio meniconi lorca | member | carabineros de chile
+patricio padilla villar | member | ejercito
+jose luis catalan reyes | member | ejercito
+jose lautaro vignolo quezada | member | ejercito
+salvador fidel cautivo ahumada | affected by | comisaria de carabineros oficina victoria
+carlos fresno | member | vicaria de la solidaridad
+juan efrain calderon villalon | member | partido socialista
+nolberto canas canas | member | partido socialista
+michel salim nash saez | member | partido comunista
+juan efrain calderon villalon | affected by | estado
+marcelo omar guzman fuentes | affected by | estado
+luis alberto lizardi lizardi | affected by | estado
+nolberto canas canas | affected by | estado
+Juan Jimenez Vidal | affected by | estado
+michel salim nash saez | affected by | estado
+Miguel Aguirre Alvarez | affected by | estado
+jose luis catalan reyes | member | cire
+patricio padilla villen | chief | cire
+jose lautaro vignolo quezada | member | cire
+grober hugo venegas islas | affected by | ejercito
+georgina del carmen inostroza valencia | affected by | poder judicial
+manuel eduardo sanhueza mellado | affected by | juventudes comunistas
+nelson munoz morales | member | corte de apelaciones de iquique
+hernan sanchez marre | member | corte de apelaciones de iquique
+patricio aylwin | chief | corporacion nacional de reparacion y reconciliacion
+Mario Carroza | member | corte de apelaciones de iquique
+monica olivares | member | corte de apelaciones de iquique
+luis fernando rojas valenzuela | affected by | ejercito de chile
+augusto pinochet ugarte | chief | estado
+gabriel gonzalez videla | affected by | partido comunista
+carlos ibanez del campo | affected by | partido comunista
+yasna provoste campillay | chief | presidencia de la republica
+rodrigo gonzalez lopez | member | presidencia de la republica
+nelson jose marquez agusto | affected by | socialista
+unspecified unspecified | chief | regimiento talca
+gabriel gonzalez videla | affected by | comision de prision politica y tortura
+carlos ibanez del campo | affected by | comision de prision politica y tortura
+ivan paniagua v. | other | municipalidad de huara
+unspecified unspecified | member | estadio nacional
+luis pino soto | affected by | patria y libertad
+luis pino soto | affected by | carabineros
+sebastian pinera | affected by | patria y libertad
+juan alarcon | affected by | ejercito
+jose rufino cordova croxatto | affected by | ejercito
+mario acuna riquelme | member | ejercito
+german hermosilla | member | consejo de defensa del estado
+ricardo izurieta | member | ejercito
+jorge navarrete | affected by | fuerzas armadas
+jorge navarrete | affected by | carabineros
+juana torres | member | corporacion de ex presos politicos de pisagua
+claudio nash | member | universidad de chile
+augusto unspecified | affected by | dina
+jorge rogelio marin rossel | affected by | detention of Jorge Marin
+jorge rogelio marin rossel | affected by | disappearance of Jorge Marin
+william robert millar sanhueza | affected by | detention of William Millar
+william robert millar sanhueza | affected by | detention of William Millar
+salome castillo parraga | affected by | detention of Salome Castillo
+erick otto frederich claussen sparenberg | cause of | detention at los condores
+atiliano hernandez hernandez | affected by | torture of Atiliano Hernandez
+atiliano hernandez hernandez | affected by | supreme court ruling
+hugo dolmestch | cause of | supreme court ruling
+carlos kunsemuller | cause of | supreme court ruling
+lamberto cisternas | cause of | supreme court ruling
+manuel antonio valderrama | cause of | supreme court ruling
+jorge dahm | cause of | supreme court ruling
+erick otto frederich claussen sparenberg | cause of | detention at base los condores
+pilo durana | cause of | church of carmen attack
+blas daniel barraza quinteros | cause of | death of Gerardo Poblete Fernandez
+froilan moncada saez | cause of | death of Gerardo Poblete Fernandez
+gustavo erme san martin ravanal | cause of | death of Gerardo Poblete Fernandez
+enrique sironvalles buteler | affected by | detention of Enrique Sironvalles Buteler
+gerardo poblete fernandez | affected by | death of Gerardo Poblete Fernandez
+atiliano hernandez hernandez | affected by | court ruling on Atiliano Hernandez
+julio cesar cabezas gacitua | affected by | execution of julio c. cabezas
+jose cordova croxato | affected by | execution of jose r. cordova
+Juan Valencia Hinojosa | affected by | execution of juan valencia hinojosa
+Mario Morris Barrios | affected by | execution of mario morris barrios
+jose humberto lizardi flores | affected by | execution of humberto lizardi flores
+freddy taberna gallegos | affected by | execution of freddy taberna gallegos
+jose demostenes rosier sampson ocaranza | affected by | execution of jose sampson ocaranza
+juan antonio ruz diaz | affected by | execution of juan a. ruz diaz
+rodolfo jacinto fuenzalida fernandez | affected by | execution of rodolfo fuenzalida fernandez
+german elidio palominos lamas | affected by | execution of german palominos lamas
+luis higuera | affected by | execution of luis higuera
+nelson jose marquez agusto | affected by | execution of nelson marquez
+luis alberto toro castillo | affected by | execution of luis toro castillo
+alberto amador yanez carvajal | affected by | execution of alberto yanez carvajal
+manuel eduardo sanhueza mellado | affected by | death of manuel sanhueza mellado
+marcelino lamas largo | affected by | execution of marcelino lamas largo
+nelson jose marquez agusto | affected by | execution of Marcelo O. Guzman
+blas espinoza barraza | cause of | death of Gerardo Poblete
+gerardo poblete fernandez | affected by | arrest of gerardo poblete
+ricardo salgado torres | affected by | arrest of gerardo poblete
+gerardo poblete fernandez | affected by | homenaje to gerardo poblete
+nelson jose marquez agusto | affected by | execution of Nelson Marquez
+jose rufino cordova croxatto | affected by | execution of jose r. cordova
+luis higuera | affected by | execution of Luis Higuera
+luis alberto toro castillo | affected by | execution of Luis Toro Castillo
+alberto amador yanez carvajal | affected by | execution of Alberto Yanez Carvajal
+manuel eduardo sanhueza mellado | affected by | death of Manuel Sanhueza Mellado
+marcelino lamas largo | affected by | execution of Marcelino Lamas Largo
+salvador fidel cautivo ahumada | affected by | death of Salvador Fidel Cautivo Ahumada
+amos waka | cause of | death of Salvador Fidel Cautivo Ahumada
+julio gaston valenzuela bastias | affected by | death of Julio Valenzuela
+grober hugo venegas islas | affected by | execution of Grober Venegas
+rodrigo olavarria rodriguez | cause of | report on Grober Venegas case
+patricio padilla villar | cause of | sentencing of ex-military
+jose luis catalan reyes | cause of | sentencing of ex-military
+jose lautaro vignolo quezada | cause of | sentencing of ex-military
+patricio padilla villar | cause of | execution in Valle de Azapa
+jose luis catalan reyes | cause of | execution in Valle de Azapa
+jose lautaro vignolo quezada | cause of | execution in Valle de Azapa
+grober hugo venegas islas | affected by | execution in Valle de Azapa
+rodrigo olavarria rodriguez | cause of | sentencing of ex-military
+grober hugo venegas islas | affected by | detention of grober venegas
+patricio padilla villar | cause of | arica court ruling
+jose luis catalan reyes | cause of | arica court ruling
+jose lautaro vignolo quezada | cause of | arica court ruling
+rodrigo olavarria rodriguez | cause of | arica court ruling
+grober hugo venegas islas | affected by | arrest of Grober Venegas
+rodrigo olavarria rodriguez | cause of | court ruling on Grober Venegas case
+patricio padilla villar | affected by | court ruling on Grober Venegas case
+jose luis catalan reyes | affected by | court ruling on Grober Venegas case
+jose lautaro vignolo quezada | affected by | court ruling on Grober Venegas case
+carlos fresno | cause of | discovery of pisagua fosa
+juan efrain calderon villalon | affected by | execution of juan calderon
+marcelo omar guzman fuentes | affected by | execution of marcelo guzman
+luis alberto lizardi lizardi | affected by | execution of luis lizardi
+nolberto canas canas | affected by | execution of nolberto canas
+Juan Jimenez Vidal | affected by | execution of juan jimenez
+michel salim nash saez | affected by | execution of michel nash
+Miguel Aguirre Alvarez | cause of | sentencing by minister
+grober hugo venegas islas | affected by | sequestration of grober venegas
+georgina del carmen inostroza valencia | cause of | sequestration of grober venegas
+augusto pinochet ugarte | cause of | sequestration of grober venegas
+carlos fresno | cause of | discovery of pisagua mass grave
+manuel eduardo sanhueza mellado | affected by | discovery of pisagua mass grave
+nelson munoz morales | cause of | discovery of pisagua mass grave
+hernan sanchez marre | cause of | discovery of pisagua mass grave
+patricio aylwin | cause of | discovery of pisagua mass grave
+luis fernando rojas valenzuela | affected by | execution of Luis Rojas Valenzuela
+jose humberto lizardi flores | affected by | execution of humberto lizardi
+freddy taberna gallegos | affected by | execution of freddy taberna
+jose demostenes rosier sampson ocaranza | affected by | execution of jose sampson
+juan antonio ruz diaz | affected by | execution of juan ruz
+rodolfo jacinto fuenzalida fernandez | affected by | execution of rodolfo fuenzalida
+german elidio palominos lamas | affected by | execution of german palominos
+luis alberto toro castillo | affected by | execution of luis toro
+alberto amador yanez carvajal | affected by | execution of alberto yanez
+manuel eduardo sanhueza mellado | affected by | death of manuel sanhueza
+marcelino lamas largo | affected by | execution of marcelino lamas
+augusto pinochet ugarte | cause of | golpe civico militar
+gabriel gonzalez videla | cause of | use as prison camp
+carlos ibanez del campo | cause of | use as prison camp
+augusto pinochet ugarte | cause of | use as prison camp
+unspecified unspecified | cause of | detention at villa grimaldi
+felipe rocha p. | affected by | declaration of monument
+ivan paniagua v. | affected by | declaration of monument
+unspecified unspecified | affected by | detention and torture
+luis pino soto | affected by | disappearance of Luis Pino Soto
+pilo durana | cause of | attack at Iglesia del Carmen
+ramon larrain larrain | cause of | execution of prisoners in Pisagua
+juan alarcon | affected by | execution of prisoners in Pisagua
+nolberto jesus canas | affected by | execution of prisoners in Pisagua
+marcelo omar guzman fuentes | affected by | execution of prisoners in Pisagua
+michel selim nash saez | affected by | execution of prisoners in Pisagua
+luis alberto lizardi lizardi | affected by | execution of prisoners in Pisagua
+Juan Jimenez Vidal | affected by | execution of prisoners in Pisagua
+carlos forestier haensgen | cause of | execution of prisoners in Pisagua
+jose rufino cordova croxatto | affected by | execution of prisoners in Pisagua
+jose humberto lizardi flores | affected by | execution of prisoners in Pisagua
+Mario Morris Barrios | affected by | execution of prisoners in Pisagua
+julio cesar cabezas gacitua | affected by | execution of prisoners in Pisagua
+Juan Valencia Hinojosa | affected by | execution of prisoners in Pisagua
+jorge navarrete | affected by | detention of Jorge Navarrete
+alvaro escobar | cause of | detention of Jorge Navarrete
+lalo cabrera | affected by | detention of Jorge Navarrete
+juana torres | affected by | visit to Pisagua
+claudio nash | cause of | visit to Pisagua
+augusto unspecified | affected by | detention in chacabuco
+golpe civico militar | occurs at | pisagua
+declaration as Monumento Nacional | occurs at | pisagua
+use as prison camp | occurs at | pisagua
+use as prison camp | occurs at | pisagua
+use as prison camp | occurs at | pisagua
+disembarkation of pisagua | occurs at | pisagua
+detention and torture | occurs at | fiscalia militar de osorno
+detention and torture | occurs at | escuela de artilleria de linares
+detention and torture | occurs at | comisaria de curanilahue
+application of electricity | occurs at | fiscalia militar de osorno
+detention in pisagua | occurs at | reten de carabineros
+detention in talca | occurs at | regimiento chorrillos de talca
+detention in villa grimaldi | occurs at | villa grimaldi
+detention and torture | occurs at | calle borgono
+detention and torture | occurs at | fuerte muller de infanteria de marina de las salinas
+detention and torture | occurs at | primera comisaria de carabineros de calama
+detention of man | occurs at | primera comisaria de carabineros de calama
+detention of woman | occurs at | villa grimaldi
+detention of man | occurs at | comisaria de puerto aysen
+detention of man | occurs at | estadio fiscal de punta arenas
+detention at villa grimaldi | occurs at | villa grimaldi
+declaration of monument | occurs at | escuela
+declaration of monument | occurs at | multicancha deportiva
+declaration of monument | occurs at | fosa
+discovery of bodies | occurs at | fosa
+detention and torture | occurs at | estadio nacional
+detention and torture | occurs at | regimiento arica
+detention and torture | occurs at | recinto de la dina de la ex iglesia divina providencia
+detention in villa grimaldi | occurs at | villa grimaldi
+detention in tejas verdes | occurs at | regimiento de ingenieros de tejas verdes
+disappearance of Luis Pino Soto | occurs at | arica
+attack at Iglesia del Carmen | occurs at | arica
+declaration of monument | occurs at | pisagua
+detention in july 1980 | occurs at | cuartel borgono
+disappearance of luis pino soto | occurs at | arica
+execution of prisoners in Pisagua | occurs at | pisagua
+execution of prisoners in Pisagua | occurs at | pisagua
+illegal burial revelation in Valdivia | occurs at | valdivia
+discovery of clandestine grave in Calama | occurs at | calama
+discovery of anonymous grave in Copiapo | occurs at | copiapo
+discovery of bodies in Cerro Mutrun | occurs at | mutrun
+discovery of bodies in Cementerio La Playa | occurs at | constitucion
+discovery of bodies in Calama | occurs at | calama
+discovery of dynamited bodies in Tocopilla | occurs at | tocopilla
+detention of Jorge Navarrete | occurs at | pisagua
+visit to Pisagua | occurs at | pisagua
+detentions in Iquique | occurs at | calle wilson n° 281
+detentions in Iquique | occurs at | calle wilson n° 281
+state of emergency in arica | occurs at | regimiento motorizado reforzado nº 4 “rancagua” de arica
+disappearance of Luis Pino Soto | occurs at | cuartel de investigaciones
+detention in chacabuco | occurs at | campo de prisioneros chacabuco
+detention in villa grimaldi | occurs at | villa grimaldi
+detention in la providencia | occurs at | ex iglesia la providencia
+detention in collipulli | occurs at | comisaria de collipulli
+detention in silva palma | occurs at | cuartel silva palma de la armada
+detention in villa grimaldi | occurs at | cuartel de la dina en villa grimaldi
+cni | cause of | disappearance of luis pino soto
+patria y libertad | cause of | church of carmen attack
+udi | cause of | church of carmen attack
+gobierno de pinera | unspecified | decree of law n°4
+la izquierda diario | cause of | detentions in Arica
+la izquierda diario | cause of | detentions in Arica
+la izquierda diario | cause of | detentions in Arica
+comision nacional sobre prision politica y tortura | affected by | report by Comision Nacional
+carabineros | cause of | death of Gerardo Poblete Fernandez
+carabineros | cause of | detention of Enrique Sironvalles Buteler
+carabineros | cause of | detention of priest and seminarian
+fisco | affected by | court ruling on Atiliano Hernandez
+izquierda cristiana | unspecified | death of Gerardo Poblete Fernandez
+consejo defensa del estado | affected by | execution of julio c. cabezas
+mapu oc | affected by | execution of jose r. cordova
+mir | affected by | execution of humberto lizardi flores
+socialista | affected by | execution of freddy taberna gallegos
+socialista | affected by | execution of jose sampson ocaranza
+socialista | affected by | execution of juan a. ruz diaz
+socialista | affected by | execution of rodolfo fuenzalida fernandez
+socialista | affected by | execution of german palominos lamas
+sexta division del ejercito | cause of | execution of Luis A. Lizardi
+sexta division del ejercito | cause of | execution of Marcelo O. Guzman
+carabineros | cause of | arrest of gerardo poblete
+izquierda cristiana | unspecified | homenaje to gerardo poblete
+congregacion salesiana | affected by | arrest of gerardo poblete
+comunista | affected by | execution of juan valencia hinojosa
+comunista | affected by | execution of mario morris barrios
+consejo de guerra | cause of | execution of julio c. cabezas
+consejo de guerra | cause of | execution of jose r. cordova
+consejo de guerra | cause of | execution of juan valencia hinojosa
+consejo de guerra | cause of | execution of mario morris barrios
+consejo de guerra | cause of | execution of humberto lizardi flores
+consejo de guerra | cause of | execution of freddy taberna gallegos
+consejo de guerra | cause of | execution of jose sampson ocaranza
+consejo de guerra | cause of | execution of juan a. ruz diaz
+consejo de guerra | cause of | execution of rodolfo fuenzalida fernandez
+consejo de guerra | cause of | execution of german palominos lamas
+carabineros | cause of | death of Salvador Fidel Cautivo Ahumada
+policia de investigaciones de arica | affected by | death of Julio Valenzuela
+centro de inteligencia regional | cause of | execution of Grober Venegas
+ejercito de chile | cause of | execution of Grober Venegas
+policia de investigaciones de arica | affected by | execution of Grober Venegas
+ejercito de chile | affected by | report on Grober Venegas case
+ejercito de chile | affected by | sentencing of ex-military
+centro de inteligencia regional | cause of | execution in Valle de Azapa
+policia de investigaciones de arica | unspecified | execution in Valle de Azapa
+ejercito de chile | cause of | detention of grober venegas
+policia de investigaciones de chile | cause of | detention of grober venegas
+corte de apelaciones de arica | affected by | arica court ruling
+ejercito | affected by | court ruling on Grober Venegas case
+campo de prisioneros de pisagua | affected by | discovery of pisagua fosa
+partido socialista | affected by | execution of juan calderon
+partido socialista | affected by | execution of marcelo guzman
+partido socialista | affected by | execution of luis lizardi
+partido socialista | affected by | execution of nolberto canas
+partido comunista | affected by | execution of michel nash
+estado | cause of | execution of juan calderon
+estado | cause of | execution of marcelo guzman
+estado | cause of | execution of luis lizardi
+estado | cause of | execution of nolberto canas
+estado | cause of | execution of juan jimenez
+estado | cause of | execution of michel nash
+regimiento de telecomunicaciones | cause of | execution of marcelo guzman
+regimiento de telecomunicaciones | cause of | execution of luis lizardi
+regimiento de telecomunicaciones | cause of | execution of nolberto canas
+comision valech | cause of | detention of political prisoners
+comision valech | cause of | increase in detainees
+comision valech | cause of | transfer of female prisoners
+servicio de inteligencia militar | affected by | sequestration of grober venegas
+ejercito | affected by | sequestration of grober venegas
+centros de inteligencia regional | affected by | sequestration of grober venegas
+policia de investigaciones de arica | affected by | sequestration of grober venegas
+comision nacional de verdad y reconciliacion | cause of | sequestration of grober venegas
+ejercito de chile | cause of | discovery of pisagua mass grave
+vicaria de la solidaridad | affected by | discovery of pisagua mass grave
+servicio medico legal | affected by | discovery of pisagua mass grave
+corte de apelaciones de iquique | affected by | discovery of pisagua mass grave
+corporacion nacional de reparacion y reconciliacion | affected by | discovery of pisagua mass grave
+comision rettig | affected by | execution of Luis Rojas Valenzuela
+partido socialista | affected by | execution of Juan Calderon Villalon
+partido comunista | affected by | execution of humberto lizardi
+mir | affected by | execution of freddy taberna
+partido socialista | affected by | execution of jose sampson
+partido socialista | affected by | execution of juan ruz
+partido socialista | affected by | execution of rodolfo fuenzalida
+partido socialista | affected by | execution of german palominos
+comision valech | affected by | state of emergency in arica
+dictadura | cause of | state of emergency in arica
+dina | cause of | detention and torture
+cni | cause of | detention and torture
+organizaciones de derechos humanos | affected by | golpe civico militar
+corporacion de derechos humanos y sitios de la memoria de tarapaca | cause of | declaration as Monumento Nacional
+estado | cause of | declaration as Monumento Nacional
+partido comunista | cause of | use as prison camp
+partido comunista | cause of | use as prison camp
+presidencia de la republica | cause of | use as prison camp
+fiscalia militar de osorno | affected by | detention and torture
+escuela de artilleria de linares | affected by | detention and torture
+comisaria de curanilahue | affected by | detention and torture
+dina | cause of | application of electricity
+carabineros | cause of | detention in pisagua
+regimiento chorrillos | cause of | detention in talca
+dina | cause of | detention in villa grimaldi
+cni | cause of | detention and torture
+infanteria de marina | cause of | detention and torture
+carabineros | cause of | detention and torture
+carabineros de chile | cause of | detention of man
+dina | cause of | detention of woman
+carabineros de chile | cause of | detention of man
+carabineros de chile | cause of | detention of man
+comision | unspecified | detention of man
+comision | unspecified | detention of man
+dina | cause of | detention at villa grimaldi
+regimiento talca | unspecified | detention at villa grimaldi
+ministerio de educacion | cause of | declaration of monument
+comision nacional de verdad y reconciliacion | affected by | discovery of bodies
+consejo de monumentos nacionales | cause of | declaration of monument
+comision chilena de dd.hh. capitulo iquique | cause of | declaration of monument
+municipalidad de huara | cause of | declaration of monument
+estadio nacional | affected by | detention and torture
+regimiento arica | affected by | detention and torture
+dina | affected by | detention and torture
+cruz roja internacional | affected by | detention in villa grimaldi
+cuartel de la dina | cause of | detention in villa grimaldi
+regimiento de ingenieros de tejas verdes | cause of | detention in tejas verdes
+comision | affected by | detention in villa grimaldi
+comision | affected by | detention in tejas verdes
+patria y libertad | cause of | attack at Iglesia del Carmen
+dina | cause of | disappearance of Luis Pino Soto
+cni | cause of | disappearance of Luis Pino Soto
+carabineros | cause of | disappearance of Luis Pino Soto
+cuartel borgono | cause of | detention in july 1980
+comision | affected by | detention in november 1973
+dina | affected by | disappearance of luis pino soto
+ejercito | cause of | execution of prisoners in Pisagua
+ejercito | cause of | execution of prisoners in Pisagua
+comision de verdad y reconciliacion | affected by | execution of prisoners in Pisagua
+comision de verdad y reconciliacion | affected by | execution of prisoners in Pisagua
+ejercito | affected by | illegal burial revelation in Valdivia
+ejercito | affected by | discovery of clandestine grave in Calama
+ejercito | affected by | discovery of anonymous grave in Copiapo
+ejercito | affected by | discovery of bodies in Cerro Mutrun
+ejercito | affected by | discovery of bodies in Cementerio La Playa
+ejercito | affected by | discovery of bodies in Calama
+ejercito | affected by | discovery of dynamited bodies in Tocopilla
+fuerzas armadas y carabineros | cause of | execution of prisoners in Pisagua
+fuerzas armadas y carabineros | cause of | execution of prisoners in Pisagua
+consejo de defensa del estado | cause of | execution of prisoners in Pisagua
+iglesia de valdivia | cause of | illegal burial revelation in Valdivia
+fuerzas armadas | cause of | detention of Jorge Navarrete
+carabineros | cause of | detention of Jorge Navarrete
+universidad de chile | unspecified | visit to Pisagua
+universidad arturo prat | unspecified | visit to Pisagua
+municipio local | unspecified | visit to Pisagua
+corporacion de ex presos politicos de pisagua | unspecified | visit to Pisagua
+cni | cause of | detentions in Iquique
+cni | cause of | detentions in Iquique
+dina | cause of | state of emergency in arica
+regimiento motorizado reforzado nº 4 rancagua | cause of | state of emergency in arica
+comision nacional sobre prision politica y tortura | cause of | disappearance of Luis Pino Soto
+dina | cause of | detention in villa grimaldi
+dina | cause of | detention in villa grimaldi
+armada | cause of | detention in silva palma
+cruz roja internacional | affected by | detention in silva palma
+marcelino lamas largo | was present at | iquique
+pedro prado ortiz | was present at | cementerio 3
+jorge rogelio marin rossel | was present at | cementerio 3
+william robert millar sanhueza | was present at | cementerio 3
+jorge rogelio marin rossel | was present at | alto hospicio
+jorge rogelio marin rossel | was present at | iquique
+william robert millar sanhueza | was present at | iquique
+pedro prado ortiz | was present at | cementerio n° 3 de iquique
+salome castillo parraga | was present at | alto hospicio
+erick otto frederich claussen sparenberg | was present at | base aerea los condores
+nelson jose marquez agusto | was present at | campamento de prisioneros de pisagua
+atiliano hernandez hernandez | was present at | comisaria de carabineros no 3 de arica
+luis pino soto | was present at | calle azola
+pilo durana | was present at | iglesia del carmen
+patricio lynch | was present at | carcel publica de arica
+enrique sironvalles buteler | was present at | comisaria de carabineros no1 de iquique
+gerardo poblete fernandez | was present at | comisaria de carabineros no1 de iquique
+atiliano hernandez hernandez | was present at | comisaria de carabineros no1 de arica
+jose cordova croxato | was present at | iquique
+juan antonio ruz diaz | was present at | iquique
+rodolfo jacinto fuenzalida fernandez | was present at | iquique
+michel selim nash saez | was present at | carcel buen pastor
+Juan Valencia Hinojosa | was present at | carcel publica de arica
+gerardo poblete fernandez | was present at | comisaria
+blas espinoza barraza | was present at | penal de punta peuco
+froilan moncada saez | was present at | centro penitenciario de alto hospicio
+gerardo poblete fernandez | was present at | plaza brasil
+nelson jose marquez agusto | was present at | pisagua
+jose rufino cordova croxatto | was present at | pisagua
+salvador fidel cautivo ahumada | was present at | tucapel
+grober hugo venegas islas | was present at | arica
+grober hugo venegas islas | was present at | avenida diego portales
+patricio padilla villar | was present at | valle de azapa
+jose luis catalan reyes | was present at | valle de azapa
+jose lautaro vignolo quezada | was present at | valle de azapa
+grober hugo venegas islas | was present at | avda. diego portales
+gerardo poblete fernandez | was present at | bernardo o'higgins 427
+gabriel gonzalez videla | was present at | pisagua
+carlos ibanez del campo | was present at | pisagua
+salvador fidel cautivo ahumada | was present at | oficina salitrera victoria
+carlos fresno | was present at | iquique
+carlos fresno | was present at | pisagua
+juan efrain calderon villalon | was present at | valparaiso
+marcelo omar guzman fuentes | was present at | iquique
+nolberto canas canas | was present at | iquique
+nolberto canas canas | was present at | pisagua
+Juan Jimenez Vidal | was present at | valparaiso
+michel salim nash saez | was present at | iquique
+michel salim nash saez | was present at | pisagua
+jose luis catalan reyes | was present at | regimiento rancagua
+jose luis catalan reyes | was present at | valdivia
+jose luis catalan reyes | was present at | quillota
+manuel eduardo sanhueza mellado | was present at | pisagua
+nelson munoz morales | was present at | pozo almonte
+hernan sanchez marre | was present at | iquique
+patricio aylwin | was present at | iquique
+Mario Carroza | was present at | iquique
+monica olivares | was present at | iquique
+isaias higueras zuniga | was present at | iquique
+blas barraza quintero | was present at | iquique
+Miguel Aguirre Alvarez | was present at | iquique
+adil brkovic | was present at | iquique
+luis fernando rojas valenzuela | was present at | iquique
+jose humberto lizardi flores | was present at | carcel buen pastor
+augusto pinochet ugarte | was present at | pisagua
+felipe rocha p. | was present at | huara
+belen rojas silva | was present at | pisagua
+yasna provoste campillay | was present at | pisagua
+rodrigo gonzalez lopez | was present at | pisagua
+anyelina rojas | was present at | pisagua
+gabriel gonzalez videla | was present at | pisagua
+carlos ibanez del campo | was present at | pisagua
+augusto pinochet ugarte | was present at | pisagua
+jose cordova croxato | was present at | pisagua
+unspecified unspecified | was present at | villa grimaldi
+gabriel gonzalez videla | was present at | puerto de pisagua
+carlos ibanez del campo | was present at | puerto de pisagua
+felipe rocha p. | was present at | puerto de pisagua
+ivan paniagua v. | was present at | puerto de pisagua
+unspecified unspecified | was present at | estadio nacional
+luis pino soto | was present at | arica
+pilo durana | was present at | arica
+francisco prieto enriquez | was present at | pisagua
+carlos forestier haensgen | was present at | pisagua
+mario acuna riquelme | was present at | iquique
+german hermosilla | was present at | san bernardo
+augusto pinochet ugarte | was present at | santiago
+ricardo izurieta | was present at | santiago
+jorge navarrete | was present at | pisagua
+juana torres | was present at | pisagua
+claudio nash | was present at | pisagua
+luis pino soto | was present at | regimiento motorizado reforzado nº 4 “rancagua” de arica
+augusto unspecified | was present at | campo de prisioneros chacabuco

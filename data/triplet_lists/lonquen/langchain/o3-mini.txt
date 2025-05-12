@@ -1,0 +1,107 @@
+Tenencia De Carabineros, Isla De Maipo | OCCURSAT | Manuel Rodríguez 988, Isla De Maipo
+Tenencia De Carabineros, Isla De Maipo | ISCONTAINEDIN | Región Metropolitana
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Carabineros
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Marcelo Iván Castro Mendoza
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | David Coliqueo Peralta
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Pablo Ñancupil Raquileo
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Justo Romo Peralta
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Félix Sagredo Aravena
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Jacinto Torres González
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Juan José Villegas Navarro
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Lautaro Eugenio Castro Mendoza
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Comisaría De Buin
+Tenencia De Carabineros, Isla De Maipo | ISRELATEDTO | Retén De Viluco
+Caso De Lonquen | OCCURSAT | Hornos De Lonquén
+Hornos De Lonquén | ISCONTAINEDIN | El Triunfador
+Caso De Lonquen | WASPRESENTAT | Corte Suprema
+Caso De Lonquen | ISRELATEDTO | Instituto Médico Legal
+Caso De Lonquen | WASPRESENTAT | Corte Marcial
+Caso De Lonquen | ISRELATEDTO | Fiscal Militar Gonzalo Salazar
+Caso De Lonquen | ISRELATEDTO | Adolfo Bañados Cuadra
+Vicaría De La Solidaridad | ISRELATEDTO | Comisión De Lonquén
+Empresa Metropolitana De Residuos Sólidos | ISRELATEDTO | Fundo Lonquén
+Caso Hornos De Lonquén | OCCURSAT | Fundo Lonquén
+Emeres | ISRELATEDTO | Fundo Lonquén
+Carabineros De Chile | ISRELATEDTO | Detención De 15 Personas En Isla De Maipo (7 Octubre 1973)
+Vicaría De La Solidaridad | ISRELATEDTO | Caso Hornos De Lonquén
+Corte Suprema | ISRELATEDTO | Caso Hornos De Lonquén
+Corte De Apelaciones De San Miguel | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Cristián Precht | ISPARTOF | Vicaría De La Solidaridad
+Enrique Alvear | ISPARTOF | Vicaría De La Solidaridad
+Javier Egaña | ISPARTOF | Vicaría De La Solidaridad
+Alejandro González | ISPARTOF | Vicaría De La Solidaridad
+Máximo Pacheco | ISPARTOF | Vicaría De La Solidaridad
+Jaime Martínez | ISPARTOF | Vicaría De La Solidaridad
+Abraham Santibáñez | ISPARTOF | Vicaría De La Solidaridad
+Gonzalo Aguirre | ISPARTOF | Vicaría De La Solidaridad
+Luis Navarro | ISPARTOF | Vicaría De La Solidaridad
+José Auth | ISPARTOF | Partido Por La Democracia
+Lautaro Eugenio Castro Mendoza | ISPARTOF | Carabineros De Chile
+Juan J. Villegas Navarro | ISPARTOF | Carabineros De Chile
+Félix Sagredo Aravena | ISPARTOF | Carabineros De Chile
+Manuel Muñoz Rencoret | ISPARTOF | Carabineros De Chile
+Jacinto R. Torres González | ISPARTOF | Carabineros De Chile
+David Coliqueo Fuentealba | ISPARTOF | Carabineros De Chile
+José Belmar Sepúlveda | ISPARTOF | Carabineros De Chile
+Justo Romo Peralta | ISPARTOF | Carabineros De Chile
+Pablo Ñancupil Raquileo | ISPARTOF | Carabineros De Chile
+Marianela Cifuentes Alarcón | ISPARTOF | Corte De Apelaciones De San Miguel
+Adolfo Bañados Cuadra | ISPARTOF | Corte De Apelaciones De Santiago
+Israel Bórquez | ISPARTOF | Corte Suprema
+Juana Godoy | ISPARTOF | Corte Suprema
+Detención De 15 Personas En Isla De Maipo (7 Octubre 1973) | OCCURSAT | Isla De Maipo
+Dinamitación De Hornos En Lonquén (Marzo 1980) | OCCURSAT | Fundo Lonquén
+Sergio Fernández | ISRELATEDTO | Caso Hornos De Lonquén
+Purísima Muñoz | ISRELATEDTO | Caso Hornos De Lonquén
+Sergio Maureira Lillo | ISRELATEDTO | Caso Hornos De Lonquén
+Adriana Sottovia | ISRELATEDTO | Caso Hornos De Lonquén
+Marianela Cifuentes Alarcón | ISRELATEDTO | Caso Hornos De Lonquén
+Enrique Astudillo Álvarez | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Omar Astudillo Rojas | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Ramón Astudillo Rojas | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Miguel Brant Benavente | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Carlos Hernández Flores | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Nelson Hernández Flores | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Óscar Hernández Flores | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+José Manuel Herrera Villegas | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+José Manuel Maureira Muñoz | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Rodolfo Maureira Muñoz | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Segundo Maureira Muñoz | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Sergio Maureira Muñoz | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Manuel Navarro Salinas | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+Iván Ordoñez Lama | ISRELATEDTO | Sentencia Hornos De Lonquén (9 Septiembre 2016)
+David Coliqueo Fuentealba | ISRELATEDTO | Caso Hornos De Lonquén
+Justo Ignacio Romo Peralta | ISRELATEDTO | Caso Hornos De Lonquén
+Félix Héctor Sagredo Aravena | ISRELATEDTO | Caso Hornos De Lonquén
+Jacinto Torres González | ISRELATEDTO | Caso Hornos De Lonquén
+Juan José Villegas Navarro | ISRELATEDTO | Caso Hornos De Lonquén
+Pablo Ñancupil Raguileo | ISRELATEDTO | Caso Hornos De Lonquén
+David Coliqueo Fuentealba | ISPARTOF | Carabineros De Chile
+Justo Ignacio Romo Peralta | ISPARTOF | Carabineros De Chile
+Félix Héctor Sagredo Aravena | ISPARTOF | Carabineros De Chile
+Jacinto Torres González | ISPARTOF | Carabineros De Chile
+Juan José Villegas Navarro | ISPARTOF | Carabineros De Chile
+Pablo Ñancupil Raguileo | ISPARTOF | Carabineros De Chile
+José Belmar Sepúlveda | ISPARTOF | Carabineros De Chile
+Manuel Muñoz Rencoret | ISPARTOF | Carabineros De Chile
+Caso Hornos De Lonquén | OCCURSAT | Lonquén
+Hornos De Lonquén | ISCONTAINEDIN | Lonquén
+Lautaro Castro Mendoza | WASPRESENTAT | Lonquén
+Corte Suprema | ISRELATEDTO | Caso Hornos De Lonquén
+Fisco | ISRELATEDTO | Caso Hornos De Lonquén
+Vicaría De La Solidaridad | ISRELATEDTO | Caso Hornos De Lonquén
+Revista Hoy | ISRELATEDTO | Caso Hornos De Lonquén
+Tenencia De Isla De Maipo | ISCONTAINEDIN | Isla De Maipo
+Homenaje A Las 15 Víctimas | OCCURSAT | Sitio De Memoria Lonquén
+Homenaje A Las 15 Víctimas | ISRELATEDTO | Masacre En Los Hornos De Lonquén
+Carabineros De La Tenencia De Isla De Maipo | ISRELATEDTO | Masacre En Los Hornos De Lonquén
+Corporación Memoria Lonquén | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Luis Navarro | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Luis Navarro | ISRELATEDTO | Vicaria De La Solidaridad
+Marisela Santibáñez | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Lorena Pizarro | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Haydee Oberreuter | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Orquesta De Instrumentos Autóctonos Y Nuevas Tecnología Oiant De Argentina | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Carlos Maureira Hijo | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Carlos Contreras | WASPRESENTAT | Homenaje A Las 15 Víctimas
+Homenaje A Las 15 Víctimas | ISCONTAINEDIN | Santiago
