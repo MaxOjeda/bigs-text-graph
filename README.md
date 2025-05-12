@@ -7,7 +7,7 @@
 # clone repo
 git clone <repo-url> bigs && cd bigs
 
-# create environment (uses uv, feel free to substitute)
+# create environment
 curl -LsSf https://astral.sh/uv/install.sh | sh        # one-off
 uv venv
 uv pip install -r requirements.txt
