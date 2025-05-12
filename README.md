@@ -3,21 +3,49 @@
 
 ## 1 · Quick start
 
+### Linux / macOS
+
 ```Bash
-# clone repo
-git clone <repo-url> bigs && cd bigs
+# 1️⃣ Clone the repo and enter it
+git clone <repo-url> bigs
+cd bigs
 
-# create environment
-curl -LsSf https://astral.sh/uv/install.sh | sh        # one-off
-uv venv
-uv pip install -r requirements.txt
+# 2️⃣ Create a venv and activate it
+python3 -m venv .venv
+source .venv/bin/activate
 
-# add OpenAI key
+# 3️⃣ Install Python dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
+
+# 4️⃣ Export your OpenAI API key
 export OPENAI_API_KEY="sk-..."
 
-# run the full metric grid (≈ 15 min CPU)
+# 5️⃣ Run the full metric grid (≈ 15 min on GPU, longer on CPU)
 python run_bigs_experiments.py
 ```
+
+### Windows (Powershell)
+```Bash
+# 1️⃣ Clone the repo and enter it
+git clone <repo-url> bigs
+cd bigs
+
+# 2️⃣ Create a venv and activate it
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+
+# 3️⃣ Install dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
+
+# 4️⃣ Set your OpenAI API key
+setx OPENAI_API_KEY "sk-..."
+
+# 5️⃣ Run the experiments
+python run_bigs_experiments.py
+```
+
 ## 2 · Project Structure (1-Depth)
 ```Bash
 .
@@ -45,17 +73,27 @@ python run_bigs_experiments.py
 └── README.md
 ```
 
+
+### Dataset notation in the manuscript
+
+| Collection    |  Folder name | Manuscript symbols       |
+| ------------- | ------------------ | ------------------- |
+| Lonquen       | `lonquen`          | \$Text\_A\$, \$G\_A\$ |
+| 20\_docs      | `20_docs`          | \$Text\_B\$, \$G\_B\$ |
+| San Gregorio  | `san_gregorio`     | \$Text\_C\$, \$G\_C\$ |
+
+
 ## 3 · Re-create experiments
 ```Bash
-# 1) textualise graphs (triple level) — example for lonquen
+# 1) textualize graphs (triple level) — example for lonquen
 python graph_textualization.py --case lonquen \
        --folders original langchain original_res
 
-# 2) textualise neighbour level
+# 2) textualize neighbour level
 python graph_neighbor_textualization.py --case lonquen \
        --folders neighbors/langchain neighbors/original neighbors/original_res
 
-# 3) textualise benchmarks
+# 3) textualize benchmarks
 python benchmarks_textualization.py --bench webwiki --split test
 python benchmarks_textualization.py --bench webnlg  --split train
 
