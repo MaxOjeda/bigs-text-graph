@@ -92,7 +92,7 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser("BIGS scorer for Text2KGBench")
     parser.add_argument("--model_name", default="all-mpnet-base-v2", help="Sentence-BERT model.")
-    parser.add_argument("--bench_name", default="wiki", choices=["wiki", "webnlg"])
+    parser.add_argument("--bench_name", default="webwiki", choices=["webwiki", "webnlg"])
     parser.add_argument("--split_type", default="test", help="Dataset split (e.g. train/valid/test).")
     parser.add_argument("--split", default="sentences", choices=["sentences", "chunks"])
     parser.add_argument("--batch_size", type=int, default=32)
