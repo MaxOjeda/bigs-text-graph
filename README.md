@@ -94,8 +94,8 @@ python graph_neighbor_textualization.py --case lonquen \
        --folders neighbors/langchain neighbors/original neighbors/original_res
 
 # 3) textualize benchmarks
-python benchmarks_textualization.py --bench webwiki --split test
-python benchmarks_textualization.py --bench webnlg  --split train
+python graph_to_texts/benchmarks_textualization.py --bench webwiki --split test
+python graph_to_texts/benchmarks_textualization.py --bench webnlg  --split train
 
 # 4) compute BIGS on our corpora
 python run_bigs_experiments.py
